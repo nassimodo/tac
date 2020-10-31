@@ -13,12 +13,17 @@ def get_rows():
     """Retrieve results from SPARQL"""
     endpoint = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
     sparql = SPARQLWrapper(endpoint)
-
+    #policitians from Belgium who work in Brussels, speak french
     statement = """
-    SELECT DISTINCT ?person ?personLabel ?dateBirth ?dateDeath WHERE {
-        ?person wdt:P27 wd:Q31 .
-        ?person wdt:P106 wd:Q82955 .
-        ?person wdt:P569 ?dateBirth .
+    SELECT DISTINCT ?personLabel ?genderLabel ?functionLabel ?ppartyLabel ?language ?residence ?residenceLabel ?dateBirth ?dateDeath  WHERE {
+        ?person wdt:P27 wd:Q31.
+        ?person wdt:P21 ?gender.
+        ?person wdt:P106 wd:Q82955.
+        ?person wdt:P39 ?function.
+        ?person wdt:P102 ?pparty.
+        ?person wdt:P1412 wd:Q150.
+        ?person wdt:P569 ?dateBirth.
+        ?person wdt:P937 wd:Q239.
         OPTIONAL {?person wdt:P570 ?dateDeath .}
         SERVICE wikibase:label { bd:serviceParam wikibase:language "en" . }
     }

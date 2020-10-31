@@ -47,7 +47,8 @@ def check(urls):
     print(f"{ok_count} PDFs found on {len(urls)}!")
 
 if __name__ == "__main__":
-    all_urls = get_urls()
+    all_urls = get_urls()[:100]
+    #print(all_urls)
     try:
         task = sys.argv[1]
     except IndexError:
