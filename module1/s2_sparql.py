@@ -15,7 +15,7 @@ def get_rows():
     sparql = SPARQLWrapper(endpoint)
     #policitians from Belgium who work in Brussels, speak french
     statement = """
-    SELECT DISTINCT ?personLabel ?genderLabel ?functionLabel ?ppartyLabel ?language ?residence ?residenceLabel ?dateBirth ?dateDeath  WHERE {
+    SELECT DISTINCT ?personLabel ?genderLabel ?functionLabel ?ppartyLabel ?language ?residenceLabel ?dateBirth ?dateDeath  WHERE {
         ?person wdt:P27 wd:Q31.
         ?person wdt:P21 ?gender.
         ?person wdt:P106 wd:Q82955.
@@ -45,6 +45,11 @@ def show(rows, name_filter=None, n=10):
         rows = [row for row in rows if name_filter in row['personLabel']['value'].lower()]
     print(f"Displaying the first {n}:\n")
     for row in rows[:n]:
+        gender = row['genderLabel']['value']
+        function = row['functionLabel']['value']
+        politicalparty = row['ppartyLabel']['value']
+        language = row['language']['value']
+        #residence = row['residenceLabel']['value']
         try:
             birth_date = dt.strptime(row['dateBirth']['value'], date_format)
             birth_year = birth_date.year
@@ -57,7 +62,7 @@ def show(rows, name_filter=None, n=10):
             death_year = "????"
         except KeyError: # still alive
             death_year = ""
-        print(f"{row['personLabel']['value']} ({birth_year}-{death_year})")
+        print(f"{row['personLabel']['value']}-{gender} ({function}-{politicalparty}) ({birth_year}-{death_year})")
 
 if __name__ == "__main__":
     args = parser.parse_args()
