@@ -12,7 +12,7 @@ def get_urls():
     """Retrieve all URLs from root AVB page"""
     root_url = "https://archives.bruxelles.be/bulletins/date"
     resp = requests.get(root_url)
-    print(f"Status: {resp.status_code}")
+    print(f"Staus: {resp.status_code}")
     print(f"Encoding: {resp.encoding}")
     html = resp.text
     print(f"Text length: {len(html)}")
