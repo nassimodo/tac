@@ -30,8 +30,8 @@ def download(urls, offset=0):
         start_time = time.time()
         response = requests.get(url)
         print(f"   done in {(time.time() - start_time):.1f} seconds")
-        Path("data/pdf").mkdir(parents=True, exist_ok=True)
-        with open(f"data/pdf/{filename}", 'wb') as f:
+        Path("../data/pdf").mkdir(parents=True, exist_ok=True)
+        with open(f"../data/pdf/{filename}", 'wb') as f:
             f.write(response.content)
 
 def check(urls):
@@ -39,7 +39,7 @@ def check(urls):
     ok_count = 0
     for url in urls:
         filename = url.split("/")[-1]
-        downloads = os.listdir('data/pdf')
+        downloads = os.listdir('../data/pdf')
         if filename not in downloads:
             print(f"{filename} is missing!")
         else:

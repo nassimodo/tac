@@ -1,0 +1,17659 @@
+Tableau indiquant par mois les incendies auxquels
+
+les pompiers
+
+PAR L E S POMPIERS
+
+au m o y e n de l e u r matériel.
+
+MOIS.
+ordinaires
+
+graves.
+
+TOTAL.
+
+2 if
+
+c —
+
+c =
+
+C —
+
+s
+
+SB »
+
+Janvier
+
+5
+
+)>
+
+Février
+
+2
+
+))
+
+1
+
+))
+
+d
+
+Mars
+
+3
+
+»
+
+»
+
+))
+
+Avril
+
+5
+
+))
+
+Mai.
+
+2
+
+Juin
+
+1
+
+Juillet
+
+2
+
+Août
+
+ETEINTS
+
+par les p o m p i e r s
+au m o y e n
+de leur
+matériel.
+
+TOTAL.
+
+par les
+
+sans
+
+S s
+
+E«
+c —
+
+c
+
+c
+
+o—
+
+s ?
+
+>
+
+o —
+
+O
+
+C
+
+û5
+
+1
+
+14
+
+))
+
+l
+
+2
+
+»
+
+»
+
+0
+
+5
+
+))
+
+13
+
+u
+
+14
+
+))
+
+2
+
+1
+
+))
+
+17
+
+3
+
+))
+
+9
+
+4
+
+1
+
+16
+
+2
+
+17
+
+1
+
+1
+
+1
+
+))
+
+»
+
+5
+
+»
+
+5
+
+4
+
+1
+
+14
+
+2
+
+12
+
+))
+
+»
+
+1
+
+1
+
+))
+
+3
+
+1
+
+4
+
+8
+
+))
+
+15
+
+1
+
+10
+
+))
+
+1
+
+))
+
+1
+
+1
+
+1
+
+2
+
+7
+
+»
+
+10
+
+1
+
+7
+
+»
+
+»
+
+))
+
+1
+
+2
+
+1
+
+4
+
+5
+
+))
+
+11
+
+l
+
+11
+
+2
+
+))
+
+))
+
+))
+
+2
+
+))
+
+3
+
+3
+
+1
+
+8
+
+1
+
+Septembre
+
+3
+
+))
+
+))
+
+2
+
+3
+
+3
+
+9
+
+»
+
+15
+
+Octobre
+
+.
+
+3
+
+))
+
+1
+
+»
+
+4
+
+2
+
+4
+
+))
+
+10
+
+Novembre
+
+2
+
+))
+
+1
+
+4
+
+8
+
+))
+
+15
+
+7
+
+Décembre.
+
+_£
+
+))
+
+_L2_
+
+_9
+
+))
+
+27
+
+23
+
+62
+
+77
+
+3
+
+179
+
+_6
+40
+
+34
+35
+
+10
+
+>•>
+15
+
+66
+
+do r é q u i sitions.
+
+80
+
+191
+
+a
+
+M
+
+Ca3
+
+25
+
+2
+
+alertes.
+
+es
+
+c —
+
+))
+
+3
+
+NOMBRE
+
+£ J:
+c —
+
+—
+
+11
+
+1
+
+FAUSSES
+
+4>
+
+9
+
+))
+
+1899.
+
+habitants
+
+matériel.
+
+o
+
+C —
+
+c
+
+c
+
+ETEINTS
+
+ETEINTS
+
+TOTAL
+par les
+habitants
+ou par
+des
+sans
+les pompiers
+'les autres i n c e n d i e s
+m a t é r i e l . corn m unes
+
+c
+
+o
+
+se sont rendus en
+
+FEUX DE CHEMINEE
+
+INCENDIES
+ETEINTS
+
+de Bruxelles
+
+-
+
+44
+
+1
+
+1
+
+31
+
+»
+
+19
+
+2
+
+37
+
+3
+
+))
+
+13
+
+2
+
+29
+
+2
+
+1
+
+))
+
+12
+
+O
+
+Q
+
+30
+
+1
+
+»
+
+3
+
+))
+
+10
+
+3
+
+23
+
+1
+
+))
+
+»
+
+)>
+
+))
+
+11
+
+2
+
+24
+
+1
+
+10
+
+))
+
+»
+
+1
+
+»
+
+11
+
+1
+
+20»
+
+1
+
+2
+
+6
+
+))
+
+1
+
+2
+
+))
+
+9
+
+4
+
+28
+
+2
+
+»
+
+10
+
+))
+
+»
+
+»
+
+))
+
+10
+
+2
+
+22
+
+»
+
+»
+
+»
+
+))
+
+7
+
+»
+
+22
+
+»
+
+_1_
+
+)>
+
+24
+
+_4_
+
+55
+
+2
+
+160
+
+26
+
+365
+
+14
+
+J_
+12
+
+141
+142
+
+))
+
+7
+
+»
+
+12
+12
+
+17
+
+I
+
+161
+
+27
+
+379
+
+o
+—
+
+Tableau indiquant par mois les incendies auxquels les pompiers de Bruxelles se sont rendus
+pendant les dix dernières années (1 e r janvier 1890 au 31 décembre 1899).
+FEUX
+
+I N C E N D I E S
+ÉTEINTS
+
+P A R
+
+L E S
+
+P O M P I E R S
+
+E T E I N T S
+
+par les
+habitants
+ou par les
+
+au moyen de leur matériel.
+sans
+
+MOIS.
+ordinaires
+
+03
+
+_0>
+c — -—
+—
+>
+—
+
+Janvier
+Février
+Mars
+Avril
+Mai .
+Juin.
+Juillet
+Août.
+Septembre
+Octobre.
+Novembre
+Décembre
+
+3
+1
+3
+2
+3
+3
+2
+4
+1
+2
+1
+2
+
+59
+38
+47
+33
+2]
+32
+34
+39
+39
+35
+38
+53
+470
+
+1
+
+497
+
+27
+
+£
+r—
+
+o =
+
+—
+
+5
+»
+3
+4
+3
+5
+
+Q
+O
+
+8
+5
+»
+4
+2
+6
+5
+3
+6
+
+2
+
+5
+6
+4
+2
+
+3
+
+63
+42
+50
+41
+28
+32
+38
+41
+45
+40
+41
+59
+
+50 | 42 520
+02
+
+>
+
+-
+
+3
+
+4
+4
+
+I
+
+1
+6
+6
+6
+8
+4
+9
+7
+6
+3
+5
+
+1
+
+589
+
+I
+i
+
+{- i ,
+o —
+
+as*?
+
+72
+67
+55
+46
+56
+40
+52
+48
+54
+51
+55
+71
+
+69 067
+
+2
+4
+
+I
+
+par les pompiers
+
+E T E I N T S
+
+avec
+
+sans
+
+matériel.
+
+matériel.
+
+o
+
+O =S
+
+=
+
+>
+
+c —
+
+o —
+
+69
+49
+64
+59
+54
+49
+53
+56
+34
+52
+71
+77
+
+724
+
+o
+
+d
+
+a
+
+2
+3
+3
+3
+»
+
+2
+4
+
+5
+7
+
+3
+2
+
+3
+
+e
+
+»
+1
+l
+1
+
+8
+4
+5
+9
+
+18
+21
+13
+9
+10
+4
+6
+3
+8
+10
+14
+14
+
+I874|118 12851 9
+
+75
+
+130
+
+204
+158
+169
+146
+138
+121
+143
+145
+133
+143
+167
+207
+
+1,992
+
+11
+
+5
+10
+10
+6
+10
+9
+14
+16
+13
+5
+9
+
+163
+140
+154
+128
+120
+69
+77
+61
+68
+88
+93
+124
+
+1,294
+
+3
+1
+2
+»
+
+7
+10
+4
+4
+
+75
+
+NOMBRE
+de
+
+alertes.
+
+TOTAL.
+
+réquisitions.
+
+habitants.
+
+0?
+
+4>
+
+FAUSSES
+
+par les
+
+des
+
+des
+communes incendies
+voisines.
+
+12 687 | 37
+
+679
+
+E T E I N T S
+
+TOTAL
+
+pompiers
+
+matériel.
+
+T O T A L .
+
+graves
+
+D E CHEMINÉE
+
+| 131
+
+s
+
+M I
+
+o
+o —
+
+O —
+
+c
+
+—V
+
+e
+
+4
+
+189
+168
+177
+141
+134
+75
+90
+71
+81
+102
+112
+147
+
+30
+26
+35
+28
+34
+25
+27
+27
+33
+17
+31
+40
+
+L
+
+2
+
+»
+
+1
+1
+
+•1
+
+1490|10
+
+353
+
+3 5 8
+
+1,500
+
+\
+
+J2i
+
+—
+
+1
+1
+
+1
+
+9.
+
+423
+352
+381
+315
+306
+221
+260
+213
+250
+262
+310
+394
+
+16
+6
+12
+11
+6
+10
+9
+15
+16
+14
+6
+12
+
+5 3717 133
+
+850
+
+-
+
+TABLEAUX
+Bruxelles
+
+indiquant
+
+30:Î —
+
+le nombre
+
+sont intervenus
+
+hors du territoire
+
+de fois que les pompiers
+
+pour les incendies
+
+de la ville pendant
+
+Vannée
+
+qui
+
+ont
+
+de
+éclaté
+
+1899.
+
+Molenbeek-Saint-Jean.
+Saint-Josse-ten-Noode .
+
+Totaux .
+
+.
+
+.
+.
+
+.
+
+»
+»
+»
+
+Fausses alertes.
+
+»
+
+Feux de cheminée.
+
+graves.
+
+COMMUNES.
+
+ordinaires.
+
+Avecemploi
+du matériel
+
+Sans emploi
+du matériel.
+
+1° Dans les communes de l'agglomération bruxelloise entre
+lesquelles i l existe une réciprocité convenue.
+
+»
+
+»
+
+»
+
+1
+»
+»
+1
+
+»
+
+))
+
+))
+
+»
+
+))
+
+))
+
+))
+
+»
+3
+1
+»
+
+2
+
+))
+
+7
+
+»
+1
+5
+
+))
+
+))
+
+3
+
+TOTAL.
+
+1
+»
+»
+
+1
+»
+»
+
+»
+
+1
+3
+1
+»
+
+»
+»
+1
+
+11
+
+1
+
+2
+
+•
+
+Auderghern
+. . . .
+Forest . . .
+Jette-Saint-Pierre . .
+Uccle . .
+Totaux
+
+.
+
+.
+
+.
+.
+
+»
+
+»
+1
+
+))
+
+1
+
+»
+»
+
+2
+
+»
+
+»
+
+))
+
+2
+
+|
+Fausses alertes.
+
+graves.
+
+ordinaires.
+
+COMMUNES.
+
+Feux de cheminée. S
+
+Avecemploi
+du matériel.
+
+Sans emploi
+du matériel.
+
+2° Dans les communes hors de l'agglomération b r u x e l l o i s e
+qui ont adhéré à l a circulaire du B o u r g m e s t r e de B r u x e l l e s du
+24 juillet 1893. (Acceptation de toutes responsabilités de leur
+part.)
+
+TOTAL.
+
+»
+»
+»
+»
+
+»
+
+»
+1
+))
+1
+
+»
+
+»
+
+2
+
+—
+
+3Q4
+
+-
+
+.
+
+.
+
+))
+
+1
+
+»
+
+Fausses a l e r t e ? .
+
+Totaux .
+
+1
+
+Feux de clien inée.
+
+Koekelberg
+
+ordinaires
+
+COMMUNES.
+
+graves.
+
+Avec emploi
+du matériel
+
+Sans emploi
+du matériel.
+
+S
+
+3° Dans les communes hors de l'agglomération bruxelloise
+qui, n'ayant pas adhéré à l a circulaire du 24 juillet 1893, ont
+néanmoins réclamé des secours, en s'engageant éventuellement
+à supporter toutes responsabilités.
+
+»
+
+»
+
+»
+
+1
+
+»
+
+))
+
+1
+
+TOTAL.
+
+1
+
+2
+
+7
+
+1° D a n s les communes de l ' a g g l o 2° D a n s les communes hors de
+l'agglomération
+qui
+ont
+adhéré à l a c i r c u l a i r e d u
+2
+3° D a n s les communes q u i n'ont
+pas adhéré à l a c i r c u l a i r e ,
+m a i s q u i se sont engagées à
+supporter les f r a i s .
+. . .
+Totaux.
+
+.
+
+.
+
+.
+
+S
+E
+ts
+
+«J.
+
+*
+
+Fausses alertes.
+
+COMMUNES.
+
+Sans emploi
+du matériel.
+
+DES TROIS T A B L E A U X QUI PRECEDENT.
+
+Avec emploi
+du matériel.
+
+RÉCAPITULATION
+
+TOTAL.
+
+1
+
+1
+
+11
+
+»
+
+»
+
+2
+
+1
+
+»
+
+»
+
+»
+
+1
+
+5
+
+7
+
+1
+
+1
+
+14
+
+12
+
+— 305 —
+
+STATISTIQUE, par année,
+Bruxelles
+
+des incendies
+
+les pompiers
+
+1 8 9 0 au 5 1 décembre
+
+se sont rendus du {"janvier
+
+de
+1899
+
+graves.
+
+ordinaires.
+
+=
+
+i
+>
+
+•Ti "
+
+c i
+
+c ~
+
+TOTAL.
+
+5 =
+
+>
+
+c i
+
+cheminée.
+
+Y'
+
+c
+
+il
+
+:5
+
+Ui
+s-
+
+c i
+>
+
+t -s
+
+•
+O
+
+C—
+
+.
+
+>
+
+o —
+
+se »
+
+s
+
+RÉQUISITIONS.
+
+de
+
+de
+
+Feux
+
+I N C E N D I E S
+
+TOTAL
+
+Fausses alertes
+et incendies éteints
+par les habitants j
+ou par
+les pompiers
+des faubourgs.
+
+années).
+
+(10
+
+ANNÉES.
+
+auxquels
+
+— o
+
+l _ (D
+O —
+
+>
+
+112
+
+1
+
+74
+
+2
+
+307
+
+15
+
+5
+
+117
+
+]
+
+80
+
+»
+
+313
+
+6
+
+133
+
+7
+
+171
+
+))
+
+109
+
+6
+
+413
+
+13
+
+1
+
+127
+
+8
+
+159
+
+3
+
+133
+
+3
+
+419
+
+14
+
+5
+
+5
+
+114
+
+9
+
+147
+
+»
+
+93
+
+»
+
+354
+
+9
+
+2
+
+7
+
+4
+
+128
+
+6
+
+138
+
+109
+
+6
+
+375
+
+12
+
+114
+
+1
+
+9
+
+2
+
+123
+
+3
+
+171
+
+95
+
+7
+
+389
+
+10
+
+1897
+
+113
+
+3
+
+o
+û
+
+7
+
+116
+
+10
+
+151
+
+4
+
+153
+
+3
+
+420
+
+17
+
+1898
+
+101
+
+6
+
+6
+
+6
+
+107
+
+12
+
+164
+
+»
+
+91
+
+11
+
+362
+
+23
+
+96
+
+5
+
+6
+
+4
+
+102
+
+9
+
+160
+
+1
+
+103
+
+4
+
+365
+
+14
+
+1,137
+
+39
+
+50
+
+42
+
+1,187
+
+81
+
+1,490
+
+10
+
+1,040
+
+42
+
+3,717
+
+1890
+
+117
+
+5
+
+4
+
+7
+
+121
+
+1891
+
+112
+
+2
+
+4
+
+3
+
+116
+
+1892
+
+130
+
+4
+
+3
+
+3
+
+1893
+
+124
+
+7
+
+3
+
+1894
+
+109
+
+4
+
+1895
+
+121
+
+1896
+
+1899
+
+1,176
+
+92
+
+1.268
+
+12
+
+1,082
+
+1,500
+i
+
+1
+i
+
+i
+
+133
+
+3,850
+
+— 306 —T A B L E A U indiquant la nature des incendies auxquels les potn
+se sont rendus en ville et dans les faubourgs en 1899
+
+4
+3
+»
+
+1
+»
+1
+»
+o
+O
+
+des incendies . .
+F e u x de c h e m i n é e s . . .
+Fausses alertes . . . .
+
+26 13 18 16 16 11 12 9 17 10 15 2 8 191
+17 17 20 13 12 10 11 11
+9 10 7 24 161
+2 1 2 2 3 3 2 1 4 <) »
+27
+
+e
+
+e
+
+e
+
+e
+
+de
+
+TOTAUX
+
+TOTAUX
+
+des avertissements.
+
+))
+
+)>
+
+1
+
+iP
+
+2
+7
+»
+3
+2
+»
+
+)>
+
+4
+4
+»
+3
+2
+»
+
+2
+
+»
+»
+»
+))
+1
+1
+» al
+»
+n
+» al
+
+3
+
+»
+
+2
+6
+»
+3
+2
+»
+»
+3
+
+te
+M
+
+P
+
+•"S
+
+1
+5
+»
+1
+2
+»
+»
+1
+
+3
+2
+»
+1
+1
+»
+4
+
+»
+» »
+» bl c l
+» »' »
+
+AOÛT
+
+PS
+«j
+i—i
+
+M
+S
+
+)>
+
+4
+»
+2
+1
+1
+»
+»
+1
+»
+
+H
+H
+PH
+
+M
+02
+
+2
+
+4
+n
+5
+»
+»
+4
+
+OCTOBRE
+
+4
+3
+
+I N C E N D I E S
+
+JUILLET
+
+4
+13
+
+D E S
+
+MAI
+
+FÉVRIER
+
+Cave
+Hez-de-chaussée. . . .
+Entre-sol
+I * étage
+2
+>
+3
+»
+4
+»
+Combles, greniers, m a n s a r s
+Hangars, é c h o p p e s , b a r a ques foraines et kiosques
+Voie publique et terrain à bâtir.
+B â t i m e n t s (A) . . . .
+T h é â t r e s (B)
+
+NATURE
+
+AVRIL
+
+| JANVIER
+
+H
+PS
+
+T O T A U X . ||
+
+J
+
+1
+3
+»
+»
+3
+»
+2
+
+»
+»
+el
+»
+»
+
+PH
+PH
+
+W
+
+S
+
+a
+
+P
+O
+
+O
+•w
+
+H
+
+Q 2
+4 11
+» »
+5 5
+1 4
+» »
+» 1
+1 •")
+»
+»
+
+23
+»
+3:]
+21
+2
+
+1
+
+29
+
+»
+»
+
+9
+3
+7
+
+»
+
+1
+
+5
+
+45
+
+31
+
+40
+
+(A)
+
+31
+
+31
+
+24 25
+
+21
+
+30
+
+22
+
+22
+
+57
+
+379
+
+Bâtiments.
+
+a) L e 11 mars, à 1 heure 58 du matin, avenue Fonsny, 70, à St-Gilles,
+chez M . Mony, L o u i s , négociant.
+b) L e 5 j u i n , à 12 h . 38 de l a nuit, rue de l'Indépendance, 124,
+à Molenbeek-St-Jean, chez M . Gillebertus, Henri, marchand
+de chiffons.
+c) Le 27 juillet, à 12 h . 50 de l a nuit, chaussée d'Alsemberg, 244,
+à Forest, chez M . Baudart. Léon, négociant en fourrages.
+d) L e 1 septembre, à 8 h . 30 du soir, à Etterbeek, le magasina
+fourrages de l'Armée.
+Le 24 septembre, à 4 h . 51 du m a t i n , rue Deschampheleer, 26,
+à Koekelberg, chez M M . Delhaize et C' , négociants en denrées
+alimentaires.
+e) L e 26 octobre, à 8 h . 7 du soir, quai de Quenast, 17, l a nouvelle
+boulangerie, directeur M . Lefèvre.
+f) L e 23 novembre, à 8 h . 45 du soir, rue du Poinçon, 13, chez
+M . Haegen, Fernand, fabricant de chapeaux de paille.
+er
+
+e
+
+(B)
+
+Théâtres.
+
+Le 24 février, à 10 h . 15 du soir, au nouveau théâtre, passage du
+N o r d . A lafindu deuxième acte de l a pièce intitulée « le Mâle » ,
+l'électricien en manipulant l a conduite d'électricité a déterminé la
+projection d'une petite flamme qui l ' a légèrement brûlé à la main.
+
+-
+
+307 —
+
+« a
+
+a
+
+|
+
+TOTAL
+
+des réquisitions.
+
+Sa
+
+Feux
+de cheminée.
+
+POSTES.
+
+Incendies éteints D
+par les h a b i t a n t s .
+(Incendies et feux
+j
+de c h e m i n é e )
+
+[ncen
+ëteir
+
+sans
+\ m S'
+matériel. J
+
+T A B L E A U indiquant h nombre de fois que chaque poste
+s'est rendu à l'incendie en 1 8 9 9 .
+
+Indivision de police (rue de la Régence)
+
+8
+
+9
+
+14
+
+15
+
+2
+
+48
+
+2
+
+>J
+
+(pl. de la Chapelle et r.Terre-Neuve)
+
+4
+
+8
+
+13
+
+8
+
+4
+
+37
+
+3*
+
+»
+
+(N -Marché-aux-Grains)
+
+11
+
+8
+
+22
+
+13
+
+3
+
+47
+
+4
+
+»
+
+(rue de Ligne).
+
+8
+
+8
+
+16
+
+18
+
+7
+
+57
+
+5«
+
+»
+
+(rue du Taciturne) .
+
+7
+
+8
+
+9
+
+12
+
+2
+
+38
+
+6
+
+e
+
+»
+
+(rue Defacqz) .
+
+1
+
+6
+
+1
+
+10
+
+3
+
+21
+
+e
+
+»
+
+(quai de Willebroeck)
+
+1
+
+2
+
+»
+
+2
+
+»
+
+5
+
+Grand'garde (rue du Marché-au -Charbon) .
+
+35
+
+35
+
+52
+
+22
+
+9
+
+153
+
+Théâtre de la Monnaie (place de la Monnaie)
+
+3
+
+6
+
+9
+
+10
+
+4
+
+32
+
+e
+
+e
+
+7
+
+veau
+
+Rue de Louvain
+
+.
+
+.
+
+Caserne (rue Blaes)
+
+.
+.
+
+.
+
+.
+
+.
+
+10
+
+7
+
+8
+
+6
+
+2
+
+33
+
+.
+
+.
+
+39
+
+23
+
+46
+
+32
+
+7
+
+147
+
+13
+
+9
+
+16
+
+9
+
+3
+
+50
+
+théâtre Flamand (rue de Laeken)
+.
+
+.
+
+.
+
+12
+
+10
+
+19
+
+20
+
+1
+
+62
+
+.
+
+.
+
+.
+
+2
+
+1
+
+1
+
+2
+
+»
+
+6
+
+Agents-pompiers de Saint-Josse-ten-Noode
+
+]
+
+»
+
+»
+
+)>
+
+»
+
+1
+
+Pompiers de service dans les théâtres
+
+»
+
+1
+
+»
+
+»
+
+»
+
+1
+
+Agents-pompiers d'Ixelles
+
+1
+
+1
+
+Pompiers de service de patrouille
+
+»
+
+o
+
+1
+
+2
+
+»
+
+»
+
+De service de surveillance
+
+»
+
+1
+
+»
+
+Fonctionnaires au champ de foire
+
+»
+
+1
+
+Agents-pompiers de Saint-Gilles
+
+1
+
+»
+
+»
+
+1
+
+»
+
+)>
+
+Rue Van Artevelde .
+
+.
+
+Officiers en promenade
+
+»
+
+.
+
+de Molenbeek-Saint-Jean .
+
+Pompiers de Koekelberg
+
+.
+
+.
+
+.
+
+.
+
+ù
+
+2
+
+4
+
+»
+
+3
+2
+
+»
+
+»
+
+1
+
+»
+
+»
+
+1
+
+»
+
+»
+
+1
+
+»
+
+1
+
+HEURES auxquelles les incendies ont été signales
+aux pompiers en 1899.
+*u .s
+£Z
+s
+
+HEUEES
+(JOUE.)
+
+De 6 à
+
+o
+
+c
+
+K.9
+
+7 h. du matin.
+
+»
+
+7 à 8 »
+
+»
+
+»
+
+8 à
+
+»
+
+9 )>
+
+11
+
+HEUEES
+
+14
+101
+
+(NUIT.)
+
+as .a
+
+De
+
+6 à
+
+7 h. du soir.
+
+2^
+
+»
+
+7 à
+
+8 )>
+
+20
+
+»
+
+8 à
+
+9 )>
+
+36
+118
+
+»
+
+21
+
+»
+
+9 à 10 »
+
+10
+
+»
+
+20
+
+» 10 à 11 »
+
+10
+
+11 à 12 » (midi).
+
+33
+
+» 11 à minuit.
+
+14
+
+» midi à 1 h . de relevée.
+
+25
+
+» minuit à 1 h. du matin. 11
+
+»
+
+1 à
+
+2 »
+
+)>
+
+23
+
+»
+
+1
+
+à
+
+2 »
+
+»
+
+2 à
+
+3 »
+
+)>
+
+25 i
+
+»
+
+2
+
+à
+
+3 »
+
+»
+
+3
+
+à
+
+4 )>
+
+6,
+
+»
+
+9 à 10 J>
+
+» 10 à 11 »
+»
+
+119
+
+41
+
+»
+
+3 à
+
+4 »
+
+»
+
+14
+
+»
+
+4 à
+
+5 »
+
+»
+
+17
+
+»
+
+4
+
+à
+
+5 »
+
+G
+
+»
+
+5 à 6 »
+
+»
+
+15/
+
+»
+
+5
+
+à
+
+6 »
+
+5
+
+Total.
+
+.
+
+Total.
+
+220
+
+RÉCAPITULATION
+
+h3
+
+Jour
+
+220
+
+Nuit
+
+159
+
+TOTAL GÉNÉRAL.
+
+379
+
+159
+
+301)
+
+—
+
+S A U V E T A G E S opérés et événements
+
+survenus
+
+en 1899.
+
+PERSONNES
+
+retirées
+
+Dates
+
+DÉTAILS.
+
+et heures.
+
+5 février,
+9 h. 33
+du soir.
+
+9 février,
+6 h. 27
+du soir.
+
+Mortes.
+
+A l'heure indiquée ci-contre l a caserne
+reçut de l a 5 division de police l a dépêche
+téléphonique suivante :
+« L a rupture d'une conduite d'eau de l a
+ville a causé une excavation dans le sol,angle
+rue B e l l i a r d et rue de l a Science: une voiture
+et 2 chevaux sont tombés dans le t r o u , q u i a
+une profondeur de 2 mètres environ ; prière
+d'envoyer de suite une équipe de pompiers
+pour les r e t i r e r . »
+A u reçu de ce télégramme, l'officier de
+service s'est rendu immédiatement sur les
+lieux avec une équipe d'hommes et le matériel nécessaire.
+A son arrivée les chevaux avaient p u être
+retirés et les personnes q u i occupaient l a
+voiture avaient pu en s o r t i r . L ' e x c a v a t i o n ,
+de forme circulaire et d'un diamètre d'environ 3 mètres, semble provenir d ' u n affouillement ancien ; une conduite de gaz présentant
+une grande fuite, l a lanterne q u i se t r o u v a i t
+à proximité avait été éteinte et, de crainte
+d'inflammation du gaz, le t r a v a i l a été fait
+dans l'obscurité. L a voiture a été retirée
+vers 10 h . 15 .
+
+Vivantes
+
+e
+
+Des explosions de matières inflammables
+s'étaient produites dans l a cave de l a maison
+occupée par M . Mertens, A d o l p h e , droguiste,
+rue du H o u b l o n , 11. Ces explosions et
+leurs conséquences ne se fussent point p r o duites si le droguiste eût observé, en l ' o c c u r rence, l a conduite prudente que l u i d i c t a i t l a
+situation.
+Pendant l a journée, le garçon droguiste
+avait cassé, sur l'escalier de l a cave, une
+tourille de n a p h t e : le liquide s'était donc
+répandu du haut en bas et ses vapeurs
+emplissaient l a maison.
+Vers 6 1/2 heures d u soir, l a servante
+reçut l'ordre de se rendre à l a cave. V u
+l'obscurité, cette fille, ignorante d u danger,
+se munit d'une lumière. A peine fut-elle en
+
+2
+
+Personnes mortes R
+des suites de
+j
+leurs blessures. G
+
+—
+
+PERSONNES
+
+Dates
+
+retirées
+
+DÉTAILS.
+
+et heures.
+
+Mortes.
+
+contact avec les vapeurs du liquide répandu,
+qu'une forte explosion se p r o d u i s i t .
+L a servante fortement atteinte par les
+brûlures roula sur les marches. Elle fut
+promptement retirée de sa méchante p o s i t i o n et transportée â l'hôpital Saint-Pierre.
+Elle y est morte le lendemain .
+M et M Merteus furent également atteints,
+mais légèrement, p a r l e s flammes.
+
+1
+
+1
+
+L'incendie s'était déclaré au 1 étage de
+l a maison occupée par M " " M a r i e M e u r a n t ,
+rentière, boulevard Bisschoffsheim, 2 5 .
+M " Meurant étant épileptique, se trouvait
+au l i t , ayant une lampe à pétrole sur l a
+table de nuit q u i se trouvait à proximité ; elle
+eut une crise et tomba hors du l i t , renversant l a lumière. Elle reçut des brûlures
+graves q u i nécessitèrent son transport à
+l'hôpital Saint-Jean. L a nuit elle y est morte.
+
+1
+
+1
+
+L e poste d u Théâtre flamand a été requis
+par une patrouille de Molenbeek-Saint-Jean
+pour un homme qui s'était jeté dans le canal
+en face de l a garde.
+Il a été retiré a u moyen d'une corde et
+remis entre les mains de l a police de l a
+3° d i v i s i o n .
+.
+.
+.
+.
+.
+.
+
+1
+
+Maison occupée par M . W i e n e r , Jacques,
+rentier, rue de l a L o i , 7 3 . Explosion d u gaz
+au 2 étage. (Salle de b a i n . )
+L'agent de police V a n Bever,de l a 5 d i v i sion, demeurant avec sa femme, concierge
+dans l a dite maison, a, par suite de s o n i m p r u dence, amené l'explosion; i l a été brûlé à l a
+figure, a u bras gauche et aux m a i n s .
+Sa femme, qui l'accompagnait pour rechercher d'où partait l a fuite de gaz,a été blessée
+par des éclats de verre aux genoux et à la
+ligure.
+L'agent a été transporté à l'hôpital en voiture par les soins de l a police.
+Sa femme a été soignée chez elle par u n
+médecin d u voisinage
+.
+.
+.
+.
+
+2
+
+r
+
+14 février,
+7 h. 12
+du soir.
+
+Vivantes
+
+'Personnes mortes il
+des suites t l e II
+leurs blessures. '|
+
+— 310 —
+
+r a e
+
+er
+
+6
+
+29 mars,
+4 heures
+du matin.
+
+13 août,
+5 h. 51
+du soir.
+
+e
+
+e
+
+P E R S O N N E S
+retirées
+
+Dates
+
+DÉTAILS.
+
+et heures.
+
+8 sept.,
+6 h. 40
+du soir.
+
+10 sept.,
+11 h. 45
+du soir.
+
+10 octob.,
+8 h. 40
+du soir.
+
+13 tic,
+7 heures
+du matin.
+
+26 dée.,
+8 h. 47
+du soir.
+
+Mortes.
+
+Vivantes
+
+Personnes mortes
+des suites de
+leurs blessures.
+
+— 341 —
+
+A l a suite de l'explosion d'un réchaud à
+pétrole, les vêtements de M ^ P o r e a u x , d e m e u rant au 1 étage de l a maison sise rue des
+Epeionniers, 49, ont pris feu.
+Elle a été roulée dans des couvertures
+par les co-locataires et transportée, g r a v e ment brûlée, à l'hôpital S a i n t - P i e r r e par les
+soins de l a police .
+
+i
+
+i
+
+Les pompiers Méganck et Béguin, se r e n dant au bureau de police pour le service de
+patrouille, virent une femme, l a nommée
+A l v i n , au m i l i e u de l a rue de N o t r e - S e i g n e u r ,
+en face du n° 23, dont les vêtements étaient
+en feu par suite d'une chute de lampe à
+pétrole. Ils l'ont enveloppée dans une de leurs
+capotes pour éteindre le f e u .
+L a victime a été transportée à l'hôpital
+par les soins de l a police
+.
+.
+.
+.
+
+4
+
+1
+
+Explosion de gaz au 2 étage de l a maison
+occupée par M R u g i n , L o u i s e , rentière, rue
+Charles Hanssens, 3 .
+L a servante en entrant dans l a chambre
+avec de l a lumière a provoqué l'explosion ;
+elle a été fortement brûlée à l a figure et aux
+mains. Elle a été transportée à l'hôpital
+Saint-Pierre par les soins de l a p o l i c e .
+
+1
+
+Explosion de gaz dans l a cave d u Couvent
+de Berlaimont, rue de l a L o i , 484.
+Le concierge se rendant dans l a cave avec
+une bougie allumée a été cause de l'accident.
+Il a reçu des brûlures aux mains et à l a
+figure
+.
+.
+.
+.
+.
+.
+.
+
+1
+
+L'incendie s'est déclaré au I étage de l a
+maison occupée par M . B e r i n g e r , Léon,
+électricien, rue Montagne-aux-Herbes-Potagéres, 3 1 .
+L a place servant d'atelier était complètement en feu. L e s flammes s'échappaient par
+les fenêtres.
+Une vieille femme q u i n'avait pu s'échapper
+du 2 étage a été descendue par le sergent de
+la grand'garde. I l n'y avait plus de d a n g e r .
+
+1
+
+er
+
+e
+
+m e
+
+e r
+
+e
+
+A C C I D E N T S survenus
+
+DATES
+
+9
+
+février.
+
+pendant
+
+les incendies
+
+HEURES
+
+6 heures 27
+du soir.
+
+de 1899.
+
+DÉTAILS.
+
+Incendie dans la cave de la maison occupée par M . Mertens, A d o l p l i >, droguiste,
+rue du H o u b l o n , n°
+
+11.
+
+Pendant l'extinction du feu, le sergent F r a n k l e m o n fat atteint à la
+les flammes
+
+par
+
+et les pompiers Cieters et Deneille au cou et à l a figure. Les brûlures
+
+ne furent pas
+M.
+
+figure
+
+fortes.
+
+l'officier de santé Requette
+
+a donné ses soins sur place.
+
+C A U S E S des incendies qui ont éclaté en 1899 à Bruxelles
+ci dans les faubourgs
+et pour lesquels les pompiers ont été requis.
+CAUSES
+
+DIVERSES.
+
+NOMBRE
+
+1
+
+Becs de gaz (contact)
+Cendres ou charbons non complètement éteints .
+Combustibles, linge, literies, etc., près
+foyers à gaz et autres
+
+.
+
+.
+
+1
+
+.
+
+des réchauds et
+
+15
+5
+
+Contacts de fils et courants électriques
+Chaux vive versée contre des clôtures en planches .
+
+.
+
+»
+
+.
+
+4
+
+Calorifères ou poêles surchauffés
+Étincelles, tisons, charbons ardents s'échappant des foyers
+
+10
+
+Emploi de pétrole (explosions, chutes de lampes et de réchauds, etc.)
+
+32
+
+Explosion de produits chimiques et d'essences diverses
+
+1
+
+.
+
+2
+
+»
+
+de lampes à esprit de vin
+
+»
+
+de réservoirs à gazoline (automobile)
+
+»
+
+de gaz
+
+.
+
+.
+
+.
+
+1
+
+.
+
+5
+
+Foyers laissés sans surveillance
+
+1
+
+Goudron, vernis, cire, etc., en préparation
+
+2
+
+Graisse renversée sur les foyers par suite d'ébullition .
+Inconnues.
+
+.
+
+.
+
+2
+
+.
+
+75
+
+.
+
+Imprudence
+
+2
+
+Jets d'allumettes, bouts de cigares etde papiers m a l éteints
+
+6
+
+Lumières diverses (bougies, chandelles, lampes à huile,
+à graisse, à esprit, etc.), chutes et contacts . . . .
+
+8
+
+Malveillance
+
+2
+
+Solives et pièces de bois encastrées dans les cheminées.
+
+9
+
+.
+
+Tuyaux en tôle ou en grès surchauffés traversant des boiseries
+,
+TOTAL .
+
+.
+
+191
+
+21
+
+— .314 —
+S T A T I S T I Q U E des causes certaines ou jiresu'niées dos
+
+/'mr/j;
+
+CAUSES.
+
+Becs de gaz (contacts)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Braises mises en sac non complètement refroidies
+Calorifères ou poêles surchauffés.
+Causes inconnues
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Cendres ou charbons non complètement refroidie.
+Chaux vive versée contre des clôtures en planches
+Combustibles, linge, literies, etc., près des réchauds et foyers à gaz et autres
+Emploi de pétrole (explosions, chutes de lampes, de réchauds, etc.)
+Etincelles, tisons, charbons ardents s'échappant des foyers .
+Explosions de produits chimiques et d'essences diverses
+Id.
+
+de réchauds à esprit de v i n .
+
+Id.
+
+d'appareils ou réservoirs à gazoline (automobiles, etc.)
+
+Id.
+
+de gaz
+
+Id.
+
+de lampes à esprit de vin
+
+.
+
+.
+
+.
+
+.
+
+.
+<
+
+Peux d'artifice (étincelles, fusées)
+Fils et courants électriques pour lumières (contacts)
+
+.
+
+Fissures dans les cheminées
+Foudre (par la)
+
+J
+
+>
+
+.
+
+.
+
+Foyers laissés sans surveillance
+Goudron, vernis, colle et cire en préparation
+
+.
+
+.
+
+Graisse renversée sur les foyers .
+Imprudence
+Jets d'allumettes, de bouts de cigares et de papiers mal éteints
+
+.
+
+Lumières diverses (bougies, chandelles, lampes à huile, à pétrole,
+vin, etc.), chutes et contacts
+Malveillance (attribués à la)
+Matières en fermentation .
+Réchauds abandonnés
+Séchage de bois au four
+Solives et pièces de bois encastrées dans les cheminées
+Tuyaux de chauffage traversant des boiseries
+
+TOTAUX
+
+esprit
+
+— 315 —
+
+|le 1 janvier 1 8 9 0 j u s q u ' a u 31 décembre 1899 (10 années).
+er
+
+1894
+
+1895
+
+1891
+
+1892
+
+1893
+
+3
+
+6
+
+2
+
+1
+
+5
+
+»
+
+1
+
+»
+
+»
+
+2
+
+3
+
+79
+
+89
+»
+»
+6
+
+1896
+
+1897
+
+1898
+
+2
+3
+»
+92
+
+4
+»
+»
+97
+3
+»
+11
+44
+3
+
+1
+»
+1
+91
+1
+3
+8
+36
+6
+
+»
+
+»
+
+90
+
+95
+
+t
+1
+112
+
+»
+
+»
+
+1
+
+»
+
+9
+
+»
+
+4
+
+11
+
+)>
+8
+
+24
+
+35
+
+;)
+2
+41
+
+32
+
+37
+
+35
+
+6
+
+8
+
+3
+
+3
+
+2
+»
+»
+4
+
+4
+
+1
+
+»
+
+1
+»
+
+1
+
+)>
+
+»
+
+1
+
+»
+»
+
+9
+
+»
+
+»
+
+1
+
+7
+1
+»
+o
+
+8
+
+4
+
+2
+
+3
+
+»
+
+1
+
+)>
+
+1
+
+»
+
+1
+
+»
+
+M
+
+»
+
+»
+
+»
+
+1
+
+1
+
+1
+
+4
+
+d
+
+3
+
+1
+
+1
+
+D
+
+»
+
+1
+»
+6
+
+i)
+
+»
+
+'»
+
+»
+
+»
+
+»
+
+6
+
+6
+
+3
+
+2
+
+))
+
+1
+
+4
+
+3
+
+M
+
+3
+
+5
+
+1
+
+5
+
+6
+
+6
+
+4
+
+1
+
+3
+
+11
+
+o
+û
+
+))
+2
+4
+
+»
+8
+9
+
+175
+
+«J
+
+5
+
+5
+
+5
+
+2
+
+10
+
+6
+
+4
+
+6
+
+7
+»
+
+2
+
+11
+
+6
+
+3
+
+»
+
+1
+
+8
+2
+
+»
+
+2
+
+4
+
+o
+
+»
+
+»
+
+3
+2
+2
+5
+»
+»
+2
+4
+5
+6
+4
+11
+
+1
+
+»
+1
+1
+
+»
+2
+»
+)>
+3
+3
+1
+
+1
+6
+
+1899
+
+1
+»
+
+4
+75
+i
+X
+»
+15
+32
+10
+1
+»
+1
+5
+2
+
+»
+5
+»
+»
+
+1
+2
+2
+2
+6
+
+TOTAUX.
+
+25
+4
+12
+925
+6
+3
+77
+355
+54
+9
+2
+2
+40
+6
+4
+33
+
+13
+1
+22
+21
+38
+32
+57
+
+13
+3
+»
+
+8
+2
+»
+
+76
+15
+7
+
+»
+
+»
+
+22
+
+»
+
+»
+
+3
+
+1
+
+2
+
+3
+
+5
+
+»
+1
+
+»
+
+»
+
+2
+
+»
+
+»
+1
+
+9
+
+5
+
+15
+
+10
+
+13
+
+14
+
+8
+
+9
+
+6
+
+94
+
+»
+
+4
+
+6
+
+1
+
+9
+
+4
+
+7
+
+54
+
+220
+
+216
+
+184
+
+203
+
+194
+
+232
+
+193
+
+191
+
+1,992
+
+»
+
+— 346 —
+
+«3
+
+O
+
+•H
+
+0
+
+w
+
+>»
+
+A
+
+A V E C
+
+.
+
+P O M P E S
+8
+
+O
+
+s
+1§
+s
+
+OU
+
+A
+
+S
+
+— —
+
+«
+
+B O U C H E S
+
+D ' E A U .
+
+W
+
+£
+
+TOTAL DES LANCES.
+
+M O Y E N S employés pour éteindre les 191 incendies
+qui ont éclaté à Bruxelles en 4899.
+
+Observation*.
+
+o
+
+o
+
+so
+
+Parleshabilanls,
+rivée des
+
+66
+
+Par
+
+les
+
+ploi
+
+28
+
+avant
+
+pompiers
+
+matériel.
+
+A v e c b o u c l i e s d ' e a u et
+à
+
+vapeur
+
+»
+
+»
+
+pompiers, sans
+de
+
+l'ar-
+
+))
+
+au moyeu de seaux d ' e a u .
+
+e m -
+
+))
+
+.
+
+»
+
+))
+
+pompe
+
+1
+
+28
+
+dont 1 lance des agents-pompiers de St-Gilles.
+» 1 »
+de pompe à vapeur de Bruxelles.
+
+dont 1 lance des agents-pompiers de Saint-Josse-ten
+Noode.
+» 2 »
+de l'établissement dit « Salle de l'Union »
+rue des Fabriques.
+
+8
+
+Id.
+
+id.
+
+2
+
+16
+
+4
+
+Id.
+
+id.
+
+3
+
+12
+
+2
+
+Id.
+
+id.
+
+4
+
+8
+
+dont 5 lances des pompiers de Molenbeek-St-Jejn.
+» \
+» de pompe à vapeur de Bruxelles.
+
+2
+
+Id..
+
+id.
+
+5
+
+10
+
+dont 2 lances des p o m p i e r s de Molcnbeck-St-Jcan.
+a 2
+»
+»
+de Koekelberg.
+» 5
+»
+de pompe à vapeur de Bruxelles.
+
+1
+
+Id.
+
+id.
+
+7
+
+7
+
+191
+
+TOTAL
+
+81
+
+dont 3 lances de pompe à vapeur de Bruxelles.
+» 1
+)) de 1 i m p r i m e r i e d u j o u r n a l le «Petit Blei
+
+dont 1 lance de pompe à vapeur.
+» 2
+î> de l'école industrielle (Palais du Midi).
+
+D É G Â T S causés par les incendies qui ont éclaté à Bruxelles et dans les faubourgs
+du {"janvier
+1 8 9 0 au 3 1 décembre 1 8 9 0 .
+
+Années
+
+DEGATS.
+
+MONTANT DE L'ASSURANCE.
+
+Bruxelles.
+
+Immeubles non assures
+
+A S S U R E S
+
+Faubourgs.
+
+DÉGÂTS.
+
+Faubourgs.
+
+Bruxelles.
+
+Faubourgs.
+
+Bruxelles.
+
+MONTANT
+
+TOTAL
+
+général
+
+général
+
+de
+
+des
+
+l'assurance.
+
+dégâts.
+
+Observations.
+
+1
+
+1890
+
+3,213,100 » 3,360,000
+
+» 1,657,439 50 2,707,000
+
+»
+
+24,072
+
+»
+
+7,000
+
+»
+
+6,573,100 »
+
+1891
+
+3,282,600 »
+
+520,000
+
+»
+
+307,538
+
+»
+
+81,080
+
+»
+
+18.713 50
+
+4,900
+
+»
+
+3,802,600
+
+»
+
+412,231 50
+
+1892
+
+3,504,000 »
+
+217,000
+
+»
+
+490,782
+
+»
+
+42,715
+
+»
+
+17.714
+
+»
+
+617
+
+).
+
+3,721,000
+
+»
+
+551,828
+
+»
+
+1893
+
+3,931,010
+
+»
+
+300,000
+
+»
+
+708,997
+
+»
+
+100,000
+
+»
+
+12,754
+
+»
+
+3,231,010 »
+
+821,751
+
+»,
+
+1894
+
+2,281,950
+
+»
+
+454,000
+
+»
+
+409,068
+
+»
+
+271,100
+
+»
+
+95,555
+
+»
+
+2,735,950 )>
+
+775,723
+
+»|
+
+1895
+
+5,649,200
+
+»
+
+605,000
+
+»
+
+286,060 20
+
+234,400
+
+»
+
+77,160
+
+»
+
+3,000
+
+»
+
+6,254,200
+
+»
+
+600,620 20'
+
+1896
+
+5,802,700 »
+
+343,000
+
+»
+
+310,462
+
+»
+
+53,225
+
+»
+
+25,088
+
+»
+
+150
+
+»
+
+6,145,700
+
+»
+
+388,925
+
+1897
+
+5,330,600
+
+»
+
+691,000
+
+»
+
+114,003
+
+»
+
+397,005
+
+»
+
+11,499 50
+
+60,000
+
+»
+
+6,021,600
+
+»
+
+582,507 50
+
+1898
+
+5,048,000 y,
+
+558,000
+
+»
+
+306,137
+
+»
+
+278,070
+
+»
+
+11,734
+
+27,980
+
+»
+
+6,606,000
+
+»
+
+623,921
+
+1899
+
+5,546,400 »
+
+852,500
+
+»
+
+540,582 50
+
+575,457
+
+»
+
+5,812
+
+» 503,000
+
+»
+
+6,398,900
+
+»
+
+» 300,102
+
+» 606,647
+
+» 51,490,060
+
+43,589,560
+
+» 7,900,500
+
+» 5,130,669 20 4,740,052
+
+»
+
+4,395,511 50
+
+»
+
+»
+
+1,624,851 50
+
+» 10,778,870 20
+
+Ces renseignements ont été fournis après
+chaque incendie par les propriétaires et
+les locataires des immeubles. Nous ne
+pouvons garantir les chiffres indiqués cicontre.
+
+I M M E U B L E S
+
+— 318 —
+
+RENSEIGNEMENTS DIVERS.
+
+1° Les feux de cheminée qui ont éclaté à Bruxelles en 1899
+ont été éteints de la manière suivante :
+Par les pompiers :
+A u moyen de soufre
+Id.
+et de l'appareil à boulet
+Id, de l'appareil à boulet seulement.
+Id. de seaux d'eau
+Par les habitants
+TOTAL.
+
+.
+,
+
+.
+.
+
+55 «
+63 (
+24 (
+7 )
+
+^
+12
+
+.
+
+.
+
+161
+
+2° L a quantité de soufre employée a été de 353 paquets ou
+35 kilogrammes environ ;
+3° Le temps pendant lequel les bouches d'eau ont fonctionné
+est de 63 heures.
+RÉSUMÉ.
+
+Pendant l'année 1899, lespompiers ont combattu 111 incendies (les feux de cheminée, les fausses alertes et les incendies
+éteints par les habitants n'étant pas compris). Sur ces
+111 incendies, 66 ont été éteints par les pompiers au moyen de
+seaux d'eau, de sable, de torchons, etc., ce qui donne une proportion de 59-45 p. c. pour les feux dont l'extinction n'a pas
+réclamé l'emploi cîu matériel.
+Le tableau n° 2 nous montre que pendant les dix dernières
+années les pompiers ont combattu 1,268 incendies, dont 67!)
+sans faire usage du matériel, ce qui donne pour ces derniers
+une proportion de 53-54 p. c.
+C'est encore le pétrole qui nous donne le plus grand nombre
+de causes d'incendie : 32 sur 191 incendies, c'est-a-dire
+16-75 p. c , tandis que le gaz n'en a occasionné que 5, soit
+2-61 p. c.
+Il faut cependant constater que depuis 1897 les incendies
+causés p a r l e pétrole ont sensiblement diminué.
+Ce sont les mois de janvier (26), mars (18) et décembre (28)
+qui accusent le plus grand nombre d'incendies et les mois de
+juin (11), août (9) et octobre (10) qui en ont eu le moins.
+
+—
+
+349
+
+—
+
+Les incendies graves signalés sont :
+1° Le 9 février, à 6 heures 27 minutes du soir, rue du Houblon,
+n ° l l , chez M . Mertens, Adolphe, droguiste;
+2" Le 10 mars, à 1 heure 58 minutes de la nuit, avenue
+Fonsny, n° 70, à Saint - Gilles, chez M . Mony, Louis,
+négociant ;
+30 Le 28 mai, à 11 heures 30 minutes du soir, rue de
+Flandre, 172, chez M . Deverder, P i e r r e , marchand de
+chaussures ;
+4° Le 30 mai, à 1 heure 26 minutes du matin, rue de la
+Station, à Uccle, chez M . A l l a r d , propriétaire ;
+5° Le 5 juin, à minuit 35 minutes, rue de l'Indépendance,
+n° 124, à Molenbeek-Saint-Jean, chez M . Gillebertus, H e n r i ,
+marchand de chiffons ;
+6° Le 27 juillet, à 12 heures 50 minutes de la nuit, chaussée
+d'Alsemberg, n° 244, à Forest, chez M . Baudart, Léon, négociant en fourrages ;
+7° Le 1 septembre, à 8 heures 30 minutes du soir, à Etterbeek, le magasin à fourrages de l'Armée ;
+er
+
+8° Le 24 septembre, à 4 heures 51 minutes du matin, rue
+Deschampheleer, n° 26, à Koekelberg, chez M M . Delhaize et C .
+négociants en denrées coloniales ;
+i e
+
+9° Le 26 octobre, à 8 heures 7 minutes du soir, quai de
+Quenast, n° 17, dans la nouvelle boulangerie, directeur
+M. Lefèvre;
+10° Le 23 novembre, à 8 heures 45 minutes du soir, rue du
+Poinçon, n° 13, chez M . Haegen, Fernand, fabricant de chapeaux de paille ;
+11° Le 13 décembre, à 2 heures 55 minutes de relevée,
+rue des Longs-Chariots, n° 42, chez M . Petit, Albert, pelletier;
+12° Le 23 décembre, à 1 heure 54 minutes de la nuit, au
+Palais du Midi, marché aux cotonnettes.
+Les incendies ayant présenté un certain caractère de gravité
+sont :
+1° Le 28 janvier, h 1 heure 45 minutes de la nuit, quai aux
+Briques. n° 82. chez M . Blanck, Nicolas, pâtissier ;
+2° Le 16 avril, à minuit 20 minutes, rue De Pascale, n° 2,
+chez M . Philippe, Clément, médecin :
+3° Le 6 juin, à 8 heures 40 minutes du soir, rue de Flandre,
+n° 181, chez M . Van Reysen, Louis, marchand de verreries ;
+
+— 320 —
+4° L e H septembre, à 4 heures du soir, rue du Marché-auB o i s , n° 28, chez M . T r u g e r a n , négociant en vins;
+5° L e 4 novembre, à 2 heures 46 minutes du matin, rue
+Blaes,n° 239, chez M . Helkens, Louis, boulanger;
+6° L e 26 décembre, à 8 heures 47 minutes du soir, rue
+Montagne-aux-Herbes-Potagères, n° 31, chez M . Beringer, Léon
+électricien.
+
+§ 2.
+
+—
+
+FOIRES
+
+AUX
+
+CHEVAUX.
+
+Les quatre foires aux chevaux à Bruxelles ont lieu le premier mercredi de février, le dernier mercredi d'avril, le premier
+mercredi de juillet et le dernier mercredi de septembre.
+Comme précédemment, un grand nombre de chevaux ont été
+présentés et les transactions ont été assez importantes.
+
+§ 3.
+
+—
+
+POLICE.
+
+Du 1
+janvier au 31 décembre 1899, l'administration a
+reçu 189 demandes d'admission dans le personnel de la
+police.
+e r
+
+Pendant cette période 318 requêtes, dont u n certain nombre
+de 1898, ont pu être instruites ; 30 ont été écartées à cause de
+mauvais renseignements obtenus sur les signataires.
+Sur les 288 récipiendaires appelés devant la Commission
+spéciale, 121 se sont présentés et 37 ont été renvoyés à la
+suite de la visite médicale comme étant impropres au service
+de l a police, pour défaut de taille, infirmités ou faiblesse de
+complexion.
+Des 84 postulants examinés par cette Commission, 63 ont
+été considérés comme ayant fourni u n travail satisfaisant.
+28 agents-spéciaux et agents se sont également présentés
+aux examens pour l a place de commissaire-adjoint; i l ont été
+reconnus aptes.
+58 agents se sont présentés aux examens pour l'emploi
+d'agent-spécial et 38 ont été reconnus aptes.
+
+Les nominations et promotions suivantes ont eu lieu dans le
+personnel supérieur de l a police.
+I. — Ont été nommés :
+Commissaire-adjoint de 2 classe : M M . B e l e y n , A d o l p h e Joseph, et Deherdt, J e a n - A n t o i n e , agents-spéciaux d e 2 c l a s s e .
+e
+
+e
+
+I L — Ont été promus :
+A la l classe de leur grade : M M . D o u r e t , Léon; H a r m e g n i e s ,
+Louis-Noël ; Broché, J o s e p h - F . , et L i b e r t , A l f r e d - V . , c o m m i s saires-adjoints de 2 classe.
+r e
+
+e
+
+M . W e i s , N i c o l a s , commissaire-adjoint de 2 classe, a été
+admis à la pension de r e t r a i t e .
+e
+
+III. — Pendant l a même année, i l y a eu dans le personnel
+inférieur : 29 n o m i n a t i o n s , 48 promotions, 4 admissions à l a
+pension, 1 décès, 4 annulations de nominations p r o v i s o i r e s .
+12 démissions, 1 révocation, 1 agent nommé messager et
+1 agent-spécial nommé gardien au parc Léopold.
+Relevé des crimes et délits commis à Bruxelles et dénoncés à la police
+pendant l'année 1899.
+Nous publions à l a fin d u Rapport
+annuel le tableau des
+crimes et délits commis à B r u x e l l e s et constatés en 1899.
+Eelevé numérique, par division, des personnes écrouées à la prison
+communale (Amig-o), pendant l'année 1899.
+
+BBS
+O
+
+CD CD
+
+£
+
+3S
+M
+
+a
+
+^
+
+eu
+
+O -
+
+D Centrale
+t division.
+2
+id. . .
+3*
+id. . .
+4e i d . . .
+5e i d . . .
+6e i d . .
+7e i d . . .
+
+860
+
+Totaux. .
+
+860
+
+on
+
+P'1
+
+|
+
+bfi
+
+66
+54
+«6
+51
+72
+12
+3
+
+re
+e
+
+»
+»
+
+1
+
+»
+
+345
+
+1. 205
+
+=1
+
+.
+CD
+Cfl
+W
+?
+
+97
+366
+604
+347
+416
+25
+1
+36
+1,892
+
+CD CD
+
+ce
+
+ô
+CD
+
+•a
+in
+
+TOTAL.
+
+DIVISION.
+
+Femmes pour contraventions au règlement sur la prostitution .
+
+D1SPO 3 J T I O N
+de l ' A u t wrlté j u dicii l i r e .
+
+Femmes p o u r prostitution
+clandestine
+et par mesure sanitaire.
+
+ÉCROUS.
+
+93
+!3
+en
+CD
+
+8,800
+42
+156
+46
+60
+9
+»
+7
+
+16
+1
+25
+1
+37
+2
+»
+
+2
+2
+»
+1
+7
+»
+
+91
+148
+252
+94
+455
+5
+»
+4
+
+9,932
+613
+1,123
+540
+1,047
+53
+4
+48
+
+9,120
+
+82
+
+12
+
+1,049
+
+13,360
+
+Relevé numérique des personnes écrouées dans les cellules
+des commissariats et des postes de police en 1899.
+DIVISIONS
+GENRE
+
+et
+POSTES
+
+l
+
+r e
+
+division
+
+2
+id
+Poste de police rue Haute
+e
+
+3 division
+Poste porte d'Anderlecht.
+
+Ivresse publique
+Une nuit sur demande ,
+Désordres et mesures de police.
+»
+Ivresse publique
+Désordres et mesures de police.
+
+e
+
+4° division
+Poste rue de l a Fiancée .
+5 division .
+e
+
+.
+
+G division
+0
+
+Poste du Bois ,
+7 division
+e
+
+D'ECROUS.
+
+D E POLICE.
+
+.
+
+,
+
+,
+
+9
+
+Ivresse publique
+Désordres et mesures de police.
+Une nuit sur demande .
+»
+Ivresse publique
+Désordres et mesures de police.
+Ivresse publique
+Désordres et mesures de police.
+Ivresse publique
+Désordres et mesures de police.
+Ivresse publique
+Désordres et mesures de police.
+Total.
+
+.
+
+.
+
+Jugements prononcés par le tribunal de police pendant l'année 1899.
+C o n t r a v e n t i o n s a u C o d e pénal, a u x l o i s spéciales et aux
+r è g l e m e n t s de p o l i c e ( n o n c o m p r i s le c o l p o r t a g e et la prosti
+13,861
+tution) .
+.
+.
+.
+.
+8,294
+C o n t r a v e n t i o n s a u r è g l e m e n t s u r le c o l p o r t a g e
+C o n t r a v e n t i o n s au r è g l e m e n t s u r l a p r o s t i t u t i o n
+
+2,115
+
+Contraventions à l a loi sur l'ivresse publique .
+
+1,656
+
+C o n t r a v e n t i o n s à l a l o i s u r le v a g a b o n d a g e
+
+1,363
+
+Affaires c o r r e c t i o n n e l l e s faisant l'objet d'une o r d o n n a n c e de r e n v o i de l a C h a m b r e du C o n s e i l
+Total.
+
+.
+
+.
+
+2,90q
+30,191
+
+— 323
+
+Chapitre 5. -
+
+DÉMOGRAPHIE. —
+
+HYGIÈNE. -
+
+ÉTAT
+
+S E R V I C E DE SANTÉ
+
+SANITAIRE.
+
+Les constatations officielles des naissances, des mort-nés et
+des décès se font à domicile par les médecins circonscriptionnaires, en vertu de la délégation qui leur a été donnée à
+cette fin par M . l'Echevin, officier de l'état civil.
+
+Natalité.
+Pour l'année 1899, i l a été déclaré au bureau de l'état civil
+4,792 naissances ; ce chiffre correspond à une moyenne quotidienne de 13.1 naissances et un taux de natalité de 23.1
+pour 1,000 habitants.
+Le nombre des naissances masculines est de 2,383 (légitimes, 1,770 ; illégitimes, 613) ; celui des naissances féminines,
+de 2,409 (légitimes, 1,736 ; illégitimes, 673), soit un total
+de 3,506 enfants légitimes et de 1,286 enfants nés hors
+mariage.
+Dans ce nombre sont comprises 72 naissances gémellaires
+(masculines, 44 ; féminines, 28), dont 60 légitimes et 12 illégitimes.
+Parmi les naissances illégitimes figurent 195 enfants issus
+de mère étrangère à la ville.
+Les relevés, par circonscriptions territoriales, donnent les
+chiffres ci-après :
+l
+2
+3
+4
+5
+6
+7
+
+r e
+e
+e
+
+e
+e
+e
+e
+
+division :
+757 naissances, soit
+id.
+1 356
+id.
+id.
+1,218
+id.
+id.
+546
+id.
+id.
+377
+id.
+id.
+43
+id.
+id.
+80
+id.
+
+20.5 pour °/.. habitants.
+24.2
+' id.
+20.6
+id.
+16.5
+id.
+24.5
+id.
+10.5
+id.
+23.8
+id.
+
+Dans le total de la 3 division ne figurent pas 268 enfants nés
+a la Maternité, de mère non domiciliée à Bruxelles ; et dans
+celui de la 5 division, ne sont pas compris 147 enfants nés à la
+maternité Sainte-Anne, de mère également non domiciliée 3,
+Bruxelles.
+e
+
+e
+
+Mortinatalité.
+L e n o m b r e de* mort-nés est de 30)1; celui
+«le 204.
+
+des avortons
+
+Mort-nés m a s c u l i n s , 160 : légitimes, 9 1 ; illégitimes, 69
+Id.
+féminins, 143
+id.
+88 ;
+id.
+' 55]
+Avortons.
+204
+îd.
+141;
+id.
+(i!!.
+Mortalité.
+L e total général des décès enregistrés à l'état civil pour
+l'année 1899 est de 4,224 ( m a s c , 2,134 ; f é m . , 2,090).
+L a répartition des décès, par circonscriptions territoriales,
+donne les résultats suivants :
+l
+2
+
+r
+
+e
+e
+
+4
+5
+6
+7
+
+e
+e
+e
+e
+
+division:
+id.
+id.
+id.
+id.
+id.
+id.
+
+636 décès, soit 1 7 . 2 pour ° /
+1,121
+id.
+20.0
+1,089 i d .
+18.5
+450 i d .
+13.(i
+262 i d .
+17.0
+52 i d .
+12 7
+52 i d .
+15.5
+
+0 0
+
+habitants.
+id.
+id.
+id.
+id.
+id.
+id.
+
+L e n o m b r e des décès des non-résidents, c'est-à-dire des personnes transportées d i r e c t e m e n t des communes suburbaines
+dans nos hôpitaux est de 562 ; celui des B r u x e l l o i s morts dans
+nos hôpitaux, et reportés à l ' a c t i f des divisions territoriales où
+ils avaient leur domicile est de 9 8 9 .
+L e n o m b r e absolu des décès pour l a population bruxelloise
+est, défalcation faite des non-résidents, de 3,662. Ce chiffre
+correspond à une moyenne de 10 décès par j o u r et à u n taux
+annuel moyen de mortalité de 17.6 pour 1,000 habitants.
+L e t o t a l des décès de l a population bruxelloise, comparé à
+c e l u i de l a moyenne de l a dernière période décennale (18811900), présente une d i m i n u t i o n de 452 décès.
+L'excédent du chiffre des naissances sur celui des décès
+b r u x e l l o i s est de 1,130
+Le total des décès de l a population b r u x e l l o i s e , par état civil,
+se répartit de l a façon suivante :
+Enfants et célibataires, 1,932 ; mariés, 1,037 ; divorcés, 21 ;
+veufs et veuves, 672.
+Nuptialité.
+L e n o m b r e des mariages célébrés pendant l'année 1899 est
+de 2,357. Ce chiffre correspond à une moyenne quotidienne
+de 6.5 mariages et à un taux de nuptialité de 30.5 sur
+1,000 m a r i a b l e s .
+88 divorces ont été prononcés.
+
+— 325 —
+Service
+
+de
+
+santé.
+
+Des soins médicaux ainsi que les médicaments sont accordés,
+à titre gratuit, à certaines catégories d'employés c o m m u n a u x
+ainsi qu'à leur famille (femme et enfants h a b i t a n t sous le même
+toit).
+Les consultations et visites médicales faites par les médecins
+circonscriptionnaires se répartissent de l a manière suivante :
+Circonscriptions
+administratives,
+
+'Ire Division
+
+2e
+3e
+4e
+5e
+6e
+7e
+
+Police
+Fontainiers
+agts. f a m i l l e , a g t s . famille
+
+Service
+des
+inhumations.
+Messagers
+agts. f a m i l l e , a g t s . f a m i l l e .
+
+1,925
+
+331
+
+55
+
+7
+
+16
+
+3
+
+2
+
+»
+
+487
+
+565
+
+51
+
+63
+
+15
+
+19
+
+23
+
+30
+
+1,335
+
+612
+
+307
+
+31
+
+57
+
+11
+
+8
+
+3
+
+920
+
+410
+
+8
+
+3
+
+3
+
+1
+
+32
+
+14
+
+460
+
+514
+
+14
+
+6
+
+67
+
+115
+
+5
+
+»
+
+330
+
+»
+
+629
+
+77
+
+»
+
+30
+
+»
+
+24
+
+»
+
+200
+
+25
+
+»
+
+»
+»
+
+»
+»
+
+24
+
+50
+
+))
+
+»
+
+Pompiers
+Totaux.
+
+Pompiers. Total.
+
+5,657 3,111
+
+537
+
+134
+
+158
+
+2,339
+1,253
+
+i)
+
+2,364
+1,391
+1,181
+1,114
+275
+
+»
+
+995
+
+995
+
+149 100
+
+71
+
+995
+
+10,912
+
+Le total des certificats médicaux délivrés pour exemption de
+service aux agents de l a police, aux pompiers et aux fontainiers
+s'est élevé à 1,372 et se répartit comme suit :
+Effectif.
+
+Police, Ire d i v i s i o n .
+»
+2e
+3e
+4e
+5e
+6e
+7e
+Totaux.
+Pompiers
+Fontainiers
+
+Cas
+de m a l a d i e s .
+
+Nombre
+de certificats
+d'exemption.
+
+N o m b r e de Journées
+d'exemption.
+Total.
+
+S u r 100.
+
+536
+
+765.7
+
+115
+
+157
+
+76
+
+97
+
+123
+
+497
+
+653.9
+
+78
+
+412
+
+420
+
+1,541
+
+1975.6
+
+74
+
+103
+
+123
+
+429
+
+579.7
+
+54
+
+35
+
+63
+
+492
+
+911 1
+
+33
+
+42
+
+85
+
+429
+
+1300.0
+
+27
+
+19
+
+73
+
+490
+
+1814.8
+
+412
+
+823
+
+1,044
+
+4,414
+
+1071.4
+
+180
+
+»
+
+•21)6
+
+882
+
+490.0
+
+29
+
+19
+
+32
+
+215
+
+741.4
+
+70
+
+Les causes d'empêchement de service des membres du p e r sonnel enseignant sont constatées à domicile par les médecins
+désignés à cet elïet par l ' a d m i n i s t r a t i o n communale.
+
+— 326
+
+-
+
+L'intervention médicale a été réclamée dans 520 cas :
+Effectif,
+
+Cas
+de maladies,
+
+Nombre
+N o m l i r e de journées
+de certificats
+d'exemption
+d'exemption. ^ — —
+.
+m
+
+Total.
+
+sur lou.
+
+Exercice 1899-1900.
+Instituteurs
+
+.
+
+.
+
+248
+
+89
+
+136
+
+1,417
+
+Institutrices
+
+.
+
+.
+
+457
+
+242
+
+390
+
+4,445 '
+
+966.1
+
+Totaux.
+
+705
+
+331
+
+526
+
+5,832
+
+827.2
+
+571.4
+
+I l convient de remarquer que, dans le total des exemptions
+de service accordées au personnel enseignant, les prolongations
+de congé interviennent pour une quote-part de 151, ce qui
+réduit à 375 le nombre d'instituteurs et d'institutrices temporairement empêchés de vaquer à leurs occupations pendant un
+temps donné.
+L e relevé ci-après indique les affections qui ont été observées
+le plus souvent chez ces fonctionnaires :
+Grippe et influenza.
+.
+.
+Bronchite et pneumonie .
+.
+Gastrite
+.
+.
+Laryngite
+.
+.
+.
+.
+Angine .
+.
+.
+.
+.
+.
+Rhumatisme .
+.
+.
+.
+Maladies gastro-intestinales .
+Méthrorragie .
+.
+.
+.
+.
+Affections névralgiformes
+.
+Maladies nerveuses.
+.
+.
+.
+N e u r a s t h é n i e . . . . .
+s
+
+.
+.
+.
+.
+.
+.
+
+84
+25
+22
+21
+20
+19
+18
+11
+11
+10
+7
+
+Le nombre de visites corporelles des candidats postulant un
+emploi dans les différents services de l ' A d m i n i s t r a t i o n communale s'est élevé à 231 (employés et candidats instituteurs, 54;
+police, 113 ; pompiers, 64). Dans ce nombre, 58 candidats ont
+été déclarés inaptes, comme ne réunissant pas les conditions
+requises pour occuper l ' u n ou l'autre de ces emplois (employés,2 ;
+police, 35, dont 20 pour défaut de taille ; pompiers, 21).
+Aliénés.
+E n conformité de l'article 95 de l a l o i communale et de la loi
+du 18 juin 1850 sur le régime des aliénés, modifiée par la loi
+du 28 décembre 1873, le Collège a eu à se prononcer sur 259
+collocations d'insensés.
+L e tableau ci-après renseigne l'âge, le sexe, l'état civil, le
+lieu d'origine des personnes colloquées à. l'asile-dépôt annexé
+à l'hôpital S a i n t - J e a n , ainsi que la forme présumée de l'aliénation mentale et l'issue de la mise en observation.
+
+SEXE
+
+E T ÉTAT
+
+L I E U
+
+CIVIL.
+
+D E
+
+CO
+
+O
+
+NAISSANCE.
+
+«S
+
+AGE.
+
+Célibataires.
+
+Vruls.
+
+F.
+
+M.
+
+1 »
+2
+1
+1 5
+10
+8
+9 7
+18 10
+27
+»
+(> 1
+5
+1
+6
+1
+5
+»
+2
+1
+1 1
+»
+»
+i »
+»
+»
+»
+»
+1
+
+»
+»
+»
+1
+<)
+19
+10
+14
+13
+9
+4
+5
+1
+1
+»
+»
+»
+
+»
+»
+»
+»
+»
+»
+1
+»
+1
+»
+5
+2
+2
+1
+3
+2
+)>
+1
+»
+3
+3
+2
+1
+1
+1 1 1
+» »
+»
+»
+)>
+»
+»
+»
+
+86
+
+17
+
+M.
+
+5 à 10 ans
+11 à 15 »
+16 à 20 »
+21 à 25
+»
+26 à 80
+»
+31 à 35
+»
+36 à 40
+»
+4là^5
+>
+46 à 50 »
+51 à 55
+»
+56 à 60 »
+61àG5
+»
+66 à 70
+»
+71 à 75 »
+76 à 80
+»
+81 à 85 »
+86 à 90
+»
+
+Mariés.
+
+93
+
+F
+
+259
+
+M.
+
+Bruxelles.
+
+M.
+
+»
+»
+»
+)>
+»
+»
+2
+?>
+3
+»
+1
+1
+
+!
+
+F.
+
+GO
+
+AggloméAutres
+ration
+commun" É t r a n g e r
+bruxelbelges.
+loise.
+F.
+
+M.
+
+M.
+
+F.
+
+M.
+
+»
+»
+»
+2
+4
+4
+3
+2
+4
+1
+l
+2
+»
+»
+»
+»
+»
+
+»
+»
+»
+1
+3
+3
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+1
+
+»
+»
+)>
+2
+3
+16
+24
+10
+10
+8
+5
+5
+3
+1
+»
+»
+»
+
+»
+1
+1
+5
+4
+3<
+4
+5
+3
+1
+2
+1
+2
+»
+»
+»
+
+»
+»
+»
+1
+4
+2
+3
+»
+3
+1
+2
+1
+»
+»
+»
+»
+»
+
+1
+»
+2
+1
+»
+4
+8
+8
+16
+7
+24 15
+29
+2
+18
+7
+8
+4
+13
+1
+5
+4
+8
+2
+8
+3
+1
+1
+»
+1
+»
+»
+
+»
+»
+1
+1
+1
+»
+»
+1
+3
+1
+4
+»
+»
+
+8
+
+87
+
+17
+
+136
+
+13 13
+
+65
+
+17 '23
+
+259
+
+)J
+
+32
+
+O
+
+FOBMES
+
+E T CAUSES
+
+D'ALIÉNATION
+
+M.
+
+1
+1
+»
+»
+
+•H
+
+T3
+
+O
+
+F.
+
+»
+»
+2
+3
+1
+6
+»
+1
+»
+»
+»
+1
+i
+1
+1
+»
+»
+
+'H
+
+09
+
+O
+
+M.
+
+1
+2
+1
+6
+7
+17
+8
+10
+2
+8
+3
+»
+»
+»
+)>
+»
+»
+
+co
+
+O
+
+co
+
+M.
+
+F
+
+F.
+
+»
+
+»
+»
+»
+1
+1
+»
+1
+»
+»
+
+»
+1
+1
+15
+9
+3
+7
+3
+2
+»
+»
+
+»
+»
+
+1
+
+»
+»
+»
+
+»
+
+61
+
+12
+
+3
+
+41
+
+259
+
+1
+
+»
+
+M.
+
+MENTALE,
+
+F
+
+95
+
+))
+
+))
+
+Alcoolisme
+
+))
+
+))
+
+))
+1
+
+Délire de persécution
+
+40
+
+))
+
+Mélancolie délirante.
+
+26
+
+Démence
+
+18
+
+))
+))
+
+.
+
+.
+
+.
+
+.
+
+.
+
+»
+
+))
+
+F o l i e ! ystérique .
+
+15
+
+1
+
+))
+
+Idiotie
+
+15
+
+))
+
+»
+1
+
+))
+
+1
+
+))
+
+Folie épileptiquc.
+
+11
+
+))
+
+))
+
+))
+
+Paralysie progressive
+
+9
+
+1
+
+))
+
+))
+
+F o l i e morale .
+
+))
+
+)»
+
+))
+
+))
+
+»
+
+))
+
+))
+
+))
+
+»
+
+))
+
+))
+
+))
+
+>")
+
+))
+
+3
+
+3
+
+))
+
+)>
+))
+
+Manie
+
+aiguë .
+
+15
+
+Ramollissement .
+Délire des grandeurs
+Total
+
+259
+
+OJ
+
+^1
+
+328 —
+L e tableau rétrospectif ci-après indique le nombre annuel
+moyeu des collocations qui ont eu lieu à l'asile-dépôt depuis
+
+l'année 1864.
+
+Périodes.
+quinquennales.
+
+1861-68
+1869-73
+1874-78
+1879-83
+1884-88
+1889-93
+1894-98
+Année
+1899
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+Totaux.
+—
+
+.
+.
+
+.
+
+524
+595
+.
+618
+.
+812
+.
+749
+. 1,111
+.1,473
+.
+259
+
+.
+.
+.
+.
+.
+.
+
+.
+
+Vaccinations
+
+Moyennes
+annuelles.
+
+104.8
+119.0
+123.6
+162.4
+149.8
+222.2
+294.6
+259 »
+
+gratuites.
+
+Tous les ans, au mois de m a r s , au moyen d'avis officiels
+r e p r o d u i t s dans les j o u r n a u x et placardés s u r les endroits
+apparents des m u r s de nos édifices, bâtiments d'écoles, etc.,
+nous signalons à l ' a t t e n t i o n de nos concitoyens l'importance
+île la vaccination et de la r e v a c c i n a t i o n .
+E n outre, dans le courant du printemps, les élèves des écoles
+communales âgés de plus de d i x ans sont invités à demander à
+leurs parents l'autorisation de pouvoir être revaccinés.
+L e vaccin nous est fourni par l'office vaccinogène central de
+l'État.
+Le nombre des inoculations vaccinales faites pendant l'exercice 1899-1900 dans les différents établissements communaux
+et charitables de l a V i l l e est de 0,973.
+
+P.. . .
+Division
+,,,
+..
+a hygiène,
+
+\accinations .
+\ v>
+. . .
+' lievaccinations
+j
+(
+H
+n
+f
+à
+a
+f
+S des Ecfllés)
+I
+
+d
+
+Totaux.
+H o s p i c e des
+E n f a n t s assistés.
+
+\ Vaccinations .
+^ Revaceinations
+Totaux.
+
+3,021
+16
+23
+
+1
+30
+195
+
+3.060
+
+226
+
+628
+
+—
+
+628
+
+. . . ., , ... r,.
+\ Vaccinations . '
+Hôpital b ' - P i e r r e . { .,
+,.
+/ lievaccinations
+
+100
+
+—
+
+r
+
+Totaux.
+
+100
+
+M a i s o n s de s e c o u r s ) V a c c i n a t i o n s
+(bienfaisance).
+) ltevaeeinations
+Totaux.
+
+.
+
+T o t a l général
+
+Inconnus, j
+
+j
+Insuccès,
+
+Succès.
+
+Pustulalion I
+bâtarde.
+
+L e tableau suivant fait connaître les résultats des opérations
+pratiquées :
+TOTAL.
+
+764
+240
+
+3,78'J
+538
+1,128
+
+1.165
+
+1,004
+
+5,455
+
+20
+24
+
+224
+
+872
+24
+
+44
+
+224
+
+89b'
+
+2
+2
+
+512
+6
+
+614
+8
+
+4
+
+518
+
+622
+
+3
+•252
+910
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+3,788
+
+226
+
+1,746
+
+6,973
+
+1,213
+
+D'HYGIÈNE
+
+EXEUCICES.
+
+i
+
+i
+
+n
+
+E9
+
+CJ
+
+i
+
+è
+
+1874-78 1,489
+
+ASSISTÉS
+
+.—
+
+-n
+
+co • —«
+
+rt
+
+es
+
+o
+
+.
+
+E-"
+
+"c_>
+
+u
+es
+
+ta
+
+586 2,075
+
+||Sji879-83 3,376 1,793 5,169
+
+U
+
+C3
+>
+
+o
+•«s
+
+CS
+o
+
+H
+
+.1
+|
+— CJ
+C5 es
+
+1 2
+> «
+
+TOTAL GÉNÉRAL
+
+ENFANTS
+
+HÔPITAL
+
+DIVISION
+
+s'-HERRE
+
+Le résumé ci-après indique les opérations accomplies par les
+divers services officiels depuis 1874 :
+
+MAISONS
+DE
+
+SECOURS
+
+^ BIENFAISANCE).
+
+aï
+
+O
+
+es
+
+'5
+«
+
+2,1 23 ,
+
+2,123
+
+966
+
+>
+12
+
+1,6 61
+
+1,661
+
+812
+
+11
+
+•—
+ci
+
+y C
+>
+
+"es
+*J
+O
+
+H
+
+12
+
+5,176
+
+12
+
+23
+
+7,665
+
+962
+
+411
+
+1,403
+
+582
+
+57
+
+2
+
+59
+
+7,092
+
+* ||' 1889-93 3,483 3,692 7,175 1,016
+
+659
+
+1,675
+
+642
+
+16
+
+21
+
+37
+
+9,529
+
+,1894-95 5,485 2,193 5,678 1,032
+
+49
+
+1,081
+
+697
+
+8
+
+8
+
+7,464
+
+-
+
+ll895-96 3,518 2,070 5,588
+
+971
+
+54
+
+1,025 1,161
+
+|
+
+11896-97 3,545 2,056 5,601
+
+935
+
+43
+
+w
+
+U897-98 3,579 1,763 5,342
+
+988
+
+20
+
+1898-99 3,792 1,658 5,450
+
+967
+
+18
+
+985
+
+510
+
+'•1899-00 3,789 1,666 5,455
+
+872
+
+24
+
+896
+
+622
+
+| | 1/1881-88 3,302 1,746 5,048
+
+7,774
+
+821
+
+11
+
+11
+
+7,411
+
+1,008 1,045
+
+6
+
+6
+
+7,401
+
+2
+
+2
+
+6,947
+
+978
+
+6,973
+
+4f
+
+Hygiène
+
+scolaire.
+
+Le nombre des écoles créées ou subsidiées par la Ville est
+de 54.
+A chacune de ces écoles est attaché un médecin chargé du
+service médical et hygiénique.
+Les médecins sont tenus de faire une visite au moins une fois
+pur décade, dans toutes les classes.
+Ils ont pour mission également de donner, mensuellement,
+des causeries sur l'hygiène publique et privée dans les classes
+supérieures des écoles primaires ; ces causeries font ensuite
+l'objet d'un devoir de rédaction delà part des élèves.
+Dans les établissements d'enseignement moyen et professionnel, i l est donné des cours spéciaux d'hygiène; ils font
+partie du programme officiel.
+Médication préventive.
+— Ce service est institué depuis
+1875 dans nos établi>sements d'instruction primaire.
+n
+22
+
+L a distribution des médicaments aux entants valétudinaires
+se fait par le concierge de l'école, sous l a surveillance d'un
+m e m b r e du personnel enseignant.
+Les résultats obtenus par cette médication sont consignés
+dans le tableau ci-après :
+EXERCICE
+
+1899-1900.
+
+N o m b r e d'élèves traités
+»
+
+.
+
+3,425.
+
+dont l a santé s'est améliorée.
+
+3,148.
+
+Résultat inconnu
+
+.
+
+.
+.
+
+.
+.
+
+NOMBRE
+EXERCICES.
+
+Traités.
+
+iliiiit la
+santé s'est
+améliorée.
+
+RÉSULTATS
+
+Nul.
+
+Inconnu
+
+515.4
+
+133.8
+
+103.0
+
+1311.4
+
+1027.0
+
+1-28.2
+
+156.2
+
+\ 1886-90
+
+1906.8
+
+1714.0
+
+45.2
+
+147.6
+
+(
+
+1891-95
+
+2810.4
+
+2544.8
+
+121.2
+
+144.4
+
+(
+
+1895-96
+
+3895
+
+3676
+
+42
+
+177
+
+\
+
+1896-97
+
+3243
+
+3051
+
+40
+
+152
+
+< 1897-98
+
+3618
+
+3462
+
+31
+
+125
+
+1898-99
+
+3975
+
+3717
+
+258
+
+1899-1900 3425
+
+3148
+
+277
+
+Périodes quinquennales ^
+
+Exercices
+
+D'ÉLÈVES
+
+277.
+
+812.2
+
+'
+
+1875-79
+
+/
+
+Moyennes annuelles
+
+.
+
+1880-85
+
+L e service d'hygiène dentaire est institué dans nos écoles
+depuis 1 8 7 7 .
+L e c h i r u r g i e n dentiste chargé de ce service spécial est tenu
+de faire deux visites hebdomadaires dans les écoles et de
+donner, mensuellement, aux élèves des classes supérieures des
+écoles p r i m a i r e s , une causerie sur l'hygiène de la bouche.
+
+— 334
+Le relevé suivant indique
+depuis 1877 :
+
+-
+
+le nombre des élèves traités
+
+LESIONS ET DIFFORMITES B U C C A L E S T R A I T E E S .
+NOMBRE
+
+EXERCICES
+
+TRAITÉS
+
+i l
+
+o
+E
+
+Périoslile
+
+Ëtroitesse
+des
+mâchoires,
+dents surnuméraires
+
+Odontalgie
+
+Consultations
+pour
+affections
+diverses
+de la bouche
+
+D'ÉLÈVES
+
+1877-82
+
+1031 6
+
+296.0
+
+358.0
+
+328.0
+
+103.8
+
+1882-87
+
+1080.4
+
+240.4
+
+349.6
+
+337.0
+
+153.4
+
+1887-92
+
+1316.6
+
+295.2
+
+478.6
+
+445.8
+
+97.0
+
+1892-95
+
+756.6
+
+241.4
+
+253.4
+
+243.2
+
+70.2
+
+523
+515
+705
+551
+559
+
+403
+422
+655
+444
+415
+
+391
+
+143
+
+365
+
+141
+
+429
+
+203
+
+325
+
+314
+
+153
+
+317
+
+1895- 96
+1896- 97
+1897- 98
+1898- 99
+1899- 00
+
+1363
+1334
+1378
+1523
+1346
+
+Maladies contagieuses. — Mesures de prophylaxie
+dans les
+écoles. — Les instructions relatives aux cas de maladies c o n t a gieuses constatés chez des enfants fréquentant nos établissements d'instruction ont été ponctuellement suivies par les chefs
+d'école. Tous les cas signalés ont fait l'objet d'une enquête
+au domicile de l'élève malade.
+Le relevé ci-après indique les cas de maladies transmissibles
+constatés pendant l'année scolaire 1899-1900 chez nos élèves :
+
+DÉSIGNATION
+des
+
+a.
+S
+
+ÉCOLES.
+
+Ecoles primaires.
+Id.
+
+gardiennes
+
+Id.
+
+moyennes
+
+Cours d'éducation
+Ecoles normales .
+
+87
+
+14
+
+147
+
+10
+
+3
+
+1
+2
+
+27
+
+9
+
+1
+
+19
+
+6
+
+3
+
+1
+
+— 332 —
+POLICE
+
+Prophylaxie
+
+des maladies
+
+SANITAIRE.
+
+épidémiques
+
+et
+
+infectieuses,
+
+L a D i v i s i o n d'hygiène a reçu avis de 759 cas de maladies
+transmissibles.
+L e relevé des cas signalés se trouve reproduit ci-dessous avec
+l a source de l'avis d ' i n f o r m a t i o n .
+SERVICES
+
+NATURE
+
+DE
+
+écoles
+officielles.
+
+la
+bienfaisance
+publique.
+
+culiers
+
+l'hôpital
+militaire.
+
+M A L A D I E .
+
+l'hôpital
+Saint-Pierre.
+
+parti-
+
+l'hôpital
+
+cins
+de l a
+
+Saint-Jean.
+
+Méde-
+
+1
+
+Variole .
+Varioloïde
+
+«M
+
+H
+O
+H
+
+1
+2
+
+2
+
+1
+
+4
+
+1
+
+8
+
+17
+
+6
+
+223
+
+191
+
+450
+
+6
+
+3
+
+12
+
+6
+
+21
+
+53
+
+9
+
+44
+
+51
+
+6
+
+14
+
+6
+
+130
+
+C r o u p et diphtérie .
+
+2
+
+3
+
+23
+
+5
+
+5
+
+38
+
+Coqueluche
+
+.
+
+1
+
+13
+
+21
+
+42
+
+77
+
+Totaux.
+
+28
+
+274
+
+268
+
+759
+
+Varicelle
+
+1
+
+1
+
+Rougeole
+
+10
+
+3
+
+Scarlatine
+
+5
+
+Fièvre typhoïde
+
+57
+
+107
+
+25
+
+L e service de l a désinfection des logements contaminés est
+organisé d'une façon régulière et méthodique depuis la création
+du service d'hygiène, soit depuis l'année 1874.
+Dès l a réception de l'avis d ' i n f o r m a t i o n , u n agent de l a salubrité se rend dans la maison contaminée pour y appliquer, conformément à des instructions spéciales et d'après u n cadrequestionnaire q u i l u i sert de vade-mecum,
+les mesures de
+désinfections reconnues nécessaires.
+L e relevé ci-après fournit les renseignements relatifs à la
+désinfection, toujours opérée d'office et à titre gratuit,
+dans
+781 habitations dans lesquelles des cas de maladies transmissibles se sont produits et où les mesures de désinfection ont pu
+être appliquées soit après départ pour l'hôpital, soit aines
+guérison ou décès du patient.
+
+— 333 —
+Fumigations ou désinfections par l'acide sulfureux :
+592
+Désinfection au moyen de lavages à l'eau créolinée :
+781
+Appareils siphoïdes et branchements d'égout désinfectés : 781
+Literies et hardes de peu de valeur dont la destruction
+par le feu a été ordonnée au nom de la salubrité publique,
+chez les familles indigentes,et qui sont remplacées aussitôt
+par le service delà bienfaisance publique (paillasses, 100;
+couvertures, 82; traversins, 59) :
+241
+=s
+=
+
+II est également fait usage des étuves à désinfection dont
+sont pourvus les hôpitaux de Saint-Jean et de Saint-Pierre et
+l'hospice de l'Infirmerie pour la désinfection des literies.
+D'une manière générale, les linges appartenant aux malades
+sont soumis à une ébullition prolongée dans une solution antiseptique.
+Le nombre des chambres ou appartements blanchis au lait
+de chaux par les propriétaires ou occupants s'est élevé au
+chiffre de 110.
+Des mesures de désinfection sont également appliquées dans
+les logements qu'ont occupés des tuberculeux.
+La désinfection d'après les principes du professeur Flùgge,
+de Breslau (Gaz aldéhyde formique), sera généralisée sous peu
+par le service officiel de la désinfection.
+Pendant l'année 1899, la maison d'attente dite Poste sanitaire a donné asile à 31 familles comprenant 111 personnes,
+qui y ont séjourné, en attendant que leur unique chambre de
+logement lut convenablement désinfectée.
+Les hôtes momentanés du Poste sanitaire qui y ont passé la
+nuit et une partie de la journée ont reçu 111 bons de déjeuner
+et 122 de dîner payés par la caisse des pauvres de M . le Bourgmestre.
+Le gardien du poste a délivré 111 bains à ces hôtes passagers.
+Nos voitures spéciales servant au transport de personnes
+atteintes de maladies contagieuses ont été requises 55 fois pour
+les affections suivantes :
+Fièvre typhoïde.
+.
+.
+Scarlatine
+.
+.
+.
+Erysipèle.
+.
+.
+.
+R o u g e o l e . . . .
+Affection cholériforme
+.
+
+38
+10
+4
+2
+1
+
+— -.m —
+1 >olice sanitaire.
+— L a réception des avis de cas de maladies
+transmissibles dont i l est question ci-dessus, ainsi que des avis
+dè décès dus à ces mêmes maladies a donne occasion au porto*
+nel de l a Division d'hygiène de procéder a 840 enquêtes techninues sur l a salubrité des immeubles momentanément contaminés 201 enquêtes ont conclu à l a nécessité d imposer aux
+propriétaires de maisons reconnues insalubres 1 exécution de
+travaux en vue d'assainir ceux-ci.
+L e tableau suivant indique les affections transmissibles qui
+ont motivé des rapports et permet, e n même temps, d établir
+une comparaison avec les données de même nature relevées
+pour chacune des deux dernières périodes quinquennales
+1889-1893 et 1 8 9 4 - 1 8 9 8 :
+RAPPORTS
+
+SUIVIS
+
+non suivis
+de travaux d'assainissement.
+
+de travaux d'assaiuissemciit.
+
+P é r i o d e s quiuquennalcs
+
+Périodes quinquennales
+1899
+—
+
+1894-98
+
+1889-93-
+
+Moyennes annuelles.
+
+1899
+—
+
+1894-98
+
+1889-94.
+
+Moyennes annuelles.
+
+6
+
+14
+
+133
+
+1
+
+10
+
+53
+
+Kougeole.
+
+59
+
+10
+
+8
+
+10
+
+3
+
+1
+
+Scarlatine
+
+37
+
+64
+
+19
+
+3
+
+40
+
+18
+
+Fièvre typhoïde
+
+75
+
+50
+
+95
+
+04
+
+73
+
+95
+
+C r o u p et diphtérie .
+
+44
+
+42
+
+36
+
+15
+
+28
+
+34
+
+Coqueluche
+
+47
+
+74
+
+25
+
+14
+
+26
+
+10
+
+A t f e c t " cholériformes
+
+—
+
+0
+
+2
+
+Variole-varioloïde .
+
+5
+
+94
+
+Tuberculose p u l m o n ' ' 380
+e
+
+Totaux
+
+648
+
+0.4
+
+260
+
+318
+
+201
+
+180,4 216
+
+'• Wifr
+
+335 —
+
+Les résultats techniques auxquels ont abouti les 201 enquêtes
+dont i l est question à la page 334 sont spécifiés ci-après :
+
+NATURE
+
+•«lin i
+es igi
+
+DES
+
+TRAVAUX
+
+D'ASSAINISSEMENT.
+
+Drainage et nettoyage.
+14
+
+Réparation d'égouts
+.
+.
+.
+.
+Remplacement de sterfputten
+»
+de coupe-air
+Disconnexion et ventilation des tuyaux
+de chute communs
+.
+.
+.
+.
+Réparation de W . - C et d'urinoirs.
+Enlèvement d'immondices
+
+12
+
+Aération.
+Pneu
+1899
+
+«
+
+Aération de mansardes, d'alcôves, etc. .
+»
+de W . - C
+»
+d'étables, d'écuries, etc.
+
+Mise en bon état.
+
+3
+
+I
+
+Assèchement de murs .
+Réparation de murs et de plafonds
+»
+de planchers
+»
+de pavements
+»
+d'escaliers ,
+»
+de toitures.
+»
+de fenêtres.
+Badigeonnage intérieur et extérieur
+Peinture et goudronnage
+Réparation et exhaussementdecheminées
+Interdiction de cave
+
+Eaux.
+Placement des eaux de la distribution
+Condamnation de puits
+Curage de puits
+.
+.
+.
+.
+Curage de citernes
+
+Totaux
+
+7
+11
+
+3
+
+30
+
+7 133
+
+21
+
+22
+
+Dépôt mortuaire de Bruxelles.
+— 951 corps ont été transportés au dépôt mortuaire, savoir : 509 enfants au-dessous de
+sept ans, 287 corps d'enfants mort-nés. 59 avortons et 96 corps
+d'adultes.
+1
+
+Morgue. — 27 personnes ont été exposées à la morgue
+(21 hommes, 5 femmes et 1 enfant). Toutes ont été reconnues,
+sauf un enfant trouvé sur l a voie publique.
+Prison communale.
+— 539 bains-douches de propreté ont
+été donnés aux détenus.
+
+SALUBRITÉ
+
+Assainissement
+
+PUBLIQUE.
+
+des habitations
+
+insalubres.
+
+L'assainissement des quartiers populeux et des bnbitations
+insalubres a été poursuivi sans relâche. C'est ainsi que
+2,977 inspections ont été faites pendant l'année 1899.
+Ces inspections dans les habitations et impasses signalées
+comme insalubres, ainsi que dans des établissements industriels
+ou autres, soumis à des lois ou ordonnances de police se répartissent de l a façon suivante entre les sept divisions territoriales :
+Indivision .
+
+.
+
+:
+
+502
+
+5
+
+e
+
+division .
+
+division . . .
+
+67
+
+division . . .
+
+28
+
+2
+
+e
+
+division . . .
+
+888
+
+6
+
+e
+
+3
+
+e
+
+division . . .
+
+780
+
+7
+
+e
+
+4
+
+e
+
+division .
+
+497
+
+.
+
+.
+
+.
+
+215
+
+— 337 —
+Les t r a v a u x de réfection p r e s c r i t s e n vue d ' a s s a i n i r les
+habitations i n s a l u b r e s sont indiqués dans le t a b l e a u s u i v a n t :
+DIVISIONS
+
+NATURE
+DES
+
+TRAVAUX
+
+D'ASSAINIS S E M E N T .
+
+Ire
+
+&
+
+2e
+
+ri
+
+TERRITORIALES
+
+4<-
+
+7<
+
+6e
+
+5«
+
+H! <
+
+< a
+o ss
+E-i - a
+
+Drainage et nettoyage.
+Construction d'égouts
+.
+.
+.
+.
+Suppression de fosses fixes
+»
+de puisards
+.
+.
+.
+.
+Réparation d'égouts
+.
+.
+.
+.
+Remplacement de sterfputten
+»
+de coupe-air
+.
+.
+.
+.
+Disconnexion et ventilation des tuyaux
+de chute communs
+.
+.
+.
+.
+Dégagement de tuyaux de chute .
+Construction de W . - C . supplémentaires.
+Réparation de W . - C . et d'urinoirs .
+«
+de bouches d'égout
+«
+de fosses à fumier.
+Enlèvement d'immondices
+Aération.
+Surélévation de mansardes .
+Aération de mansardes, alcôves, etc.
+»
+de W.-C
+»
+d'étables, d'écuries, etc. .
+Évacuation ou mise en bon état.
+Interdiction d'habitation insalubre
+»
+de caves
+»
+»
+de mansarde-d'alcôve
+Assèchement de murs
+.
+.
+.
+.
+Réparation de murs et de plafonds.
+»
+de planchers.
+»
+de pavements
+')
+d'escaliers
+.
+.
+.
+.
+»
+de toitures
+.
+.
+.
+.
+»
+de fenêtres
+Badigeonnage intérieur et extérieur
+Peinture et goudronnage
+Réparation et exhaussement de cheminées
+
+o
+o
+1
+106
+37
+44
+
+7
+
+196
+35
+71
+
+190
+81
+147
+
+2
+1
+
+1
+
+1
+1
+
+89
+37
+63
+
+51
+32
+75
+
+12
+10
+27
+
+55
+18
+
+10
+
+5
+
+1
+
+2
+
+1
+
+33
+
+12
+1
+
+49
+7
+
+17
+
+5
+1
+1
+
+20
+1
+
+12
+1
+
+5
+
+19
+1
+1
+5
+
+2
+
+6
+
+1
+18
+2
+
+1
+1
+10
+1
+
+1
+2
+19
+1
+
+5
+11
+1
+
+1
+
+2
+
+4
+4
+
+4
+13
+6
+25
+4
+3
+
+2
+1
+3
+8
+6
+14
+3
+7
+3
+76
+3
+6
+
+4
+1
+3
+1
+52
+3
+10
+
+119
+4
+12
+
+3
+1
+2
+
+12
+14
+6
+
+1
+1
+
+1
+3
+
+4
+2
+1
+6
+3
+3
+1
+77
+1
+6
+
+3
+11
+2
+
+2
+4
+6
+4
+
+13
+5
+1
+648
+232
+433
+180
+20
+
+62
+4
+2
+21
+
+2
+12
+73
+8
+
+4
+1
+
+5
+1
+15
+28
+13
+52
+11
+17
+5
+339
+11
+35
+
+1
+3
+1
+
+15
+1
+
+Eaux.
+Placement des eaux de l a distribution .
+Condamnation de puits
+.
+.
+.
+.
+Curage de puits
+Réparation de pompes .
+Couvertures de puits et de citernes
+Curage de citernes
+Totaux.
+
+348
+
+589
+
+16
+
+5
+1
+
+8
+3
+3
+
+2
+
+1
+
+1
+
+3
+6
+
+1
+2
+674 366
+
+43
+23
+12
+
+69
+
+278
+
+17
+
+2341
+
+i
+
+Nous n'avons eu qu'à nous l o u e r de l a célérité que les propriétaires
+cause ont mise à se c o n f o r m e r a u x p r e s c r i p t i o n s de l'Autorité.
+
+— 338
+
+-
+
+Constructions nouvelles.— Les plans des constructions nouvelles ou des modifications apportées aux constructions existantes sont soumis à une instruction hygiénique de la part du
+service d'hygiène, qui s'assure, aussitôt la construction terminée, si toutes les prescriptions du règlement sur les bâtisses
+sont observées en ce qui concerne les installations sanitaires
+l'aération des locaux, etc., etc. Ce système a pour avantage
+de ne permettre l'habitation de constructions nouvelles ou
+modifiées, que lorsqu'elles répondent à tous les desiderata de
+l'hygiène publique et privée.
+Pendant l'année 1899, le service d'hygiène a eu à examiner
+702 demandes de construction ou de reconstruction. Ces
+demandes se répartissent de la façon suivante entre les différentes divisions territoriales de la ville :
+I n d i v i s i o n , 5 9 ; 2 division, G9 ; 3 division, 88; 4 division, 88 ; 5 division, 330 ; 6 division, 64 ; 7 division, 4.
+e
+
+e
+
+e
+
+e
+
+e
+
+e
+
+E n outre, 1,417 visites de contrôle ont été faites dans des
+habitations dont la construction était terminée.
+Ces inspections ont permis de constater que la majeure partie
+des propriétaires et des constructeurs avaient tenu compte des
+remarques qui leur avaient été faites, en conformité des
+prescriptions du règlement sur les bâtisses. Ceux d'entre les
+propriétaires et constructeurs qui n'avaient pas observé les
+prescriptions réglementaires ont été tenus de s'y conformer.
+
+L a Commission
+médicale locale a tenu régulièrement ses
+séances mensuelles, le troisième jeudi de chaque mois.
+Elle a été invitée à donner son avis dans 152 cas se rapportant à des causes d'insalubrité constatées dans des habitations.
+Elle a eu également à s'occuper de 30 affaires relatives à des
+questions d'hygiène ou de police médicale.
+ÉTABLISSEMENTS DANGEREUX,
+
+I N S A L U B R E S OU INCOMMODES.
+
+Commission
+spéciale des théâtres.
+Mesures contre l'incendie. — L a question de la sécurité des spectateurs et du
+personnel des théâtres a continué à faire l'objet de toute l'attention de la Commission.
+Des inspections périodiques sont, en outre, faites régulièrement et i l est veillé journellement à l'application de toutes les
+mesures prescrites pour empêcher les accidents de toute
+espèce.
+
+-
+
+ÉTABLISSEMENTS
+
+339 —
+
+RANGÉS DANS
+
+L A PREMIÈRE
+
+E T L A DEUXIÈME
+
+CLASSE.
+
+L e s tableaux suivants font connaître les établissements d a n gereux, insalubres ou incommodes de première et de deuxième
+classe existant à B r u x e l l e s .
+En conformité des lois et des dispositions réglementaires,
+ces établissements sont régulièrement inspectés aux fins de
+s'assurer si les impétrants se conforment aux obligations q u i
+leur incombent pour l'exploitation de leurs établissements
+industriels.
+
+C L A S S E .
+
+Existant au 31 décembre 1899.
+TOTAL
+
+ANNEE
+
+NATURE DES ÉTABLISSEMENTS.
+es *
+
+Abattoir public
+Blanchiment des fils et des toiles de
+lin, etc.. par le chlore .
+.
+.
+.
+Briques réfractaires (fabrication des) et de
+tous autres objets en terre réfractaire .
+Caractères d'imprimerie (fonderies de)
+Carbure de calcium (dépôts renfermant au
+moins 10 kilogrammes de)
+Chandelles (fabrication des) an moyen de
+graisses épurées
+Chapeaux de feutre (fabrication des) .
+Chaudières (fabriques de) et toutes les opérations de chaudronnerie non spéciale*
+ment classées
+Chiffons (magasins de) de plus de 50 kilog.
+Ciments (fabrication des) .
+.
+.
+.
+Corroieries
+Cuirs secs et peaux sèches (dépôts de)
+Cuivre (ateliers de désargenture d u ) .
+Debns d'animaux (dépôts de) .
+Distilleries
+Dorure et argenture sur métaux.
+.
+!
+tau de Cologne et autres produits analogues
+(fabrication de 1') par distillation .
+taux gazeuses (fabriques d') et autres produits similaires
+.
+
+A reporter.
+
+Fermés, j
+
+1899
+DIVISIONS T E B E I T O R . I A L E S .
+]re|
+
+2 | 3 | 45
+e
+
+e
+
+e
+
+e
+
+6 | 7
+e
+
+1
+
+1
+
+1
+
+]
+1
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+3
+
+1
+
+2
+
+1
+
+1
+1
+
+1
+
+3
+l
+
+1
+
+2
+
+A
+
+7
+
+2
+o
+o
+
+1
+1
+
+Ci
+
+1
+
+2
+
+1
+
+2
+
+1
+
+1
+O
+
+2
+
+O
+
+17
+
+6
+
+4
+
+1
+
+1
+1
+12
+
+2
+
+1
+
+3
+
+1
+
+9
+
+1
+
+A
+
+3
+17
+1
+
+4
+1
+
+2
+
+1
+6
+
+e
+
+GÉNÉRAL.
+
+P R E M I È R E
+
+18
+
+21
+
+5
+
+1
+
+3
+
+3
+
+2
+
+56
+
+— 340 —
+P R E M I È R E C L A S S E (mite).
+ANNEE
+1899
+NATURE
+
+DES
+
+Rxislant
+
+ETABLISSEMENTS.
+
+17
+
+6
+
+Electricité. — Ateliers dans lesquels on procède à la charge d'accumulateurs ou à "
+production de la lumière ou de la force
+distribuer à distance
+Emaux (fabriques d').
+Foin (magasins de)
+. . . .
+Fonderies de cuivre, zinc, laiton et plomb
+Glace artificielle (fabrication de la) .
+Huiles (épuration des)
+Liqueurs spiritueuses (par distillation)
+Matières inflammables (dépôts ou magasins
+en grand de), pétrole, n aphte, etc
+Métaux (travail en grand des) n'entraînant
+pas de changement dans leur nature
+Moulins à farine
+.
+Os (magasins d') de plus de 25 kilog.
+Papiers peints et marbrés (fabriques de
+Plâtre (fabrication du) par calcination
+Poisson (citernes à dessaler le) .
+Poisson sec (dépôts ou magasins de) .
+Porcelaine (fabrication de la) .
+Salpêtre (fabrication et raffinage du).
+Savon (fabrication du)
+Sècheries de peaux .
+Tabac (manufactures de) .
+T a n n e r i e s . . . .
+Teinturiers-dégraisseurs .
+Tôles et des fontes émaillées ou vernies
+(fabrication des)
+. . . .
+Vernis (application à chaud de) sur papier
+bois, étoffe, etc.
+Vernis (fabriques de).
+Totaux.
+DEUXIÈME
+
+31
+
+décembre
+
+1809.
+
+DIVISIONS TERRITORIALES.
+l
+
+Report.
+
+mi
+
+r
+
+2
+
+o
+
+9
+
+3
+
+e
+
+18
+
+4
+
+e
+
+e
+
+5
+
+e
+
+6'
+
+21
+
+11
+
+49
+2
+11
+14
+1
+
+1
+
+2
+20
+18
+2
+3
+1
+1
+
+1
+1
+
+67
+
+21
+
+50 66 93
+
+41
+
+15
+
+13
+
+279
+
+CLASSE.
+
+Allumettes chimiques (dépôts de plus de
+500 boîtes) .
+. ^ .
+Anatomie (chambres d') .
+Bergeries ou étables de moutons
+Bitumes, asphaltes, brais (dépôts de)
+A reporter.
+
+32 11
+
+56
+
+S
+1
+
+32
+
+11
+
+C L A S S E
+
+ANKÉ E
+
+distant au 31 décembre 1899.
+
+1899
+NATURE
+
+DES
+
+ÉTABLISSEMENTS.
+
+DIVISIONS T E R R I T O R I A L E S .
+E
+!
+
+Report.
+
+5
+
+Bois (scieries de) en grand.
+53
+Bois ouvrés ou non ouvrés (dépôts de)
+17
+Boucheries
+10
+Boulangeries et l'ours de pâtissier .
+1
+Brasseries.
+;
+2
+Buanderies
+11
+Calé (torréfaction en grand du) .
+2
+Caramels (fabrication en grand des) .
+8
+Carton (fabrique de boîtes et objets en) .
+3
+Chapeaux de soie et autres (fabriques de).
+Charcuteries et magasins de comestibles
+où se préparent des produits alimentaires animaux
+.
+.
+.
+.
+.
+Charpentier (ateliers de)
+. . . .
+10
+Chaudronneries pour ustensiles déménage.
+Chicorée (fabriques de)
+Clous d'épingle, pointes de Paris (fabr. de)
+Combustibles : bois, charbon, houille, etc.
+(dépôts de)
+Déchets de cuisine (dépôt de) .
+Eau de Cologne
+5
+Ebénisterie (ateliers d')
+. . . .
+Ecuries de loueurs, marchands de chevaux 16
+et autres
+8
+Etables de vaches
+6
+Ferblantiers (ateliers de) .
+Forges de maréch. ferr., de serruriers, etc. 47
+2
+Fromages (dépôts de)
+. . .
+Glaces (argenture des)
+. . . .
+2
+Graisses (dépôts de) .
+. . .
+2
+Huiles fixes (dépôts cl')
+. . . .
+Joncs (magasin de)
+Laboratoires de recherches chimiques
+1
+Lard (ateliers à fumer le)
+. . . .
+Liqueurs spiritueuses (fabr. de) par mixtion
+et infusion
+.
+.
+.
+.
+.
+.
+Matières combustibles non prévues (dépôts
+de)
+Matières explosives (dépôts de).
+.
+\
+Matières inflammables (dépôts de) .
+52
+Menuiserie (ateliers de)
+35
+Moteurs, procédés de travail ou machines
+pouvant occasionner un choc ou un bruit
+nuisible ou incommode
+. . . . 8!
+Or et argent (ateliers de batteur d') .
+A reporter.
+
+(suite).
+
+1" 2« | 3° | 4 5
+e
+
+1
+
+si 32
+
+20 48 60
+6 46 75
+8 46 ICO
+o
+1
+O
+1
+6
+4
+9 20
+8
+
+10
+1
+
+4
+10
+
+8
+
+18 22
+1
+
+4
+
+26 42
+1
+2
+23 48
+
+11
+
+8
+
+103 36
+82 41
+79 68
+24
+6 5
+14 3
+
+6 | 7
+e
+
+e
+
+e
+
+1
+1 2
+38 4 11
+43 10 3
+28 7 3
+4 1
+20
+1
+
+2
+
+1
+17 21 13
+1 2
+3 1 2
+1
+1
+
+4
+
+50 17 22
+
+2
+
+30
+
+19
+
+6
+
+3 5 29 6 53 10
+1 10 11 2 2 1
+9 15 12 10 5 2
+56 105 111 66 45 7
+4 4 12 6
+1
+1
+1
+1
+1
+1
+1
+2 1
+6
+4
+2
+
+5
+1
+3
+55
+1
+
+167
+1
+
+1
+
+127
+
+1
+
+107
+27
+53
+398
+26
+2
+2
+3
+2
+4
+12
+
+8
+1
+1
+2
+
+2
+21
+17
+
+2 3
+62 141
+37 79
+
+4
+84 55 67
+86 31 37
+
+3
+4
+
+2
+6
+
+35
+
+62 94 111 65 15
+1 1
+
+1
+
+9
+
+1
+
+2
+
+2
+
+19
+1
+
+O
+
+O
+
+300
+300
+331
+32
+38
+46
+2
+8
+9
+
+8
+
+2 10
+
+1
+
+60
+
+95
+3
+11
+1
+1
+
+1
+
+5
+
+TOTAL
+GÉNÉRAL. !j
+
+D E U X I È M E
+
+3
+12
+414
+280
+357
+2
+
+|379 208 475 896 898 469 403 59 60 3,260
+
+— 342
+DEUXIÈME
+
+NATURE DES ÉTABLISSEMENTS.
+
+—
+(suite).
+
+CLASSE
+
+AV
+I TV
+
+KiislanI an 31
+
+1899
+
+Pailles (préparation des) par des moyen
+mécaniques
+Paille (magasins de)
+. . . .
+Plombiers, fontainiers et zingueurs (ateliers
+de)
+Poêliers (ateliers de).
+Poisson (magasins de détaillants de).
+Porcheries
+Poudre ordinaire, etc. (magasins de)
+Sécheries de peaux de raies
+Stockfish (établissements où l'on détrempi
+le) et débits de stockfish détrempé
+Taillandiers (ateliers de) .
+Théâtres permanents, salles de spectacle,
+y compris les cirques et les théâtres
+permanents de marionnettes .
+Tirs permanents au pistolet et à la cara
+bine Flobert ou armes analogues .
+Tisseranderies à main comportant plu!
+de 10 métiers
+Tonneliers (ateliers de) .
+Triperie (étaux pour la vente des produit:
+de la)
+Vannerie (confection eu grand d'objets de)
+Vernis (dépôts de plus de 4 hectolitres)
+Viandes (salaison, préparation et conser
+vation des)
+Vinaigre de fruits, de grains, de mélasse
+d'esprit-de-vin, etc. (fabriques de).
+Voitures (fabriques de)
+Volailles (engraissement des) .
+Zingueurs (ateliers de)
+Totaux.
+
+379
+
+1899.
+
+DIVISIONS TERRITORIALES.
+
+l
+Report.
+
+dcccmlin:
+
+M-Z fi.
+
+r e
+
+208 47f
+
+|2
+
+e
+
+896
+
+24
+39
+16
+
+3 | 4 | 5 |6| 7»
+e
+
+898
+
+e
+
+e
+
+e
+
+! I
+
+169 403 59 60
+
+18 M
+20
+22
+1
+1
+19
+
+1!
+—
+
+1
+
+4
+1
+
+1
+1
+
+2
+1
+13
+
+15
+
+63
+
+47
+
+1
+1
+
+1
+8
+
+6
+415 247 546
+
+2
+1071 1071
+
+535
+
+1
+446 07
+
+Le relevé ci-après donne, par divisions t e r r i t o r i a l e s , les chaudières et les machines à vapeur existant au 31 décembre 1898,
+ainsi que le relevé nominal de celles établies en 1899.
+
+,
+
+— 343 —
+Appareils à vapeur.
+S i t u a t i o n au 31
+
+DIVISIONS
+
+DÉSIGNATION.
+
+189S.
+
+TOTAL.
+
+Machines à vapeur
+Chaudières et générateurs
+
+Total
+
+décembre
+
+TERRITORIALES.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+•<jre
+
+2
+
+12
+
+20
+
+41
+
+25
+
+5
+
+5
+
+12
+
+120
+
+29
+
+29
+
+53
+
+45
+
+7
+
+5
+
+il
+
+179
+
+»
+
+2
+
+»
+
+»
+
+»
+
+»
+
+»
+
+2
+
+»
+
+8
+
+»
+
+»
+
+»
+
+))
+
+8
+
+70
+
+12
+
+10
+
+23
+
+309
+
+41
+
+4°
+
+e
+
+51
+
+102
+
+5
+
+6"
+
+e
+
+7e
+
+i
+
+Machines et chaudières à vapeur établies en 1899.
+Nom el prénoms des industriels.
+
+Situation.
+
+S t a n d a e r t ( a d m i n i s t r a t e u r délé-
+
+rue Joseph-Stevens, 13 à 23.
+
+Force motrice.
+
+gué de l a M a i s o n d u P e u p l e ) ,
+
+1 ' / a atmosphère
+(2" c h a u d . )
+
+rue d'Isabelle, 52.
+
+2 atmosphères.
+
+rue des T a n n e u r s , 41.
+
+6 chevaux.
+
+rue des T a n n e u r s , 59.
+
+8 a t m . , 125 chev.
+
+S c h r e v e n s et S c h a l t i n
+
+rue de l a Violette, 20.
+
+20 c h e v a u x .
+
+L e b e r m u t h et C
+
+rue des T a n n e u r s , 100.
+
+8 atmosphères.
+
+rue De L e n g l e n t i e r , 22.
+
+0 a t m . , 10 chev.
+
+rue Melsens, 18.
+
+500 chevaux
+
+Le M a r i n e l ,
+Hauwaerts
+
+frères,
+
+The A n g l o - B e l g i a n t a n n i n g
+
+Com-
+
+pany,
+
+S o e h u l i n et C
+
+l u
+
+l e
+
+,
+
+,
+
+Ville de B r u x e l l e s ,
+Verstraeten,
+Vve K e t e l b a n t et
+Société a n o n y m e
+
+rue des C h a r t r e u x , 44.
+fils,
+
+rue des F a b r i q u e s , 1.
+
+« Frigorifique
+
+des H a l l e s C e n t r a l e s » ,
+Fraikin,
+
+L.,
+
+Ackermans,
+Société a n o n y m e « L a
+bruxelloise »,
+
+Meunerie
+
+rue de l'Évêque
+Nord).
+
+(Pavillon
+
+5 atm. 5 chev.
+3( li.(l niach.el 1 treuil)
+80 chevaux
+
+chaussée d'Etterbeek, 122.
+
+5 a t m . , 15 chev.
+
+quai de W i l l e b r o e c k , 27.
+
+20 chevaux.
+
+rue de l'Allée-Verte, 8.
+
+10 atmosphères.
+
+-
+
+344
+
+-
+
+Les hôtels, maisons de logement, débits de boissons, etc.
+sont également inspectés au point de vue de l ' h y g i è n e publique!
+Le tableau ci-après indique, par divisions territoriales, les
+établissements existant au 31 décembre 1899 :
+Au 31 décembre
+DIVISIONS
+
+DESIGNATION.
+
+2
+
+Hotels
+
+j
+}
+\
+
+Avec débit de boissons
+alcooliques.
+Avec débit de bo ssons
+lion alcooliques.
+
+Restaurants.
+
+[
+J
+i
+
+Avec débit de boissons
+alcooliques
+Avec débit, de boîsfoiis
+non alcooliques.
+
+Cafés.
+
+j
+
+Avec débit de boissons
+alcooliques.
+Avec débit de boissons
+non alcooliques.
+
+Débits de vins et de liqueurs
+Autres débits
+de boissons.
+
+Estaminets.
+
+Alcooliques.
+Non
+
+alcooliques.
+
+Avec débit de boissons
+alcooliques.
+Avec débit de boissous
+non alcooliques.
+
+Établissements de tempérance.
+Maisons
+de logement.
+
+Auberges
+
+TERRITORIALES
+
+y
+
+22
+
+10
+
+19
+
+1
+
+3
+4
+
+25
+
+44
+
+82
+
+75
+
+180
+
+11
+
+37
+
+13
+
+5
+
+18
+
+54
+
+12
+
+11
+
+70
+
+19
+
+197
+
+47
+
+14
+
+5
+
+10
+
+91
+
+25
+
+1
+
+2
+
+236
+
+563 394
+
+212 124
+
+23
+
+26
+
+78
+
+158 236
+
+89 30
+
+1
+
+8
+
+50
+
+50
+
+2
+
+.
+
+Avec "lébit de boissons
+alcooliques.
+Avec débit de boissons
+non alcooliques.
+Sans aucun
+débit.
+
+1899.
+
+36
+
+60
+
+27
+
+56
+
+21
+
+12
+
+6
+
+8
+
+1
+
+2
+
+1
+
+12
+
+Avec débit de boissons
+alcooliques.
+A\ec débit de boisons
+non alcooliques.
+
+Totaux 1899
+
+.
+
+.
+
+523 1,126 1,089
+
+6 5 3 222
+
+—
+
+345
+
+—
+
+LABORATOIRE COMMUNAL D E C H I M I E E T D E B A C T É R I O L O G I E .
+
+Le nombre des analyses faites au laboratoire communal,
+pendant l'année 1 8 9 9 , s'est élevé à 1 , 6 7 2 .
+6 4 7 denrées proprement dites ont fait l'objet d'un examen
+analytique : 4 5 étaient falsifiées, 2 6 ont fait l'objet d'observations défavorables.
+2 2 4 eaux de puits ont été soumises à l'analyse : 1 a été
+reconnue propre aux usages domestiques ; 3 0 étaient de nature
+suspecte ; 1 9 3 étaient absolument impropres.
+Il a été procédé, en outre, à l'analyse de 1 7 0 échantillons d'eaux diverses et à 2 2 6 examens bactériologiques
+d'eaux.
+Le laboratoire a aussi procédé, pour les différents services de
+l'Administration, à l'analyse de 4 0 5 produits divers ; 5 2 ont été
+reconnus falsifiés.
+Le directeur du laboratoire a rédigé 1 1 rapports et 5 notes
+sur des sujets spéciaux et fait plusieurs visites d'inspection
+dans les établissements industriels spéciaux.
+
+Surveillance
+de ht vente des denrées alimentaires.
+Le
+tableau ci-après indique le nombre et la nature des échantillons
+de denrées alimentaires prélevés en 1 8 9 9 , aux frais de l a V i l l e ,
+dans les sept divisions territoriales, par les agents de l a s a l u brité assermentés à cette fin, ou déposés par les particuliers.
+Les résultats de l'analyse chimique à laquelle les 6 4 7 échantillons de produits alimentaires et de boissons ont été soumis
+*ont indiqués en regard de chacun des produits analysés.
+
+R
+
+— 346
+
+-
+
+ECHANTILLONS
+recueillis
+dans les
+sept divisions
+teritoriales
+
+DESIGNATION
+4)
+
+Cassis
+
+Cassonade
+Chocolat
+Chicorée
+Cidre.
+Cognac
+Conserves végétales et animales
+Cornichons et pickles . . .
+Crème de riz
+Eau-de-vie
+Farine
+Fécules
+Fromage
+Genièvre
+Hasselt
+Huile d'olive
+Lait
+Levure
+Margarine
+Menthe
+Miel
+Moutarde
+Nougat
+Noix de muscade
+Pain
+Pain d'épices
+Pâtes alimentaires, réglisse .
+Poivre
+
+.
+.
+
+.
+
+-
+
+4>
+
+-
+
+3
+
+a S
+S 3
+
+3
+34
+23
+66
+13
+4
+8
+2
+3
+7
+11
+33
+2
+6
+37
+6
+1
+3
+22
+10
+6
+11
+6
+
+17
+41
+8
+
+.
+
+£
+ce
+
+I l
+2 «
+
+1
+3
+22
+10
+6
+11
+
+6
+5
+20
+
+5
+19
+9
+18
+22
+4
+9
+1
+491
+
+« £
+
+6
+
+o
+
+,
+
+g 'H »
+
+3
+7
+36
+23
+66
+13
+4
+8
+2
+3
+7
+11
+33
+2
+6
+37
+
+7
+
+o
+
+Saindoux
+.
+
+-1
+
+3
+1
+6
+1
+
+Rhum
+iSafran
+
+A reporter
+
+TOTAL
+
+« z
+
+a-S
+Alcool
+Amer. •
+Beurre
+Bières
+Bonbons
+Café
+Cacao.
+. . . . . . . . .
+Cannelle
+Câpres
+
+déposés
+par des
+parliculiers
+
+2
+
+34
+
+b
+
+18
+42
+8
+o
+1
+6
+1
+3
+5
+21
+9
+18
+22
+4
+9
+1
+4P7
+
+-
+
+347
+
+-
+
+ECHANTILLONS
+recueillis
+dans les
+sept divisions
+territoriales
+
+DÉSIGNATION.
+
+déposés
+par les
+particuliers
+
+TOTAL
+ce
+25
+
+C
+
+I
+
+7, ô-
+
+•<
+H
+O
+
+ï I
+'— a
+
+c: —•
+
+C
+
+s5
+
+E
+
+Report.
+.
+Sardines
+Sel
+Semoule
+Sirop de f r u i t s , confilurts, fruits confit
+Sucre
+Sucre candi
+Soda
+Tapioca
+•
+Thé
+Tomates
+Vin
+Vinaigre
+
+Totaux.
+
+.
+
+î3 —
+
+I
+
+E
+
+34
+
+491
+
+2
+
+10
+6
+17
+14
+2
+
+1
+
+2
+
+1
+7
+2
+30
+9
+
+42
+
+593
+
+497
+2
+10
+6
+17
+14
+2
+3
+1
+7
+2
+31
+10
+
+37
+
+602
+
+45
+
+1
+
+534
+2
+10
+7
+17
+14
+3
+4
+1
+7
+2
+35
+11
+647
+
+Eaux alimentaires.
+— L e tableau ci-après donne, avec les
+résultats de l'analyse c h i m i q u e , le relevé par divisions t e r r i t o riales des eaux de puits soumises à l'analyse chimique a u point
+de vue de la salubrité publique :
+E A U X
+DIVISIONS
+TERRITORIALES.
+
+propres
+aux
+
+l Division .
+2
+id.
+&
+id.
+4
+id.
+5id.
+6»
+id.
+7
+id.
+r c
+e
+
+e
+
+1
+
+de n a t u r e
+suspecte
+i isages
+
+1
+
+TOTAL.
+
+domest]Lques.
+7
+9
+7
+3
+4
+
+e
+
+Totaux.
+
+impropres
+
+30
+
+27
+52
+73
+25
+9
+
+34
+61
+80
+28
+14
+
+7
+
+7
+
+193
+
+224
+
+p l u s 170 échantillons d'eaux diverses.
+
+Les propriétaires des maisons reconnues insalubres par le
+fait de la mauvaise qualité de l'eau du puits ont été immédiatement invités à fournir de l'eau salubre à leurs locataires.
+
+— 348
+
+-
+
+Produits divers. — Le tableau suivant indique, avec les
+résultats de l'analyse chimique, la nature des produits divers
+soumis à l'analyse chimique par les différents services de
+l'Administration communale :
+
+DÉSIGNATION DES PRODUITS.
+
+Acide borique
+p
+nitrique
+»
+oxalique
+.
+.
+.
+.
+.
+»
+phénique
+Ammoniaque
+B l a n c de zinc
+B l e u d'outre-mer
+Borax
+Bronze (objets en)
+Carbonate de soude
+.
+.
+.
+.
+Céruse
+Chlorure de chaux
+Cire
+Couleurs
+Craie moulue
+Créoline
+Cristaux de soude
+Décors rendus ininflammables
+E s p r i t de savon
+Essences
+Graisse pour machine
+.
+.
+.
+.
+»
+» roues
+.
+.
+Goudron
+Gomme arabique
+Huiles
+H u i l e de l i n
+» de pied de bœuf
+.
+.
+.
+» de poisson p graissage de harnais.
+» de colza
+L i m a i l l e s proven* des cloches du carillon
+Mastic de vitrier
+Matières trouvées dans une boite de l a
+canalisation électrique
+M i n e de plomb
+M i n i u m de fer
+»
+de plomb
+Méthylène
+Naph'te
+Naphtaline
+Noix de galle
+N o i r léger
+Or (fragments)
+Ocre jaune
+.
+.
+.
+« brune .
+Papiers coloriés et autres
+Pétrole (essence de)
+.
+r
+
+A reporter.
+
+SANS
+
+AVEC
+
+FRAUDE.
+
+FRAUDE.
+
+1
+i
+1
+4
+1
+1
+1
+1
+2
+1
+6
+4
+1
+201
+2
+1
+2
+3
+1
+2
+4
+5
+1
+2
+13
+3
+2
+2
+3
+1
+1
+1
+2
+2
+1
+2
+1
+2
+1
+1
+1
+1
+l
+25
+2
+317
+
+TOTAL.
+
+1
+1
+1
+5
+1
+1
+1
+1
+
+1
+
+1
+
+•J
+
+u
+1
+6
+4
+3
+
+2
+25
+
+m
+
+1
+
+1
+0
+
+3
+3rj
+
+1
+
+2
+i
+2
+3
+1
+2
+4
+5
+1
+2
+14
+3
+2
+2
+3
+1
+2
+1
+4
+2
+1
+o
+£l
+1
+2
+1
+1
+1
+1
+1
+28
+2
+353
+
+— 349 —
+
+DÉSIGNATION DES PRODUITS.
+
+SANS
+
+AVEC
+
+FRAUDE.
+
+FRAUDE.
+
+317
+
+Eeport.
+Prussiate de potasse
+.
+.
+Polyformol de bois
+.
+.
+Résine
+b r u n e . . .
+Rouge anglais
+Savon
+Sel pour fonte de neige .
+.
+Sel de Paris
+Suif
+Soudure
+Soufre
+Térébenthine
+Vaseline
+Vernis
+Vermillon
+Vert de Saxe
+Zinc
+
+.
+. .
+
+.
+.
+
+.
+
+.
+
+353
+1
+3
+1
+1
+10
+3
+1
+2
+1
+2
+3
+1
+20
+1
+1
+1
+
+36
+
+3
+1
+
+1
+1
+9
+
+11
+
+1
+1
+52
+
+353
+
+Total.
+
+SERVICE
+
+TOTAL.
+
+405
+
+BACTÉRIOLOGIQUE.
+
+Le service de bactériologie, annexé au laboratoire communal
+de chimie, a été organisé le 29 mai 1893.
+Il y a eu, pour le service ordinaire, 70 analyses microbiologiques d'eaux :
+64 pour cause de fièvre typhoïde ;
+6 pour autres causes.
+
+TOTAL
+
+DIVISIONS T E R R I T O R I A L E S .
+MOTIFS.
+2
+
+Fièvre typhoïde
+
+7
+
+Autres causes
+
+1
+
+.
+Total.
+
+8
+
+8
+
+15
+
+3
+
+5
+
+e
+
+25
+
+13
+
+1
+15
+
+26
+
+e
+
+2
+
+6
+
+e
+
+—
+
+7
+
+e
+
+2
+
+6
+
+64
+6
+
+4
+13
+
+GÉNÉRAL.
+
+Ces analyses se répartissent de l a façon suivante entre les
+sept divisions territoriales :
+
+—
+
+2
+
+70
+
+plus 156 échantillons d'eau de l a distribution.
+
+De ces 70 analyses d'eaux, 28 ont donné des résultats néga-
+
+— 350 —
+tifs et 42 analyses ont démontré l a présence de microbes nocifs
+pathogènes.
+Outre les analyses ordinaires, un grand nombre de recherches
+ont été faites pour les Services des eaux et de la désinfection.
+Une surveillance hebdomadaire est établie pour s'assurer de
+la qualité de l'eau de la distribution prise aux robinets du laboratoire de la Ville et dans d'autres bâtiments communaux.
+Les méthodes employées ont été choisies parmi les plus
+précises et le laboratoire a adopté un mode de culture qui
+permet d'obtenir des résultats d'une grande certitude.
+E X P E R T I S E D E S V I A N D E S , POISSONS, E T C .
+
+Les agents attachés au service de l'Abattoir, des boucheries
+et des marchés ont saisi et enfoui comme insalubres et impropres à la consommation, savoir :
+Animaux
+
+atteints
+
+de
+
+maladie.
+
+5 agneaux, 120 bœufs, 74 chevaux, 2 cochons de lait,
+2 génisses, 24 moutons, 63 porcs, 46 taureaux, 292 vaches,
+24 veaux.
+Bétail et viandes
+
+dépecées.
+
+Gros bétail: 1 6 9 a n i m a u x — 16 bœufs, 39 chevaux, 8 taureaux, 88 vaches et 18 veaux pesant
+ensemble
+Menu bétail : 56 animaux — 2 agneaux, 8 moutons, 35 porcs, 9 cochons de lait et 2 chèvres du
+poids total de .
+.
+.
+.
+.
+.
+.
+Viandes dépecées : Issues comestibles d'un
+poids de
+Total en 1899.
+»
+1898.
+»
+1897.
+Saisies opérées par le service deV Abattoir
+des viandes :
+
+et delà
+
+41,000
+Kilùg
+
+3,214
+9,905
+54,119
+49,167
+81,172
+vérification
+
+2 agneaux, 16 bœufs, 2 chèvres, 9 cochons de
+lait, 39 chevaux, 8 moutons, 35 porcs,8 taureaux,
+88 vaches, 18 veaux pesant ensemble
+.
+.
+Parties de viande: de bœuf, 3,868 kilog.; de
+cheval, 214 k i l o g . ; de mouton, 649 k i l o g . ; de
+porc, 390 500; de taureau, 318 kilog.; de vache,
+4,117 kilog. ; de veau, 822 kilog. ; total de.
+.
+
+10,378 500
+
+A reporter.
+
+77,266 000
+
+66,887 500
+k
+
+k
+
+k
+
+k
+
+Report.
+
+77,266 000
+
+39 kilog. de viande de chèvre, 39 kilog. de
+cochon de lait, 33 kilog. de boudins, 41 kilog. de
+cervelas,14kilog.de dépouilles,168 kilog. dejambon, 14 kilog. de pieds de mouton, l,248 5Q0 de
+saucissons, 3 500 de pâté de foie, 52 kilog. de
+tète de porc, 194 kilog. de triperie, 8 500 de viande
+fumée, 80 kilog. de rognons, 151 kilog. de poumon. i 500 de foie, 2 kilog. de filet d'Anvers,
+20 kilog. de cœur. 11 kilog. de graisse, total de
+
+2,120 000
+
+k
+
+k
+
+k
+
+k
+
+k
+
+k
+
+79,386 000
+k
+
+Gibier, Volaille,
+
+etc.
+
+103 alouettes, 122 bécasses, 591 bécassines, 513 cailles,
+344 canards, 9cannetons, 21 coqs, 9 coqs de bruyère, 41 chevaliers, 229 combattants, 13 courlis, 7 chevreuils, 13 selles de
+chevreuil, 17 épaules de chevreuil, 4 têtes de chevreuil, 1 gigue
+de chevreuil, 58 culs-blancs; 2 cygnjes, 4 dindons, 2 dindes,
+14 épaules, 6 faisans, 41 flèches, 13 foies gras, 1 foie de lapin,
+2 geais, 2,155 grives, 2 grousses d'Ecosse, 37 jaquets, 2 huîtriers, 56 lapins, 158 lapins sauvages, 101 lièvres, 54 merles,
+7 mouettes, 5 oies, 3 oies de roche, 204 petits oiseaux, 5 ortolans. 5 outardes, 317 perdrix, 2579 pigeons, 31 pintades,
+51 pilets, 254 poules, 649 perdreaux, 209 pluviers, 13 poulets
+de grain, 8 poules d'eau, 590 poulets, 14 râles d'eau, 7 ramiers,
+145 sarcelles, 269 sansonnets, 308 vanneaux.
+
+Poissons.
+3 barbues; 2,517 cabillauds ; 30 sacs de caracoles; 474 boîtes
+de conserves; 191 kilog. de crevettes; 52 paniers d'éperlans ;
+123 paniers d'églefins ; 45 elbottes; 11 paniers d'esprocks ;
+1 esturgeon ; 112 paniers de flottes ; 1 panier de gools ; 12 tonneaux. 18 tonnelets et 31 bocaux de harengs ; 1,923homards;
+9,050 huîtres ; 1 panier de limandes ; 15 linges ; 30 langoustes ;
+61 sacs et 26,034 kilog. de moules ; 6 paniers de merlans;
+1 laisse et 31 paniers de maquereaux, 118 paniers de plies;
+7,400 et 120 kilog. d'écrevisses; 332 et 3 paniers de plies salées ;
+25 kilog. et 5 poissons de rivière; 11 tonnelets de poissons
+divers ; 100 kilog. de poisson salé, 888 paniers de raies ; 1 panier
+de rougets; 147 paniers et 60 boîtes de harengs saurs ; 50 saumons ; 41 paniers de soles; 22 boites de sardines ; 2 paniers de
+sardines fumées; 270 stockfishs ; 2 paniers, 92 kilog. et 16 truites : 7 turbots.
+
+— 352 —
+
+SERVICE
+
+MÉDICAL D E S MŒURS.
+
+Le service sanitaire des mœurs est organisé de façon telle
+que toute femme soumise est explorée médicalement deux fois
+par semaine.
+Les mutations suivantes ont eu lieu du 1
+cembre 1899 :
+Inscriptions n o u v
+._
+
+o
+
+O
+
+CD
+
+<«
+
+te
+es
+o
+
+s
+03
+ce
+
+177
+
+en
+
+23
+
+45
+
+•CD
+O
+*CD
+T3
+
+c
+
+fa
+CS
+
+ce
+
+s
+
+es
+
+-a
+
+janvier au 31 dé-
+
+Radiations
+
+lles
+
+c
+
+00
+
+e r
+
+98
+
+166
+
+eu
+
+CB
+a.
+
+S
+te
+
+35
+
+g
+o
+
+O "CD
+Sce CD
+a.-o
+
+12
+
+126
+
+23
+
+168
+
+Ce total de 175 prostituées, qui comprend 61 filles réparties
+entre 6 maisons de tolérance et 114 filles éparses, est notablement inférieur à la moyenne des dix années précédentes.
+S u r 124 femmes arrêtées dans le courant de l a même année
+pour prostitution clandestine, 56 ont subi l a visite médicale;
+16 ont été reconnues malades et 13 ont été inscrites au contrôle
+de la prostitution.
+Les médecins chargés du service sanitaire ont fait, pendant
+l'année 1899, 13,866 explorations.
+Explorations au dispensaire (prostituées inscrites)
+
+7
+
+»
+
+à domicile
+
+»
+
+2,671
+
+»
+
+en maisons
+
+»
+
+6,149
+
+»
+
+aux prostituées arrivant à Bruxelles
+
+»
+
+»
+
+clandestines arrêtées
+Total.
+
+106
+56
+13,866
+
+Pendant Tannée 1899, 39 prostituées ont été envoyées en
+traitement à l'hôpital Saint-Pierre. Dans ce nombre sont comprises :
+1° Les prostituées inscrites sur le registre de la prostitution;
+2° Les prostituées arrivant à Bruxelles pour y exercer leur
+métier ;
+3° Les prostituées clandestines arrêtées comme se livrant
+notoirement à la débauche.
+Ces 39 malades se subdivisent comme suit :
+PROSTITUÉES
+
+MALADES
+
+En
+Arrivant à
+Éparses. m a i s o n . B r u x e l l e s .
+
+Maladies vénériennes
+.
+Maladies non vénériennes.
+Totaux.
+
+ClandesUnes,
+TOTAL.
+
+7
+2
+
+7
+1
+
+6
+»
+
+16
+»
+
+36
+3
+
+~9
+
+8
+
+6
+
+16
+
+39
+
+Nous donnons ci-après, en regard du nombre moyen des prostituées inscrites de 1882 à 1899, le chiffre des visites médicales
+faites et le nombre de femmes arrêtées pour prostitution clandestine.
+ANNÉES.
+
+Nombre moyen
+Nombre
+des
+des v i s i t e s m é d i c a l e s
+prostituées i n s c r i t e s
+faites.
+
+N o m b r e de f e m m e s e x e r ç a n t
+l a prostitution clandestine
+et visitées a u d i s p e n s a i r e .
+f
+
+—.
+
+Saines.
+
+*
+
+Malades.
+
+Total.
+
+1882
+
+361
+
+33,556
+
+102
+
+39
+
+141
+
+1883
+
+347
+
+30,580
+
+90
+
+44
+
+134
+
+1884
+
+310
+
+28,382
+
+30
+
+15
+
+45
+
+1885
+
+364
+
+28,724
+
+40
+
+22
+
+62
+
+1886
+
+361
+
+30,427
+
+59
+
+20
+
+79
+
+1887
+
+354
+
+27,438
+
+28
+
+16
+
+44
+
+1888
+
+323
+
+25,447
+
+15
+
+14
+
+29
+
+1889
+
+279
+
+21,507
+
+40
+
+11
+
+51
+
+1890
+
+261
+
+20,461
+
+16
+
+12
+
+28
+
+1891
+
+228
+
+17,283
+
+16
+
+3
+
+19
+
+1892
+
+203
+
+16,314
+
+20
+
+17
+
+37
+
+1893
+
+204
+
+16,030
+
+44
+
+28
+
+72
+
+1894
+
+h.i
+
+15,311
+
+50
+
+19
+
+69
+
+1895
+
+197
+
+15,388
+
+39
+
+28
+
+1896
+
+194
+
+15,322
+
+28
+
+28
+
+1897
+
+189
+
+15,573
+
+71
+
+14
+
+1898
+
+1 72
+
+14,314
+
+56
+
+1*99
+
+177
+
+13,866
+
+40
+
+22
+16
+
+67
+.
+
+56
+85
+78
+56
+
+-
+
+354
+
+—
+
+!
+
+Statistique médicale générale
+
+wZ*^
+
+—
+
+0>
+
+•/i
+
+O
+A
+
+N
+
+N
+
+E
+
+E
+
+S
+
+2
+1
+^ I t
+
+r
+
+-a
+c
+c
+
+-o)
+-
+
+»
+
+s
+
+—.
+
+Ci
+
+S
+
+1
+
+ç
+
+3
+
+i%
+
+/C5
+
+g /.
+- I
+
+*= -H i
+-5
+
+c
+
+1881
+1882
+1883
+1884
+1885
+TOTAUX
+Moyonnes annuelles
+
+391
+361
+347
+310
+364
+
+33,028
+33,556
+30,580
+28,382
+28,724
+
+161
+153
+112
+79
+58
+
+36
+43
+25
+27
+26
+
+1,773
+
+154,270
+
+563
+
+1571
+
+354.6
+
+50.854
+
+H2.G
+
+155
+51.0
+
+51.4
+
+1886
+1887
+1888
+1889
+1890
+TOTAUX
+Moyennes annuelles
+
+1891
+1892
+1893
+1894
+1895
+
+30,427
+27,438
+25,447
+21,507
+20,461
+
+1,578
+
+125,280
+
+315.6
+
+25.056
+
+07.8
+
+228
+203
+204
+189
+197
+
+17,283
+16,314
+16,030
+15,311
+15,388
+
+42
+32
+26
+28
+35
+
+3
+4
+4
+10
+4
+
+80,326
+
+163
+
+25
+
+204.2
+
+16,065.2
+
+52.C
+
+5.0
+
+194
+189
+172
+177
+
+15,322
+15,573
+14,314
+13,866
+
+29
+21
+!7
+17
+
+1,021
+
+TOTAUX
+Moyennes annuelles
+
+1890
+1897
+!89S
+1899
+
+361
+354
+323
+279
+261
+
+71
+
+78
+80
+41
+68
+
+19
+41
+
+12
+13
+
+115
+!3,0
+
+132
+
+U 8.0
+
+Ç>J>
+
+<ir>
+
+a S
+
+— t r i Ê3
+
+«3
+
+^
+»«»
+
+o*
+
+tsO »
+
+^
+
+rfx
+
+—3 ^
+
+0>
+
+p=rz
+
+r n M I o a i a
+
+P3
+CDCD
+CO
+
+Chancre simple.
+
+'—*
+
+CD
+
+v l a U H
+
+OO
+
+co
+
+4^ 00
+
+CO
+
+tO -<]
+
+'
+
+4
+
+O
+
+Q
+
+H
+
+h-»
+
+C0«<l
+
+eo
+
+4
+
+cr. oo ce
+
+4^ 4 ^ Cn
+<i o
+t e cri
+u-<
+
+•
+
+O
+
+OS
+
+00
+
+Ce cn
+
+1V2
+
+»
+
+* co < i
+
+O O
+
+o
+
+•
+
+•
+
+LO en en
+
+t~j
+
+DO
+
+O
+
+Cn
+
+t û
+
+00
+
+te
+co
+oc
+
+CO —• CO CO CO
+t—i 00 ÎO 00 CO
+
+CO Cn C i CO
+en
+ce
+co
+4^
+
+O ' CO O Cn
+«<! Cn
+i—»
+
+•
+
+^ i
+
+oo
+
+o
+
+o
+00
+
+00
+
+4>
+
+tO 00 C i o
+
+CO
+CO
+
+4^
+^
+
+CO
+o
+00
+
+CD
+
+• •
+
+<l
+
+O CO •—•
+CO CO 4 > 00
+
+•^3
+
+H -
+
+4^
+
+CO "<! »— CC i—»
+
+X)
+
+i—' CO >— CO
+4^
+
+OC
+
+o
+^
+
+o
+
+CO CO Ov CO
+A
+H
+
+CC
+
+CO CO CC tO CO
+-<i
+
+oo
+
+o
+
+ce co oc co
+
+O
+
+Cn - a 00 CO
+
+tO r — ' «—' CC CO
+O CO 4* O Cn
+
+cooooo
+•
+
+CO CO C O
+
+1_
+
+—
+01
+
+o
+
+co ce•
+J ^ - en
+ce CO cr» CO C O
+
+O
+O v l O
+C0 00 CO CO 00
+CO CO• i—• o
+
+co o co co 4 ^
+o co co 00 4 ^
+^ co ce 4 ^ o
+
+00
+
+Cn
+Cn
+
+CO » 4^ 4 ^ CO
+O 00 CO o en
+
+4^
+
+oo oo ^1
+
+4^.
+o
+
+CO en 00 ' c o
+CO CO -<1 O Cn
+
+Cn en LO
+
+00
+
+V ^ O O M O C O
+
+»— co co ce
+oo C i en o J — *
+•
+
+•
+
+• •
+
+CO 00 «-a <I co
+
+•
+
+h-»
+
+•
+
+>—i
+»
+
+^ 3 C i 4^ c
+
+09
+
+et
+
+W
+co
+
+w
+X
+
+des
+
+CD
+
+CO
+
+O O
+
+cr.
+
+M»
+
+^ 9j
+
+r-t-
+
+<
+t>
+CO
+
+maladies sypliiliticjuo>
+GÉNÉRAL
+des
+maladies vénériennes
+
+Nombre
+de maladies syphilitiques
+s u r 1,000
+
+o
+
+i—» co co co
+00 00
+
+CO 00
+
+prostituées inscrites.
+
+Nombre
+
+1
+
+CO O CO O co
+
+as
+
+»-*
+
+TOTAL
+
+CO i—» O 00 en
+
+h©
+Ci
+
+5
+
+co
+
+Accidents
+consécutifs,
+
+TOTAL
+oc
+
+O O O O t—*
+Ci
+
+Chancre
+infectant
+
+de maladies
+
+vénériennes
+
+s u r 4,000 p r o s t i t u é e s i n s c r i t e s ,
+
+Nombre
+de m a l a d i e s s y p h i l i t i q u e s
+sur
+
+1,000
+
+vis'ies.
+
+Nombre
+de maladies
+s u r 1,000
+
+vénériennes
+visites.
+
+C0
+
+:î5H
+
+—
+
+Statistique médicale spéciale des p | y
+mt
+
+NOIlRItE HE VISITES
+faites aux
+ANNEES.
+
+1881
+1882
+1883
+1884
+1885
+TOTAUX
+Moyennes annuelles.
+
+1886
+1887
+1888
+1889
+1890
+TOTAUX
+Moyennes
+
+annuelles.
+
+189 L
+1892
+1893
+1894
+1895
+TOTAUX
+Moyennes annuelles.
+
+1896
+1897
+1898
+1899
+
+PROSTITUÉES
+INSCRITES.
+
+11,336
+13,684
+10,432
+9,143
+8,239
+
+21,692
+19,872
+20,148
+10,239
+20,485
+
+52,834
+
+101,436
+
+10,506.8
+
+20,287.2
+
+8,432
+7,314
+7,238
+6,664
+6,208
+
+21,995
+20.124
+25,447
+14,843
+14,528
+
+35,856
+
+96,937
+
+7,171.2
+
+1!',587.4
+
+6,327
+6,170
+6,249
+6,635
+6,792
+
+10,956
+10,144
+9,781
+8,676
+8,596
+
+32,173
+
+48,153
+
+6,-134.6
+
+l',C50.fi
+
+6,903
+7,300
+6,247
+6,149
+
+8,419
+8,273
+7,867
+7,717
+
+OO
+
+ç
+
+0
+
+PBOSTITOJÏEg
+«•«»
+
+ana
+
+nv<loa
+
+lac
+
+i , . j,,.,,
+—
+
+S
+
+En
+
+s; ^ c o c o
+
+Ci
+
+5 DC
+
+^
+
+oc
+
+CO
+
+4^-
+
+CO
+
+maison.
+
+<
+a
+
+CD
+
+S co
+
+HM
+
+4^
+
+^ CC *
+
+C O H »
+
+C O < J
+
+o
+
+•
+
+CO
+
+o
+
+Ô ï C : 4^- O i 0 0
+
+o
+
+«
+
+c o c o c o H-» c o
+
+—
+
+co
+
+DCCOO
+
+CO tsC 0 0
+
+Cn
+
+co
+• CTT
+
+»— »——• (NT *— >—'
+•vJ O i - 3
+00
+1
+
+Cn CO 00
+
+CO
+
+CO
+00
+
+CO CO C0 C 0 C n
+
+M
+
+Or
+CO
+
+•s] C n C j T e n
+
+-<] C n CI a i
+
+o
+
+ai o: a-
+
+co
+
+En
+maison.
+
+n
+o
+
+s
+
+>
+o
+
+co
+
+M l O r O i - J
+CO O O O CO
+
+En
+maison.
+
+Total
+dos maladies
+
+CO C n O
+
+^1 4^
+
+00
+
+•
+oo
+
+CO >—* CO CO CO
+O v i ^ a c o c n
+
+4^
+4^
+
+o
+
+CO
+
+en
+co
+
+co en co
+
+os
+•
+
+00
+4^
+
+'
+M
+
+co co co
+0 0 DO C '
+
+co
+
+r—» >—• 4^ C n 4^rf^ e n »—» c o c o
+
+CO 00 0 C O
+
+Ëparses
+
+s\ phi li tiques.
+
+En
+maison.
+
+T o l a l général
+des maladies
+
+r-•
+« co
+«-J C O H - O
+
+o
+
+CD
+00
+
+ce — — co co
+h- H C O C O O
+
+o
+o o
+
+o
+
+O
+
+O r-»
+
+co
+
+o:
+
+o o
+O'
+
+O
+•
+O
+
+o
+
+o
+
+Cn O T v j
+
+H D .
+
+C D *
+
+O
+
+r— c o
+
+CO t—n—» c o c o
+
+H -
+
+c o ^3 c e c o
+
+4^
+
+en
+
+c e c o c o ce c o
+4^
+CO c n
+
+co co c:
+
+»—* 00 0 0 0 0
+
+<i
+
+O
+
+h—» »—» K—
+
+K-* CO
+
+hMND H * . O
+
+<1
+
+en
+
+h-» CO ^ C n «<i
+o o '<i O i o o a i
+
+«—* O O O r—*
+
+O O r—» r—»
+• •
+•
+Cn 0 0 O C n
+
+H M H O
+•
+• ••
+Cn r—» 4^> 0 0
+
+h-» o O O
+
+ïï
+
+M
+
+M
+
+O
+
+O —
+
+H
+
+H CO CC *
+
+-qcfro
+O
+
+O
+
+-t- O T c o
+
+o
+
+CT H -
+
+Éparses
+
+En
+maison.
+
+Ëparses.
+
+ôoeo
+
+r— c o c o c o
+
+c o c o CO c o e n
+
+En
+maison.
+
+Ëparses
+
+0
+CD
+CO
+CD-
+
+00
+
+4^
+
+CD
+CO
+
+O
+co
+
+Ëparses
+
+Cn
+
+o
+
+Ëparses
+H-I
+
+CO CO
+
+—
+1>
+
+I
+
+a S
+o
+
+Z
+
+O
+
+x
+
+vénériennes.
+
+N O M B R E
+de
+maladies syphilitiques
+sur 1,000 visiles.
+
+N O M B R E
+de
+maladies vénériennes
+sur -1,000 visites
+
+co
+CD
+
+co
+
+P O L I C E MÉDICALE.
+
+Aucune poursuite n'a été exercée pendant l'année 1899 pour
+contravention aux lois qui régissent l'art de guérir.
+INous donnons ci-après, d'après les relevés officiels, le nombre
+de médecins, pharmaciens, dentistes, droguistes et sa<*esfemmes établis à Bruxelles en 1899 et autorisés à exercer leur
+profession :
+Médecins, 313; pharmaciens, 140;
+guistes, 8 0 ; sages-femmes, 47.
+
+dentistes, 83;
+
+dro-
+
+Voici, à titre de comparaison, les données de même nature
+recueillies pendant les vingt et une années précédentes :
+Exercices.
+Moyennes annuelles.
+
+Médecins.
+—
+
+Pharmaciens.
+—
+
+Dentistes.
+—
+
+Droguistes. Sagcs-femmcs.
+—
+—
+
+1876-1885
+
+177
+
+86
+
+66
+
+75
+
+52
+
+1886-1895
+
+206
+
+113
+
+71
+
+77
+
+57
+
+129
+
+71
+
+84
+
+47
+
+Année 1896
+
+• 254
+
+»
+
+1897
+
+302
+
+139
+
+85
+
+79
+
+47
+
+»
+
+1898
+
+325
+
+144
+
+84
+
+88
+
+49
+
+Secours en cas d'accident ou de maladie subite. Des postes
+de secours, au nombre de 64 (y compris les écoles publiques),
+sont répartis dans tous les quartiers de la ville ; ils sont munis
+des médicaments, objets de pansement et moyens de transport
+indispensables.
+Le service médical de nuit, institué dès l'année 1877, fonctionne régulièrement.
+Toute personne qui a besoin de requérir, la nuit, l'assistance
+d'un médecin, peut se rendre au commissariat de police de sa
+circonscription. U n agent de police l'accompagne au domicile
+du praticien désigné, escorte celui-ci auprès du malade et, la
+visite terminée, le reconduit chez lui.
+Les honoraires du médecin sont fixés à 10 francs par visite.
+Nous donnons ci-après un tableau indiquant, outre le sexe et
+le domicile (quartier) des personnes secourues, la cause de
+l'intervention médicale.
+
+359
+
+Division centrale
+
+2
+
+2
+
+à
+
+1« D i v i s i o n .
+
+.
+
+2
+
+2
+
+O
+
+• •
+
+11
+
+1 5
+
+2
+
+e
+
+»
+
+J
+
+=
+
+es
+
+&-£.
+E
+
+*
+
+1
+
+o
+
+e
+
+»
+
+é
+
+.
+
+5
+
+e
+
+»
+
+.
+
+.
+
+Totaux.
+
+.
+
+2
+
+O
+H
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+1
+
+2
+
+1
+
+<3
+
+4
+
+1
+
+19
+
+4
+
+Mort
+
+.si
+-3 E
+
+subite.
+
+5-
+
+Ivresse.
+
+F .
+
+M .
+
+en
+
+<2
+
+Accouchements.
+
+Maladies
+fébriles.
+
+QUARTIERS.
+
+MOTIFS DE L ' I N T E R V E N T I O N MÉDICALE.
+Maladies
+non fébriles.
+
+SEXE
+des personnes
+secourues.
+
+-
+
+—
+
+2 6
+
+—
+
+4
+
+3
+
+1
+
+6«
+7
+
+e
+
+»
+»
+
+1 7
+
+2 4
+
+2 6
+
+1
+
+8
+
+6
+
+4 1
+
+É T A T S A N I T A I R E E N 1899.
+Les conditions sanitaires de l a ville de Bruxelles ont été très
+satisfaisantes pendant l'année 1899.
+Notre ville conserve donc la situation privilégiée qu'elle a
+conquise dépuis plusieurs années p a r m i les villes les plus
+salubres du continent. Ce résultat est mis en évidence par le :
+tableaux de statistique démographique et médicale annexés à
+la fin du présent rapport.
+Pendant l'année 1899, le service de l'état civil a enregistré
+4,224 décès (2,134 masculins et 2,090 féminins).
+Le chiifre des décès de personnes résidant hors ville et transportées directement dans nos hôpitaux est de 562. E n défalquant du chiffre des décès généraux (4,224) celui des étrangers
+ou non-résidents, i l reste pour l a population bruxelloise u n
+chifïre de 3,662 décès, correspondant à un taux annuel moyen
+de 17.6 pour 1,000 habitants.
+
+L e relevé suivant indique la quote-part de mortalité des différents quartiers de l a ville :
+Circonscriptions
+
+N o m b r e absolu des
+décès en 1899 .
+Mortalité
+sur
+1,000
+habitants en 1899 .
+Moyenne
+des
+décès
+(période 1894-1898).
+Mortalité s u r
+1,000
+habitants
+(période
+1894-1898)
+. .
+.
+Différence c o m p a r a t i vement à la période
+q u i n q u e n n a l e 18941898
+
+territoriales
+
+636
+
+1,121
+
+1,089
+
+450
+
+262
+
+17.2
+
+20.0
+
+18.5
+
+13.0
+
+17.u
+
+497
+
+222
+
+43
+
+m
+
+15.3
+
+11.2
+
+(1)
+
+635
+
+1,027
+
+1S.D
+
+-1.7
+
+1,112
+
+19.5
+
+20.0
+
+-f-0.5
+
+-1.5
+
+IO.O
+
+52
+
+52
+
+12.7
+
+I:,.Ô
+
+(b
+
++1.
+
+L e tableau ci-après met en relief la décroissance du taux de
+la mortalité depuis l'année 1867, tant au point de vue du total
+général des décès qu'au point de vue des décès dus aux maladies contagieuses.
+Périodes
+Population,
+quinquennales
+—
+
+Moyennes
+annuelles
+des décès.
+
+Taux
+de m o r t a l i t é
+s u r 1,000
+habitants.
+
+Moy. annuelle
+Taux
+des décès
+de mortal.
+par maladies
+sur 10,000
+contagieuses. habitants.
+
+1867-1871
+
+170,000
+
+4.965.8
+
+29.2
+
+848.6
+
+49.9
+
+1872-1876
+
+163,914
+
+4,492.4
+
+27.4
+
+349.2
+
+21.3
+
+1877-1881
+
+165,366
+
+4,180.0
+
+25.3
+
+252.4
+
+15.3
+
+1882-1886
+
+171,562
+
+4.240.0
+
+24.7
+
+321.8
+
+18.8
+
+1887-1891
+
+181,046
+
+4,019.6
+
+22.2
+
+257.4
+
+14.2
+
+1892-1898
+
+190,290
+
+3,664.0
+
+19.3
+
+192.8
+
+10.1
+
+207,910
+
+3,662
+
+17.6
+
+181
+
+1899
+
+9.0
+
+L e m a x i m u m des décès quotidiens a été enregistré le 19 mars
+(29 décès); le m i n i m u m correspond au 22 novembre (2 décès).
+L e mois de mars a fourni le plus fort contingent mortuaire (453
+décès) et le mois de novembre le plus faible (241).
+L a répartition des principales causes de décès, étudiée au
+point de vue des conditions sociales de l a population bruxelloise, donne les résultats suivants :
+Classe riche : Maladies organiques du cœur, 20 ; bronchite
+et pneumonie, 15 ; marasme sénile, 7 ; apoplexie et ramollis-
+
+(1) L a m o y e n n e c o m p a r a t i v e ne peut être f o u r n i e , l a 7' circonscription
+a d m i n i s t r a t i v e n ' a y a n t été annexée a u t e r r i t o i r e de Bruxelles que le
+l
+octobre 1897.
+8 r
+
+sèment d u c e r v e a u , 7 ; c a n c e r s , 6 ; p h t i s i e p u l m o n a i r e , 3 ;
+encéphalite et m é n i n g i t e , 3 ; fièvre t y p h o ï d e , 2 .
+Classe aisée: b r o n c h i t e e t p n e u m o n i e , 1 1 2 ; m a l a d i e s o r g a niques d u c œ u r , 92 ; p h t i s i e p u l m o n a i r e , 7 3 ; a p o p l e x i e et
+r a m o l l i s s e m e n t d u c e r v e a u , 5 8 ; m a r a s m e sénile, 2 7 ; c a n c e r s , 2 5 ;
+a l b u m i n e r i e , 2 4 ; diarrhée e t lientérie, 2 1 ; fièvre t y p h o ï d e , 1 5 ;
+encéphalite et m é n i n g i t e , 1 3 ; c o n v u l s i o n s , 8.
+Classe pauvre ou indigente : D i a r r h é e et e n t é r i t e , 5 3 8 ;
+bronchite et p n e u m o n i e , 5 1 2 ; p h t i s i e p u l m o n a i r e , 4 9 1 ; m a l a dies o r g a n i q u e s d u c œ u r , 3 3 6 ; c o n v u l s i o n s , 2 0 6 ; a p o p l e x i e et
+ramollissement d u cerveau, 2 0 2 ; encéphalite et méningite, 1 0 8 ;
+marasme sénile, 8 6 ; c a n c e r s , 8 6 ; fièvre t y p h o ï d e , 4 5 ; a l b u m i nurie, 43.
+L ' e n s e m b l e des d é c è s , p a r c o n d i t i o n s s o c i a l e s , d o n n e l e s
+résultats ci-après : classe r i c h e , 7 9 ; c l a s s e aisée, 6 2 6 ; c l a s s e
+pauvre o u i n d i g e n t e , 3 , 5 1 9 .
+
+Le tableau ci-après f a i t connaître l a q u o t e - p a r t de m o r t a l i t é
+des différents âges ( m o r t - n é s et étrangers e x c l u s ) , a i n s i q u e
+le coefficient des décès p a r â g e : 1 ° s u r 1 , 0 0 0 h a b i t a n t s de
+chaque groupe d'âge et de s e x e , e t 2 ° s u r 1 , 0 0 0 d é c è s :
+T a u x s u r 1,000 h a b i t a n t s .
+Age.
+
+F.
+
+334
+
+277
+
+289.0
+
+7 à 12 »
+
+130
+
+118
+
+110.7
+
+85.8
+
+67.7
+
+là
+
+194
+
+168
+
+21.6
+
+19.8
+
+98.9
+
+48
+
+51
+
+2.5
+
+2.8
+
+27.0
+
+De 0 à 6 mois
+5 ans
+
+6 à 15 »
+
+M.™
+
+*
+
+^ F .
+
+S u r 1,000
+
+M.
+
+203.3
+
+décès.
+
+166.9
+
+16 à 20 »
+
+35
+
+36
+
+4.0
+
+3.8
+
+19.4
+
+21 à 30 »
+
+119
+
+126
+
+6.4
+
+6.0
+
+66.9
+
+31 à 40 »
+
+129
+
+124
+
+8.1
+
+7.5
+
+69.1
+
+41 à 50 »
+
+169
+
+125
+
+14.5
+
+9.9
+
+80.3
+
+51 à 60 »
+
+200
+
+169
+
+25.6
+
+17.7
+
+100.8
+
+61 à 70 »
+
+234
+
+214
+
+54.9
+
+35.1
+
+122.4
+
+71 à 80 »
+
+176
+
+279
+
+96.2
+
+94.0
+
+124.4
+
+81 à 90 »
+
+54
+
+135
+
+177.1
+
+205.3
+
+3
+
+15
+
+333.3
+
+326.1
+
+91 à 100
+
+»
+
+51.6
+4.9
+
+Les enfants et l e s célibataires o n t c o n t r i b u é à l a m o r t a l i t é
+totale pour u n c o n t i n g e n t de 1 , 9 3 2 d é c è s , s o i t 1 5 . 5 p o u r 1 , 0 0 0
+habitants de ce g r o u p e ; les p e r s o n n e s mariées p o u r 1,037, s o i t
+15.2 pour 1,000, et l e s veufs (y c o m p r i s 21 divorcés) p o u r 6 9 3 ,
+soit 46.2 pour 1,000.
+II
+
+24
+
+É L E V É , par ordre de fréquence,
+dans la population
+
+des principale*
+
+résidant à Bruxelles
+
+chacune des cinq années précédentes
+
+1894 - 1898.
+0)
+Ss a
+ëss
+V. - •
+i H\
+M "- 7
+
+ANNÉES
+
+CAUSES
+DE
+
+causes de décès consultées
+
+pendant l'année 1899 et fendant
+
+D É C È S .
+
+1899
+
+1898 j1897
+512
+
+405
+
+> lg
+2-s 2 ïs'z
+
+1896
+
+1895
+
+1894
+
+494
+
+750
+
+542
+
+.'ii'l.li
+
+a «
+— a.
+
+Bronchite et pneumonie .
+
+.
+
+498
+
+Phtisie pulmonaire
+
+.
+
+488
+
+468
+
+465
+
+532
+
+547
+
+533
+
+509.fi
+
+.
+
+486
+
+491
+
+406
+
+382
+
+366
+
+352
+
+.v.'
+
+Maladies organiq. du cœur.
+
+408
+
+375
+
+331
+
+370
+
+378
+
+297
+
+550.2 4- =8.
+
+231
+
+216
+
+239
+
+271
+
+227
+
+256
+
+241.8 — Il
+
+205
+
+224
+
+207
+
+268
+
+344
+
+245
+
+257.6 — 63.
+
+117
+
+133
+
+96
+
+88
+
+117
+
+107
+
+10X.2
+
+88
+
+102
+
+90
+
+87
+
+93
+
+.
+
+Entérite et diarrhée
+
+.
+
+.
+
+.
+
+Apoplexie et ramollissement
+Convulsions des enfants.
+
+.
+
+Débilité sénile
+
+f, ;
+
+- 21.
++ 87.
+
++
+
+5-
+
+92.0 — 13.
+
+72
+
+41
+
+41
+
+66
+
+78
+
+58
+
+BU.8
+
++ 15.
+
+71
+
+96
+
+69
+
+78
+
+76
+
+70
+
+77.6
+
+— 7.
+
+67
+
+54
+
+60
+
+74
+
+76
+
+67
+
+65
+
+51
+
+60
+
+55
+
+52
+
+46
+
+6R.2 + »•
+52.8 -f 12.
+
+.
+
+55
+
+52
+
+52
+
+60
+
+48
+
+60
+
+54.4 + t.
+
+Squirrhe, ulcère de l'estomac
+
+52
+
+54
+
+55
+
+49
+
+40
+
+46
+
+49.0
+
++
+
+3.
+
+Fièvre typhoïde
+
+.
+
+51
+
+43
+
+36
+
+36
+
+24
+
+32
+
+54.2
+
++
+
+».
+
+Mort par accident externe .
+
+49
+
+57
+
+40
+
+33
+
+59
+
+59
+
+49.0
+
+Maladies suites de couches.
+
+34
+
+29
+
+23
+
+43
+
+16
+
+34
+
+Ï9V0 +
+
+Méningite tuberculeuse .
+
+.
+
+31
+
+36
+
+41
+
+37
+
+46
+
+81
+
+48.2 — 17,
+
+Croup et diphtérie.
+
+.
+
+29
+
+12
+
+16
+
+27
+
+39
+
+56
+
+50.0
+
+22
+
+43
+
+24
+
+35
+
+27
+
+40
+
+12
+
+14
+
+13
+
+13
+
+14
+
+26
+
+8
+
+11
+
+10
+
+6
+
+3
+
+4
+
+0.8
+
+7
+
+5
+
+7
+
+5
+
+26
+
+15
+
+II.G
+
+6
+
+2
+
+2
+
+2
+
+2
+
+2.2
+
+1
+
+2
+
+1
+
+0.8
+
+Albuminurie et néphrite.
+
+.
+
+Maladies du foie et de la rate
+Débilité congénitale .
+.
+
+.
+
+.
+
+.
+.
+
+.
+
+Coqueluche
+
+Delirium tremens
+
+.
+
+Choléra et cholérine .
+
+.
+
+.
+
+.
+
+.
+
+1
+
+.
+519
+
+Totaux.
+
+3
+
+426
+
+421
+
+476
+
+510
+
+3662 3533 3222 3592 3953
+
+433
+3550
+
+— <•
+».
+
+— 1.
+33.8 — 12.
+16.0
+
+0.2
+455.2
+
+— 4.
++ «•
+—
+
+5.
+
++
+— 1.
+0.
+
+-\- 66.
+
+3571.2 -|- 91.
+
+— 363 —
+Maladies zymotiques. L e nombre des décès causés p a r ces
+maladies s'est élevé à 181 ; ce chiffre accuse une augmentation
+de 14 décès sur celui de l a période quinquennale 1894-1896.
+Cette augmentation est due à l a fièvre typhoïde et à l a r o u geole, ainsi que le démontrent les tableaux ci-après, c o m p r e nant le chiffre total des décès par affections zymotiques et
+leur répartition par quartiers :
+Moyenne
+
+A N N E E 1899.
+
+Rougeole
+Fièvre typhoïde
+Croup et diphtérie
+Coqueluche
+Scarlatine
+Variole .
+Totaux.
+
+quinquennale
+
+1894-1898.
+
+72
+51
+29
+22
+7
+
+Ecarts constatés entre 1899
+et l a moyenne
+
+quinquennale 1894-1898.
+
++
+
+56.8
+34,2
+30.0
+33.8
+11.6
+0.8
+
+12
+5
+1
+—
+
+167.2
+
+181
+
+17
+1
+
+14
+
+Rougeole
+Fièvre typhoïde .
+Croup et diphtérie.
+Coqueluche .
+Scarlatine .
+Variole.
+Totaux.
+Décès zymotiq sur
+1,000 décès généraux en 1899. .
+
+29
+
+71
+
+46
+
+45.6
+
+63.3
+
+42.2
+
+0.8
+
+1.3
+
+0.8
+
+15
+
+11
+
+1
+
+8 181
+
+es
+
+Décès sur 1 , 0 0 0
+habitants calculés en 1899 . .
+
+33.3 42.0
+
+0.5
+
+0.7
+
+19.2 153.8
+
+0.2
+
+2.4
+
+49.4
+
+0.9
+
+Moyennes annuelles des décès dus a u x m a l a d i e s i n f e c t i e u s e s .
+1809
+
+1894-08
+
+1889-93
+
+1884-88
+
+1879-83
+
+1874-78
+
+1869-73
+
+1864-68
+
+1800-63
+
+181
+
+167.2
+
+266.6
+
+302.8
+
+280.8
+
+380.4
+
+904.2
+
+1215.0
+
+475.4
+
+De maximum hebdomadaire de léthalité prélevé par les m a l a dies zymotiques a atteint trois fois le chiffre de 21 décès :
+pendant l a l s e m a i n e (1-7 janvier), l a 2 semaine ( 8 - 1 4 j a n v i e r )
+et la 10 semaine (5-11 mars) ; u n seul décès a été rapporté à
+r e
+
+e
+
+e
+
+ce groupe d'affections transmissibles pendant la 31 et la
+3 3 semaine.
+e
+
+e
+
+Le relevé ci-après indique les voies publiques qui ont fourni
+au moins 3 décès au groupe des affections susdites :
+Voies publiques.
+
+Rue Haute
+Rue des Ménages. . .
+Rue de l'Abricotier . .
+Impasse des Escargots .
+Rue des Minimes . . .
+Rue de la Rasière. . .
+Rue Bodeghem . . .
+Rue du M i r o i r .
+. . .
+Rue de l'Allée-Verte . .
+Rue d'Anderlecht. . .
+Quai aux B r i q u e s . . .
+Rue des Capucins.
+Rue Charles-Quint . .
+Rue aux Laines
+. .
+Impasse Robie . . .
+Rue Royale . . . .
+Impasse Sainte-Thérèse.
+Rue Terre-Neuve
+'. .
+
+Classe.
+
+Habitants
+Décès
+Décès
+recensés, zyinotlques. ordinaires.
+
+3
+9
+7
+10
+4/7
+9
+5
+3/7
+—
+4
+3
+8
+7
+3/5
+10
+1
+10
+4
+
+5,494
+824
+746
+391
+1,993
+521
+1,148
+1.512
+269
+1,863
+604
+759
+372
+1,619
+126
+871
+270
+1,648
+
+8.
+8
+6
+5
+5
+5
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+90
+32
+39
+13
+41
+8
+26
+40
+17
+33
+16
+23
+14
+28
+4
+5
+11
+29
+
+Variole. Nous n'avons eu, en 1899, aucun décès à attribuera
+cette maladie éminemment contagieuse.
+Fièvre typhoïde. L e contingent mortuaire prélevé par cette
+maladie est de 51 décès, non compris 11 personnes étrangères
+à la ville. Ce chiffre, comparé à celui de la période décennale
+1881-1890, accuse une augmentation de 3 décès ; i l représente
+une proportion de 13.9 sur 1,000 décès et de 2.5 sur 1,000
+vivants. 39 victimes étaient célibataires, 20 mariées et 3 veuves.
+2 des décédés appartenaient à la classe riche; 15 à la chose
+aisée et 45 à la classe pauvre ou indigente.
+L a fièvre t}-phoïde, après une éclosion assez brusque pendant
+le premier trimestre avec retour assez vif pendant le quatrième
+trimestre, a été enrayée, grâce aux mesures de prophylaxie
+prises sur-le-champ.
+Le maximum des décès a été observé en mars et en octobre
+(8) ; le minimum a été constaté en juillet (2).
+
+Croup et diphtérie. 29 décès, non compris 7 étrangers à la
+ville, figurent sous cette rubrique dans la statistique nosologique. Le chiffre des décès fournis par la période décennale
+1881-1890 est de 84.2.
+La diminution que nous constatons avec satisfaction depuis
+plusieurs années dans le chiffre des décès dus à cette affection
+se maintient.
+Nous formulons l'espoir que, grâce à l'application du sérum,
+nous verrons s'abaisser encore plus fortement le pour cent des
+décès par diphtérie et croup.
+Le coefficient de mortalité est de 7.9 sur 1,000 décès et de
+1.4 sur 10,000 vivants.
+32 des victimes avaient moins de 5 ans ; 3 plus de 6 ans et
+1 était âgée de 21 ans.
+La classe aisée a fourni 4 décès et la classe pauvre ou indigente 32.
+Scarlatine. Nous avons eu à enregistrer 7 décès dus à cette
+fièvre éruptive, non compris un enfant étranger à la ville et
+transféré directement à l'hôpital Saint-Jean.
+Ce chiffre, comparé à celui de la période décennale 1881-1890,
+accuse une diminution de 5 décès. Le taux de léthalité est de
+1.9 sur 1,000 décès et de 0.3 sur 10,000 vivants.
+6 enfants étaient âgés de moins de 5 ans et 2 étaient âgés
+respectivement de 6 ans et de 7 ans. 1 victime appartenait à la
+classe aisée et 7 à la classe pauvre ou indigente.
+Coqueluche. 23 enfants, dont 1 étranger à la ville, ont succombé à cette affection. Ce chiffre est inférieur de 25 unités à
+celui de la période décennale 1881-1890.
+Le taux de mortalité est de 6.3 sur 1,000 décès et de
+1.1 sur 10,000 vivants.
+La classe aisée a fourni 1 victime ; la classe pauvre ou indigente, 22. 7 décédés étaient âgés de moins de 6 mois ; 2 de
+moins de un an et 14 de 1 à 5 ans.
+Rougeole. Cette fièvre éruptive, qui se communique par
+contagion épidémique avec une rapidité telle que la prophylaxie en est rendue fort difficile, a prélevé 76 décès, dont
+4 étrangers à la ville comme lieu de résidence.
+Le taux de mortalité est de 19.7 sur 1,000 décès et de
+3.5 sur 10,000 vivants.
+Le total des enfants victimes de cette fièvre éruptive dépasse
+de 26 unités la moyenne décennale 1881-1890.
+
+3 décédés appartenaient à l a classe aisée et 73 à la classe
+pauvre o u i n d i g e n t e .
+SB v i c t i m e s étaient âgées de moins d ' u n a n , 52 avaient de
+1 à 5 ans et 2 avaient plus de 6 ans.
+L e p r e m i e r t r i m e s t r e a moissonné à l u i seul l'existence de
+60 enfants (janvier, 20 ; février, 23 ; m a r s , 17).
+Ce petit foyer épidémique dont nous avons pu enrayer les
+effets, grâce à l ' a p p l i c a t i o n énergique et méthodique des
+mesures de désinfection et à l ' a p p l i c a t i o n rigoureuse de l'isolem e n t des m a l a d e s , a sévi p r i n c i p a l e m e n t dans la 2 division
+territoriale.
+e
+
+L e s q u a r t i e r s des rues H a u t e , dès R a d i s , des Vers et des
+Ménages, où l a p o p u l a t i o n est fort dense, sont ceux qui ont
+f o u r n i le plus de v i c t i m e s .
+N o u s ne saurions assez i n s i s t e r auprès du public de recourir
+s u r - l e - c h a m p à l ' i s o l e m e n t des malades atteints de cette affect i o n éminemment et r a p i d e m e n t t r a n s m i s s i b l e et si meurtrière
+p o u r les jeunes epfants.
+L e s maladies suites de couches ont fait 47 victimes, dont
+1 3 étrangères à l a v i l l e c o m m e l i e u de résidence. L a moyenne
+des décès des d i x années 1881-1890 avait donné 40 décès. La
+classe aisée a f o u r n i 5 v i c t i m e s et l a classe pauvre ou indigente, 4 2 .
+
+Maladies spéciales. N o u s avons eu à enregistrer 1 décès dû
+à l ' i n t o x i c a t i o n métallique survenu chez u n peintre, âgé de
+58 ans.
+L ' a l c o o l i s m e a fait 9 v i c t i m e s , dont une femme.
+
+rage
+
+N o u s donnons ci-après
+et l a profession des décédés :
+2 t a i l l e u r s âgés r e s p e c t i v e m e n t de 24 ans et de 27 ans ; un
+comptable et u n cocher âgés c h a c u n de 40 ans ; u n journalier de
+46 ans ; u n b a t t e u r d'or et u n p l o n g e u r âgés c h a c u n de 49 an$,
+u n c o m m i s s i o n n a i r e de 52 ans et une ménagère de 52 ans.
+A u c u n cas de rage h u m a i n e n ' a été observé pendant l'année.
+
+Maladies saisonnières. L a bronchite et la pneumonie ont
+amené 639 décès, y c o m p r i s 41 personnes étrangères à la ville
+c o m m e l i e u de résidence et décédées dans nos hôpitaux.
+C e chiffre accuse une d i m i n u t i o n de 94 décès comparativ e m e n t à l a moyenne décennale 1881-1890.
+L e coefficient de mortalité est de 1 6 3 . 3 sur 1,000 décès et
+de 28.7 s u r 1 0 , 0 0 0 vivants.
+Dans l a classe r i c h e on a constaté 15 décès ; dans la classe
+aisée, 1 1 2 , et dans l a classe pauvre ou i n d i g e n t e , 512.
+
+Les enfants et célibataires entrent dans la proportion dos
+décès pour un contingent de 327 ; les mariés, pour une somme
+de 166, et les veufs et veuves, pour un total de 146.
+Les maladies organiques du cœur ont fait 448 victimes, y
+compris 40 étrangers.
+Comparativement à la moyenne décennale, ce chiffre accuse
+une augmentation de 102 décès.
+Le taux de mortalité est de 111.4 sur 1,000 décès et
+de 19.6 sur 10,000 vivants.
+La classe riche a fourni 20 décès ; la classe aisée, 92, et l a
+classe pauvre ou indigente, 336.115 des décédés étaient célibataires, 173 mariés et 160 veufs.
+La diarrhée et Y entérite entrent dans le total général des
+décès pour une quote-part de 561, y compris 75 étrangers. Ce
+chiffre des décès, comparé à celui de la moyenne de la dernière
+période décennale, accuse une diminution de 48 unités.
+La moyenne sur 1,000 décès est de 132.7 et sur 10,000
+vivants de 23.4. Deux des décédés appartenaient à la classe
+riche, 21 a la classe aisée et 538 à la classe pauvre ou indigente.
+La quote-part des enfants dans la proportion des décès est
+de 535.
+Au point de vue de l'état civil, 293 des enfants décédés étaient
+légitimes et 236 illégitimes. C'est évidemment à l'alimentation
+vicieuse des nouveau-nés qu'est due en grande partie la mortalité excessive enregistrée dans nos tableaux nosologiques par
+entérite et diarrhée.
+Maladies tuberculeuses, L a phtisie pulmonaire a prélevé
+un contingent de 567 décès, y compris 79 étrangers à la ville
+comme lieu de résidence et décédés dans nos hôpitaux.
+Ce total, comparé à celui de la moyenne décennale, accuse
+une diminution de 153 décès.
+Le coefficient de mortalité est de 133.3 sur 1,000 et de 23.5
+sur 10,000 vivants.
+Le mois de janvier a fourni le maximum des décès (78) et le
+mois d'août le minimum (32).
+fa classe riche a fourni 3 décès ; la classe aisée, 73, et la
+cl&S&e pauvre ou indigente, 491.
+260des décédés étaient célibataires; 250, mariés,et57, veufs.
+Comme toujours, c'est la période d'âge comprise entre 20 et
+50 ans qui a fourni le contingent le plus élevé : de 20 à 30 ans,
+15b: de 30 u 40 ans, 127; de 41 à 50 ans, 113.
+
+— 368 —
+Les logements qu'ont occupés les tuberculeux sont régulièrement désinfectés au même titre que ceux dans lesquels des cas
+de maladies zymotiques se sont produits.
+Nous espérons que, grâce aux mesures prophylactiques appliquées régulièrement, nous verrons diminuer cette affection
+meurtrière, qui met en coupe réglée toutes les grandes villes.
+L a méningite
+
+tuberculeuse
+
+a fait 31 victimes.
+
+Le taux de mortalité est de 8.5 sur 1,000 décès et de 1.5 sur
+10,000 vivants.
+8 des décédés appartenaient à la classe aisée et 23 à la classe
+pauvre ou indigente; 27 étaient célibataires; 3, mariés,et 1,veuf.
+Mortalité des jeunes enfants. Le chiffre des décès pour la
+première période de vie (0 à 5 ans) a été de 1,375 (917 légitimes et 458 illégitimes). L e sexe masculin a contribué à ce
+chiffre pour une quote-part de 738 unités et le sexe féminin
+pour 637.
+Le relevé ci-après indique les affections qui ont causé le plus
+de ravages parmi ces jeunes enfants, y compris les étrangers
+décédés dans les hôpitaux :
+Légitimes.
+
+Entérite et diarrhée .
+Bronchite et pneumonie
+Convulsions
+. . . .
+Débilité congénitale .
+Rougeole
+Tuberculisations diverses
+Diphtérie et croup.
+Syphilis
+Scarlatine
+. . . .
+
+529 enfants, dont 293
+237
+»
+187
+211
+»
+127
+74
+»
+50
+74
+»
+56
+51
+»
+42
+32
+»
+28
+7
+».
+5
+6
+»
+5
+
+Illégitimes.
+
+236
+50
+84
+24
+18
+9
+4
+2
+1
+
+859 enfants ont succombé avant d'avoir atteint l'âge d'un an
+révolu ; 558 étaient légitimes et 301, nés hors mariage.
+Ces deux derniers chiffres, comparés à ceux des naissances,
+donnent une proportion de 159.2 décès sur 1,000 naissances
+légitimes et 234.7 sur 1,000 naissances naturelles.
+Morts violentes et accidentelles. 9 homicides ont été enregistrés pendant l'année 1899.
+Les victimes, 7 du sexe masculin et 2 du sexe féminin, sont :
+un enfant illégitime de 23 jours; un peintre, célibataire, âge
+de 20 ans; un employé, divorcé, âgé de 20 ans; un cavier,
+
+— 369 —
+célibataire, âgé de 27 ans; un ébéniste, marié, âgé de 55 ans;
+un concierge, célibataire, et un plafonneur, veuf, âgés chacun
+de 58 ans; une journalière, célibataire, âgée de 40 ans, et
+une colporteuse, mariée, âgée de 45 ans.
+s graillai
+mes.
+
+décès tt'i; '
+
+iflaw:..etleseiefe
+iont (»'!•:
+îpris les die
+Légiiii»lp
+
+Les morts accidentelles ont fourni un total de 75 décès
+(44 hommes et 31 femmes), y compris 26 personnes étrangères
+transférées directement dans nos hôpitaux.
+La classe riche a fourni 1 victime ; la classe aisée, 6, et la classe
+pauvre ou indigente, 68; 45 étaient célibataires; 18 mariés,et
+12 veufs.
+
+187
+
+Le tribut mortuaire est de 13.4 sur 1,000 décès et de 2.4
+sur 10.000 vivants.
+
+50
+
+Les causes de ces décès sont indiquées dans un tableau
+spécial (voir p. 371).
+
+50
+
+i
+
+5
+
+3
+
+Le total des suicides s'est élevé à 74, y compris 9 personnes
+étrangères à la ville.
+Ce chiffre est supérieur de 14 unités à la moyenne de la
+période décennale 1881-1890.
+Le sexe masculin a fourni 58 décès et le sexe féminin, 16.
+il3 appartenaient à la classe aisée et 61 à la classe pauvre ou
+ndigente ; 35 étaient célibataires ; 34, mariés, et 5, veufs. Le
+coefficient de mortalité est de 17.7 sur 1,000 décès et de 3.1
+sur 10.000 vivants.
+Les moyens employés et les causes attribuées à ces actes de
+désespoir sont consignés dans un tableau spécial (voir p. 370).
+
+rs mariage
+des naisse
+
+3UX
+
+urelies.
+
+— 370 —
+
+Suicides et tentatives de suicide
+Les suicides et tentatives de suicide enregistrés en 1898
+étaient de 1 0 1 ; ils s'élèvent à 116 pour l'année 1890, comme
+l'indique le tableau ci-dessous :
+Suicides.
+
+Moyens employés :
+MASC.
+
+Strangulation
+
+.
+
+.
+
+.
+
+.
+
+Empoisonnement
+Submersion
+
+.
+
+.
+
+.
+
+.
+
+Armes à feu
+Armes tranchanles
+
+FÉM.
+
+Tentatives de suicide.
+
+rpTAi .
+
+MASC.
+
+FÉM. | TOTAL.
+
+24
+
+!)
+
+33
+
+2
+
+1
+
+2
+
+3
+
+5
+
+3
+
+2
+
+5
+
+12
+
+2
+
+14
+
+12
+
+7
+
+19
+
+17
+
+1
+
+18
+
+8
+
+2
+
+10
+
+2
+
+1
+
+%
+
+•
+
+0
+
+1
+
+Chutes d'un lieu élevé.
+Chutes de corps durs .
+
+\
+
+i
+
+Asphyxie par le charbon
+Convois de chemin de fer
+
+1
+
+1
+
+2
+
+2
+
+%
+
+.
+1
+
+\
+
+58
+
+te
+
+74
+
+27
+
+15
+
+42
+
+Misère
+
+7
+
+2
+
+9
+
+3
+
+1
+
+4
+
+Ivrognerie et débauche.
+
+9
+
+9
+
+5
+
+Maladies incurables
+
+3
+
+0
+
+O
+
+2
+
+1
+
+3
+
+Brûlures
+Totaux.
+Causes attribuées à ces actes
+de désespoir :
+
+.
+
+Chagrins d'amour
+Id.
+
+domestiques.
+
+Contrariétés
+
+.
+
+Aliénation mentale
+Causes inconnues
+Totaux.
+
+.
+
+.
+
+.
+
+0
+
+2
+
+2
+
+4
+
+5
+
+6
+
+11
+
+4
+
+3
+
+7
+
+5
+
+4
+
+9
+
+7
+
+3
+
+10
+
+2
+
+2
+
+4
+
+6
+
+2
+
+8
+
+1
+
+1
+
+20
+
+4
+
+24
+
+5
+
+58
+
+16
+
+74
+
+27
+
+*
+
+5
+15
+
+42
+
+Événements
+
+et accidents
+
+01 1 8 9 9 .
+
+constates
+PERSONNES
+
+VICTIMES
+
+NATURE
+
+DES ACCIDENTS.
+
+( suivies de submersion
+Chutes < d'un lieu élevé
+( de personnes circulant à pied sur la voie publique
+Blessures par la chute de bâtiments ou le contact d'un corps dur
+Brûlures
+Indispositions sur la voie publique .
+Id.
+(ivresse)
+.
+.
+.
+.
+Circulation ( par la faute du conducteur
+des chevaux 1 par le fait des chevaux
+et des
+] par l'imprévoyance des piétons
+véhicules
+( par la chute des chevaux ou des véhicules
+Armes à feu
+Morsures .
+Rixes
+Ecroulement
+.
+Armes tranchantes
+Empoisonnement
+Asphyxie .
+Convois de chemin de fer
+Eboulement de terrain ou de constructions
+TOTAUX.
+
+co
+
+C/3
+
+s
+E
+o
+x
+
+Blessures
+Sans
+blessure légères. graves
+
+H)
+
+H
+O
+H
+
+s
+
+M.
+
+14
+2
+7
+11
+6
+12
+14
+15
+5
+
+M.
+
+F.
+
+9
+6
+1
+1
+4
+l
+5
+2
+14
+1
+
+I
+
+1
+
+S U I T E D E S ACCIDENTS.
+
+ACCIDENTS
+
+Enfants
+
+S
+
+13
+62
+11
+8
+7
+20
+4
+35
+28
+27
+17
+1
+1
+10
+
+DES
+
+1
+
+23
+82
+14
+16
+23
+26
+5
+53
+44
+63
+23
+2
+4
+
+18
+9
+1
+
+10
+5
+10
+11
+
+10
+
+M. i F
+
+M.
+
+l
+27
+8
+3
+4
+
+14
+3
+
+2
+21
+
+16
+25
+8
+1
+4
+
+4
+18
+
+5
+6
+13
+
+1
+7
+5
+5
+4
+
+6
+5
+
+Sans suite
+connue.
+
+F.
+
+M.
+
+97
+
+47
+
+6
+4
+3
+
+_2
+
+12 4 Ï Ï
+
+7T
+
+10
+1
+12
+
+18
+2
+
+3
+
+3
+4i
+2
+
+1
+1
+
+J.
+12 ÏÔ2
+
+TOTAL
+
+F.
+
+3
+
+4
+2
+
+255
+
+F.
+
+2
+
+4
+
+ji
+
+M.
+
+F.
+
+La
+mort.
+
+39
+
+66
+
+13
+
+2
+2
+_1
+
+1
+1
+
+2
+
+44
+
+3Ï
+
+22
+
+2
+1
+
+6
+
+23
+82
+14
+16
+23
+21
+5
+53
+44
+63
+23
+2
+4
+10
+t
+
+2
+6
+4
+4
+406
+
+03
+
+- 372 —
+
+Chapitre 6. §
+
+1 .
+
+TRAVAUX PUBLICS.
+PAVAGE
+
+—
+
+ER
+
+(1).
+
+L e s travaux de pavage exécutés pendant les quatre derniers
+mois de 1 8 9 9 et les six p r e m i e r s mois de 1 9 0 0 sont indiqués
+aux tableaux suivants :
+
+A . — Du 1 septembre a u 31 décembre 1899.
+ER
+
+1 ° E n pavés neufs ou de r e m p l o i .
+Mètres carrés.
+
+R u e des V i e r g e s
+
+.
+
+.
+
+.
+
+.
+
+185.84
+
+.
+
+165.34
+
+R u e des G u i l d e s
+* Square Marie-Louise
+
+.
+
+.
+
+.
+
+140.22
+
+.
+
+42.83
+
+R u e des P a t r i o t e s
+* R u e d u Fossé-aux-Loups
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+566.30
+31.40
+
+R u e du C a n o n
+Impasse de l ' E t a m e u r
+
+R u e Jenneval et square M a r g u e r i t e
+
+.
+
+A v e n u e de l a Brabançonne
+
+.
+
+.
+
+19.88
+.
+
+105.(13
+28.08
+130.57
+
+** A v e n u e P a l m e r s t o n
+
+16.53
+
+* * R u e de l a F o u r c h e
+* B o u l e v a r d de l a S e n n e
+
+.
+
+.
+
+.
+
+2.506.94
+
+.
+
+R u e s des Commerçants etSaint-.Tean-Népomucène
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Square Guttenberg .
+
+.
+
+.
+
+.
+
+.
+
+77.33
+
+R u e des E b u r o n s
+
+.
+
+.
+
+.
+
+.
+
+107.71
+
+.
+
+196.63
+
+Rue d'Assaut
+
+04.43
+
+** R u e de l a Collégiale
+A reporter.
+
+(1)
+
+953.19
+1,670.22
+
+Place des M a r t y r s
+
+.
+
+7.009.07
+
+L e s n o m s des rues dans lesquelles u n pavage n e u f a été établi sont
+
+précédés d ' u n astérisque p o u r les pavés de p o r p h y r e , de deux
+p o u r les pavés de
+
+grès,
+
+astérisques
+
+et de trois astérisques pour les pavés d'Attre.
+
+M è t r e s carrés.
+
+Report.
+
+.
+
+7,009.07
+729 35
+851 75
+
+.
+
+.
+
+.
+
+\
+«.
+
+Place du Théâtre-du-Parc.
+
+.
+
+.
+
+.
+
+Rue Sainte-Gudule
+
+.
+
+Place Sainte-Gudule
+
+112.76
+51.70
+
+Rue de Rollebeek
+
+44.24
+
+Rue des Alexiens
+
+.
+
+.
+
+.
+
+.
+
+.
+
+84.87
+
+Rue d'Or
+
+21.89
+
+Rue Saint-Ghislain
+
+627.05
+
+Rue des Cendres
+
+141.95
+
+Rue du Marché-au-Bois
+
+.
+
+.
+
+.
+
+.
+
+64.86
+
+Rue de la Bourse
+
+54.07
+
+Boulevard de Waterloo
+
+.
+
+.
+
+.
+
+.
+
+536.65
+
+Rue des Six-Jetons
+
+67.23
+
+Rue de l'Abricotier
+
+45.98
+
+Rue de la Querelle
+
+204.36
+
+Rue et place de Bavière et Montagne-desGéants
+
+138.63
+
+Boulevard Clovi s
+
+29.59
+
+Rues Charles-Martel et Boduognat
+
+.
+
+.
+
+151.11
+
+Impasse des Corroyeurs
+
+.
+
+.
+
+.
+
+.
+
+47.94
+
+Impasse Van de Leer.
+
+.
+
+.
+
+.
+
+.
+
+131.68
+814.83
+
+Rue Van den Bogaerde
+
+.
+
+.
+
+.
+
+.
+
+Rue du Lavoir
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Impasse du Pêcheur .
+Rue Coudenberg
+
+.
+
+Rued'Alost
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+30.33
+.
+
+82.18
+
+.
+.
+
+86.43
+.
+
+* Boulevard du Midi
+
+21.71
+886.61
+
+Rue de la Philanthropie
+
+.
+
+.
+
+.
+
+.
+
+445.50
+
+Rue des Radis .
+
+.
+
+.
+
+.
+
+.
+
+281.93
+
+.
+
+.
+
+.
+
+.
+
+100.23
+
+Cité Vanderkelen
+
+52.36
+
+Place du Jeu-de-Balle
+* Rue de la Rosée
+
+253.04
+
+* Rue du Noyer
+
+7,112.40
+
+Rues de l'Ecuelle et des Confédérés
+
+.
+
+.
+
+* Avenue du Midi
+
+91.98
+1,110.32
+
+Impasse du Persil
+
+107.52
+
+* Rue d'Arenberg
+
+88.55
+Total, mètres carrés.
+
+.
+
+22,712.65
+
+2 ° Relevés à bout.
+Rue des Moucherons
+
+.
+
+Rue des Vierges
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rue du Carrousel
+
+.
+
+.
+
+Rue des Guildes
+
+.
+
+.
+
+Square Marie-Louise
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rue du Marché-aux-Porcs
+
+.
+
+.
+
+.
+
+.
+
+Impasse de la Ferraille
+
+.
+
+.
+
+.
+
+.
+
+Rue du Fossé-aux-Loups .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+573.11
+
+.
+
+.
+
+643.79
+
+.
+
+.
+
+34.84
+
+.
+
+.
+
+889.30
+878.79
+
+Rue des Patriotes
+
+569.73
+
+Rue du Canon.
+
+.
+
+Impasse du Canon
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rue Jenneval et square Marguerite
+Rue des Confédérés.
+Avenue Palmerston .
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+94.27
+77.93
+
+.
+
+.
+
+40.10
+414.45
+
+.
+
+.
+
+Avenue de la Brabançonne
+
+.
+
+. . .
+
+.
+
+103.63
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+
+Impasse de PEtameur
+Place de la Bourse
+
+.
+
+209 60
+
+.
+
+35.88
+
+..
+
+.
+
+1,963.80
+
+.
+
+.
+
+.
+
+377.33
+
+.
+
+.
+
+.
+
+288.37
+
+.
+
+.
+
+.
+
+730.57
+
+Rue de la Fourche
+
+293.10
+
+RueGrétry
+
+.
+
+Boulevard de la Senne
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1,490.47
+99.73
+
+Rues des Commerçants et Saint-Jean-Népomucène
+Place des Martyrs
+
+70.74
+336.40
+
+Rue des Six-Aunes
+
+164.71
+
+Square Guttenberg
+
+3,200.76
+
+Rue des Eburons
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+375.84
+
+Rue d'Assaut
+
+354.68
+
+Rue de la Collégiale
+
+560.64
+
+Rue du Marquis
+
+348.76
+
+Rue Sainte-Gudule
+
+347.62
+
+Place Sainte-Gudule
+
+1,270.34
+
+Place du Théâtre-du-Parc
+
+.
+
+.
+
+.
+
+.
+
+483.20
+
+Rue de Rollebeek
+
+871.89
+
+Rue des Alexiens
+
+1,150.27
+
+Rue d'Or
+
+669.73
+
+Rue Saint-Ghislain
+Rue des Sablons
+
+1,305.56
+.
+
+.
+
+.
+
+.
+
+.
+
+A reporter.
+
+.
+
+47.53
+.
+
+21,373.46
+
+Mètres carrés.
+
+Keport.
+
+21,373.46
+
+Rue T'Serclaes
+
+166.86
+
+Rue Montagne-aux-Herbes-Potagères
+
+.
+
+.
+
+560 19
+
+Rue de la Montagne
+
+540.05
+
+Rue du Monastère
+
+131.36
+
+Rue des Cendres
+
+643.23
+
+Rue du Marché-au-Bois
+
+1,090 26
+
+Rue de la Bourse
+
+0.78
+
+Boulevard de Waterloo
+
+1,802.70
+
+Rue des Six-Jetons
+
+620.89
+
+Rue de l'Abricotier .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+378.63
+
+Rue de la Querelle
+
+492.89
+
+Impasse des Escargots
+
+.
+
+.
+
+.
+
+.
+
+.
+
+154.24
+
+Rue et place de Bavière et Montagne-des-Géants.
+
+1,282.59
+
+Boulevard Clovis
+
+665.25
+
+Rues Charles-Martel et Boduognat
+Impasse des Corroyeurs
+
+.
+
+Impasse Van de Leer
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+
+46.95
+
+.
+
+112.86
+155.85
+
+Rue Van den Bogaerde
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rue Van den Branden
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Rue de Laeken
+
+472.70
+.
+
+33.50
+.
+
+f
+
+102.84
+
+Rue du Lavoir
+
+1,177.86
+
+Impasse du Pêcheur
+
+.
+
+.
+
+.
+
+.
+
+.
+
+361.34
+
+Rue Coudenberg
+
+235.49
+
+Rue Charles-Martel
+
+94.29
+
+Boulevard du Midi
+
+55.07
+
+Rue de la Philanthropie
+
+45.57
+
+Rue des Radis
+
+157,00
+
+Cité Vanderkelen
+
+375.13
+
+Place du .leu-de-Balle
+Rue de la Rosée
+
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+13,98
+
+.
+
+121.66
+
+Rue du Noyer
+
+6,581.24
+
+Rue de la Besace
+
+151.29
+
+Rues de l'Ecuelle et des Confédérés .
+
+.
+
+.
+
+1,182.37
+
+.
+
+.
+
+1,398.54
+
+Avenue du Midi
+Rue du Béguinage
+Rue Calvin
+
+48.24
+.
+
+.
+
+.
+
+.
+
+.
+
+385.43
+A reporter,
+
+43,212.58
+
+Mètres carrés.
+
+Impasse du Persil
+
+.
+
+.
+
+Report.
+.
+.
+.
+
+.
+
+.
+
+Rue de l'Ecuyer
+
+1,885.04
+
+Rue d'Arenberg
+
+758.84
+
+Rue Charles-Martel
+Rue des Sablons
+
+43,212.58
+10.55
+
+94,29
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+31.89
+
+Total mètres carrés.
+
+.
+
+45,993.19
+
+B. — Du 1 janvier au 30 juin 1900.
+er
+
+1° E n pavés neufs ou de remploi.
+Mètres carrés
+
+Rue Sallaert
+
+497.40
+
+Rue de la Fontaine
+
+.
+
+.
+
+.
+
+.
+
+.
+
+607.62
+
+Rue de l'Éducation
+
+.
+
+.
+
+.
+
+.
+
+.
+
+147.71
+
+* R u e d'Amsterdam
+
+.
+
+Rue des Guildes
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+175.89
+.
+
+50.51
+
+Rue Coudenberg
+
+756.72
+
+** RueVéronèse
+
+32.78
+
+* * Rue Stévin
+
+135.40
+
+* * Rue de la Putterie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+55.06
+
+Rue V a n der Elst
+
+107.36
+
+R u e des Confédérés
+
+53.04
+
+* Avenue delà Brabançonne
+
+.
+
+.
+
+.
+
+* Rue de l'Éducation
+
+2,247.62
+
+Rue V i l l a - H e r m o s a
+
+160.59
+
+Rue Coudenberg
+
+71.22
+
+Rue de la Chapelle
+
+69.47
+
+* Rue de Hornes
+
+556:13
+
+Avenue de la Chevalerie
+
+.
+
+.
+
+.
+
+.
+
+444.62
+
+* Rues Rempart-dest-Moines, N . - D . - d u - S o m meil, du C h a r , du Vinaigre et impasse de
+la Blanchisserie-de-Cire.
+.
+.
+.
+* * Porte Louise (côté Sud)
+Rue de Gravelines
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+447.82
+766.88
+
+. •
+
+Rue Wilson
+
+65.67
+393.79
+
+* Boulevard Clovis
+
+215.80
+
+Rue de l'Aurore
+*
+
+68.21
+
+.
+
+.
+
+.
+
+.
+
+335.52
+
+Porte Louise (côté Nord) .
+
+.
+
+.
+
+.
+
+442.45
+
+ld.
+
+.
+id
+
+352.59
+A reporter.
+
+.
+
+9,257.87
+
+Mètres c a r r é s .
+
+Report.
+* * Boulevard Botanique (traversée).
+** Place du Congrès
+' * Rue de Ruysbroeck
+
+.
+
+.
+
+9,257.87
+
+i
+
+314.35
+186.81
+169.95
+
+Rue Cantersteen
+* * Rue de l'Empereur
+
+18.23
+3 8
+
+Total mètres carrés.
+
+.
+
+5 8
+
+9.985.79
+
+2° Relevés à bout.
+Mètres carrés.
+
+RueSallaert .
+.
+.
+.
+Rue de la Fontaine .
+.
+.
+Rue Van den Branden
+.
+Place Anneessens
+Rue de l'Education
+Rue d'Amsterdam
+Rue des Guildes
+Rue Joseph II
+RueVéronèse.
+Rue du Sport
+Rue du Marronnier.
+
+'
+
+0
+0
+
+•
+•
+
+•
+42.08
+192.96
+104.97
+501.04
+155.85
+1,008.97
+G 3
+
+0 7
+
+75.20
+9 6
+
+.
+
+Rue d'Or
+Hue Paul-Lauters
+RueStévin
+Rue de la Putterie
+Une du Béguinage .
+.
+Rue Van der Elst
+Rue des Dominicains
+.
+Rue des Confédérés.
+.
+Rue de l'Abdication
+Rue T'Kint
+Rue de la Grande-Ile
+Rue de Soignies
+Avenue de la Brabançonne
+Rue de l'Éducation
+Rue Villa-Hermosa
+Cour de l'Entrepôt .
+.
+
+.
+
+•
+
+•
+
+•
+
+0 i
+
+565.36
+1,983.08
+509.24
+506.66
+3 0
+
+•
+.
+
+.
+
+.
+
+.
+•
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+8 0
+
+6
+
+•
+
+„
+
+.
+
+.
+
+.
+
+.
+
+reporter.
+
+.
+
+.
+.
+
+6
+
+2
+
+446.99
+1,678.27
+.34
+56.29
+39.20
+735.70
+1,027.32
+65.48
+666.25
+7 5
+
+A
+II
+
+118.22
+
+6 3
+
+3 3
+
+10,869.55
+25
+
+Report.
+
+Rue des Brigittines
+.
+.
+.
+.
+.
+Rue de la Chapelle
+.
+.
+.
+.
+.
+Rue deHornes.
+.
+.
+.
+.
+.
+Avenue de la Chevalerie
+.
+.
+.
+.
+RuesRempart-des-Moines,N.-D.-clu-Somnieil. du
+Char, du Vinaigre et impasse de Ja Blanehisserie-de-Cire
+.
+.
+.
+.
+Porte Louise (côté Sud)
+.
+.
+.
+.
+Rue de Grave Unes
+.
+.
+.
+.
+.
+Rue Wilson
+Boulevard Clovis
+.
+.
+.
+.
+.
+Une de l'Aurore
+.
+.
+.
+.
+.
+Porte Louise (côté Nord)
+.
+.
+.
+.
+Boulevard Botanique (traversée)
+Place du Congrès
+.
+.
+.
+.
+.
+Rue de la Vierge-Noire
+.
+.
+.
+.
+Rue de Ruysbroeck
+.
+.
+.
+.
+.
+Rue de l'Empereur .
+.
+.
+.
+.
+Total mètres carrés.
+Relevé général.
+Pavés neufs
+.
+Pavés de remploi
+Relevé à bout
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Total mètres carrés.
+Pour tous ces pavages, i l a été mis en œuvre,
+abstraction faite des pavés de remploi, les matériaux suivants :
+1°
+2°
+3°
+4°
+
+Pavés de porphyre (Quenast et Lessines)
+Pavés de l'Ourthe et de la Meuse.
+Pavés de Huppaye
+.
+Pavés d'Attre
+.
+.
+.
+.
+.
+Total pavés.
+
+.
+
+— 379 —
+Macadam.
+1 ° Piochage et rechargement de l'avenue de la
+Lisière .
+.
+.
+.
+.
+.
+.
+2° Piochage et rechargement d'une section de
+l'avenue de Diane
+.
+.
+.
+.
+.
+3° Piochage et rechargement de l'avenue de la
+Belle-Alliance
+4° Piochage et rechargement de l'avenue du
+champ de course
+.
+.
+.
+.
+.
+5° Réparations diverses au macadam de l'avenue
+du Panorama .
+.
+.
+.
+.
+.
+(3° Réparations diverses au macadam de l'AlléeVerte
+7° Etablissement d'un macadam aux abords du
+château d'eau .
+.
+.
+.
+.
+.
+Total mètres carrés.
+
+.
+
+Pavage en bois.
+Goudronnage et gravelage des parties hors d'entretien
+.
+.
+.
+.
+.
+.
+.
+Asphalte.
+1° Etablissement d'un trottoir en asphalte coulé
+sur le pourtour du bassin de natation .
+2° Réparations diverses
+.
+.
+.
+.
+.
+m*
+
+Mètres carrés.
+
+695. »
+4,980. »
+1,890. »
+585. »
+825. »
+870. »
+890. »
+10,735. »
+
+Mètres carrés.
+
+9,500. »
+
+Mètres carrés.
+
+614.85
+217.68
+832.53
+
+Total mètres carrés.
+
+0
+ÉGOUTS.
+
+Les nouveaux égouts construits du 1
+31 août 1900 sont les suivants :
+
+e r
+
+septembre 1899 au
+Mètres courants.
+
+A.
+
+— Égouts de 2 0 0 X l 3 3 .
+m
+
+m
+
+1° Rue des Prêtres (aux frais de M . Houba).
+2° Rue Van Maerlant
+.
+.
+.
+.
+RueBelliard
+.
+.
+.
+.
+.
+Rue Stévin
+Avenue de la Chevalerie
+.
+.
+.
+Place de Ninove .
+.
+.
+.
+.
+Boulevard Barthélémy .
+.
+.
+.
+
+160
+139
+13
+80
+40
+121
+
+90. »
+
+552. y>
+
+Report.
+
+.
+
+552. »
+
+B. — Égouts de l"'20xO 80.
+m
+
+Rue tle la Prévoyance
+Rue Lauters .
+.
+
+.
+
+.
+
+.
+
+.
+
+61.5
+60
+
+A v e r t i e des Courses .
+
+.
+
+.
+
+.
+
+.
+
+63
+
+.
+
+.
+
+.
+
+.
+
+184.50
+
+C. — Égouts de 0 90x0 60.
+m
+
+R u e du R e m b l a i
+
+.
+
+.
+
+m
+
+.
+
+.
+
+. 80
+80. »
+
+D. — Égouts de 0 '50x0 35.
+n
+
+R u e de V i l l e r s .
+
+.
+
+.
+
+.
+
+m
+
+.
+
+.
+
+40
+40. »
+
+046.50
+I l a été établi des réservoirs de chasse aux endroits ci-après :
+Rues de L e n g l e n t i e r , du L a v o i r , de la Querelle, des Tanneurs, P h i l i p p e - d e - C h a m p a g n e , des Bogards, du Châssis, du
+Poinçon, du Chêne, Grétry, de l a R e i n e , des Boiteux, aux
+C h o u x , Neuve (angle du F i n i s t e r r e ) , Neuve (angle Pont-Neuf),
+des Cendres, Neuve (angle Malines), de Cureghem, d'Anderlecht et V a n A r t e v e l d e .
+
+Entretien des égouts ordinaires. — L'atelier chargé du
+curage et de l'entretien des égouts publics a procédé, comme
+les années précédentes, au p l a c e m e n t , déplacement et suppression de bouches et trappes d'égout, rendus nécessaires à la suite
+de changements de niveau ou d'alignement dans divers quartiers
+de l a V i l l e .
+I l a également remplacé ies bouches et trappes d'égout en
+mauvais état, réparé o u reconstruit les embranchements de
+bouches défectueux, effectué les parachèvements des embranchements particuliers dans les égouts publics.
+L e lavage des égouts dans le bas de l a Ville a été généralement fait à grande eau par les prises d'eau au canal de Charl e r o i et au canal de W i l l e b r o e c k , ainsi qu'au moyen de chasses
+d'eau de l a V i l l e et d'appareils automoteurs, dont l'emploi
+s'étendra progressivement à tout le réseau des égouts du bas de
+la V i l l e .
+L e s canalisations de l'abattoir et du marché Saint-Géry et
+d'une partie des propriétés appartenant à la Ville ont été curées
+
+par les soins du service des égouts au moyen de l'eau de la distribution.
+Les ouvriers du service des égouts ont r e c o n s t r u i t une partie
+d'égout, rue deMolenbeek, en tuyaux de grès de 0 3 0 de d i a mètre sur une longueur de 15 mètres; i l s ont également r e c o n struit l'égout en maçonnerie sur une longueur de 40mètres sur
+0 50 X 0 3 5 rue de V i l l e r s .
+Les ouvriers ont reconstruit plusieurs embranchements
+d'éo-outqui ont été démolis pour le placement des câbles souterrains. L a réfection de ces embranchements souterrains pour le
+compte du service des téléphones de l ' E t a t se fait par les soins
+delà V i l l e .
+Ils ont également comblé plusieurs puits qui ont été découverts par suite des travaux exécutés par l ' E t a t , rues de l a
+Régence, du C a n a l , des Sables et de la P a i l l e .
+m
+
+m
+
+lo
+
+Collecteurs à rails. — U n curage à v i f fond de tous les c o l lecteurs a été effectué dans le courant de cet exercice.
+Le curage de l a Senne, depuis l'avenue du Boulevard jusqu'à
+la limite amont de Vilvorde, a été exécuté par notre personnel
+ensuite d'une décision de l a Députation permanente. Les c o m munes riveraines sont tenues de r e m b o u r s e r à l a V i l l e le m o n tant de leur quote-part dans ce travail.
+Usine de Haren. — Divers travaux ont été exécutés à l'usine
+élévatoire des eaux d'égout à H a r e n . I l a été fait usage du c i m e n t
+armé pour assurer l'élanchéité de l a salle des m a c h i n e s . Ce t r a vail a donné de bons résultats; i l p e r m e t t r a de réaliser une
+sérieuse économie sur le combustible, les épuisements pouvant
+être considérablement réduits par le fait de l a suppression des
+infiltrations d'eau de source dans l'usine.
+Les toitures de l'usine et de ses annexes ont été remises en
+bon état; les diverses salles ont été badigeonnées et repeintes ;
+diverses améliorations ont été apportées aux machines et aux
+générateurs.
+Le raccordement au chemin de fer a été prolongé à l'intérieur
+du magasin à charbon en vue de réaliser une économie de m a i n d'œuvre dans le déchargement des wagons.
+La Ville a été amenée à protester auprès du M i n i s t r e des
+Chemins de fer, Postes et Télégraphes contre l'incorporation
+projetée d'une partie des terrains dépendant des collecteurs, en
+vue de l'extension du réseau des voies ferrées de l ' E t a t .
+Elle a fait ressortir que la surface des terrains dont elle d i s pose ne peut être diminuée sans risquer de compromettre l'ave-
+
+— 382 —
+nir d'un de ses services les plus importants dans lequel des
+capitaux considérables ont été engagés et du bon fonctionnement duquel dépendent l'hygiène et la santé de toute l'agio,
+mération bruxelloise.
+Egouts.—Embranchementsparticuliers.—
+au 1 juillet 1900, i l a été accordé :
+
+Dul aoùtl899
+er
+
+e r
+
+381 concessions nouvelles;
+67 autorisations pour reconstruction d'égouts ;
+36
+id.
+i d . désobstruerons i d .
+7
+id.
+i d . égouts supplémentaires.
+Les tranchées, conséquence de ces travaux, ont nécessité la
+réfection de 2,900 mètres carrés de pavage.
+Sur les 381 nouvelles concessions accordées, i l y en a 35 se
+rapportant à d'anciennes constructions non encore raccordées
+aux égouts publics.
+Nouveau
+champ des manœuvres d'Etterbeek. — Deux
+ouvriers de la Ville travaillent constamment à l'entretien de la
+plaine : comblement des ravines, entretien des pavages, des
+aqueducs, des fossés, etc.
+
+—
+
+383
+
+—
+
+bon fc^
+té de tootf
+du
+
+s.-Dd^
+
+gouts;
+:
+
+§ 3.
+
+u, ont
+
+—
+
+DISTRIBUTION D'EAU.
+
+ta
+Le tableau ci-aurès donne au 1 juillet 1900 la situation du
+réseau des conduites, des robinets-vannes, des bouches à
+incendie et des concessions.
+er
+
+) encore i
+
+ta Tenta
+
+Conduites de
+
+o
+
+"1
+
+a
+
+O
+O
+a»
+
+a
+
+CD•<
+
+O-
+
+O
+
+•H
+
+3
+
+I—i
+
+CD
+
+O
+O
+
+3
+
+CD
+
+DO
+O
+
+<i
+GO
+
+CO
+
+h-«
+
+O
+
+GQ
+O
+
+Cn
+
+C5
+
+Etterbeek.
+
+Uccle.
+
+Molenbeek,
+Koekelberg et Jette
+
+Traversée d'Ixelles.
+
+Traversée
+de
+
+Saint-Josse-t.-N e.
+d
+
+Ensemble de la ville
+et
+des faubourgs.
+
+3 7 0
+
+/ . . r.
+
+-a
+a
+
+•
+
+ce
+
+1
+
+:
+
+»- t
+
+a
+
+1
+
+»
+
+3
+
+/
+
+7
+
+f
+
+r . - r
+
+:
+
+t .
+
+>
+
+l-fi
+
+0.08
+
+56
+
+66
+
+39
+
+54
+
+33
+
+10
+
+6
+
+49
+
+399
+
+0.10
+
+35
+
+95
+
+76
+
+]07
+
+89
+
+78
+
+70
+
+114
+
+715
+
+0.15
+
+21
+
+44
+
+20
+
+21
+
+11
+
+22
+
+17
+
+12
+
+194
+
+0 20
+
+13
+
+23
+
+2
+
+6!
+
+25
+
+6
+
+10
+
+16
+
+105
+
+0.25
+
+1
+
+5
+
+1
+
+1
+
+1
+
+7
+
+»
+
+18
+
+0.30
+
+2
+
+»
+
+»
+
+»
+
+7
+
+1
+
+»
+
+5
+
+16
+
+0.35
+
+5
+
+6
+
+1
+
+4
+
+»
+
+»
+
+»
+
+»
+
+10
+
+0.40
+
+»
+
+»
+
+»
+
+4
+
+5
+
+16
+
+9
+
+5
+
+6
+
+45
+
+0.50
+
+6
+
+13
+
+9
+
+7
+
+2
+
+»
+
+»
+
+3
+
+1
+
+))
+
+41
+
+0.60
+
+15
+
+»
+
+10
+
+13
+
+5
+
+5
+
+2
+
+50
+
+• i—«
+
+o
+
+. 7
+
+oc
+01
+
+1,872
+
+Totaux.
+
+215
+
+193
+
+315
+
+188
+
+253!
+
+201
+
+141
+
+108
+
+219
+
+Bouches d'incendie
+
+524
+
+293
+
+454
+
+337
+
+341
+
+141
+
+96
+
+120
+
+126
+
+2,456
+
+Concessions d'eau particulières, au compteur
+
+2,4.09
+
+3,680
+
+4,070
+
+2,824
+
+3,330
+
+969
+
+919
+
+636
+
+2,898
+
+21,852
+
+Concessions communales au compteur.
+
+16
+
+31
+
+27
+
+12
+
+3
+
+Concessions communales sans compteur .
+
+1
+
+1
+
+2,426
+
+3,712
+
+Totaux
+
+I
+
+3
+
+»
+
+1
+
+2,836
+
+3,333'
+
+972
+
+919
+
+97
+2
+
+»
+4,097
+
+17
+
+636
+
+2,899
+
+21,951
+
+En magasin.
+
+PROPRIÉTÉS.
+
+PROPRIÉTÉS
+avec
+abonnement
+•i fentretien. |
+
+SYSTÈMES.
+
+j
+
+4
+H
+0
+
+p
+
+2 pistons ancien modèle
+
+30
+
+8
+
+9
+
+4
+
+3 pistons
+
+14
+
+11
+
+4
+
+3
+
+32
+
+S i e m e n s . . . .
+
+36
+
+1,787
+
+114
+
+1,937
+
+2 pistons
+Kenedy
+
+.
+
+.
+
+.
+
+.
+
+51
+
+5,255
+
+7
+
+52
+
+39
+
+5,353
+
+10,728
+
+890
+
+1,381
+
+112
+
+13.111
+
+16,063
+
+916
+
+3,233
+
+272
+
+20.484
+
+Ouvrages desservant la zone inférieure
+
+dé la Ville.
+
+Les galeries de drainage de la forêt de Soignes, l'aqueduc
+d'amenée et les diverses chambres de serrement et de jauge,
+ont été régulièrement visités et entretenus.
+Aucune extension n'a été donnée, cette année, au drainage
+de la forêt de Soignes ; le développement total des galeries es
+donc resté 6228.69 mètres.
+Après un curage à vif exécuté l'année dernière, les galeries
+ont été mises définitivement en service le 5 mars 1899, et les
+serrements réglés de manière à ne fournir que les volumes
+d'eau strictement nécessaires.
+A u 1 juillet de cette année, les réserves d'eau accumulées
+en amont des divers serrements atteignaient les hauteurs suivantes :
+J
+
+e r
+
+1.
+2.
+3.
+4.
+
+Serrement régulateur
+.
+1 serrement de retenue
+2
+—
+—
+3
+—
+—
+e r
+
+e
+
+e
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+l 76
+2 18
+2 53
+2 9
+m
+
+m
+
+m
+
+m
+
+L a coupe ci-contre rend compte de cette situation.
+On peut estimer à 1,500,000 mètres cubes environ la réserv
+faite depuis le 5 mars 1899 grâce aux serrements nouvellemen
+établis.
+Cette réserve permet l'exécution du remaniement d'une
+section importante de l'aqueduc de Braine-l'Alleud, travail qui
+pendant plusieurs mois doit priver le service d'une partie des
+
+— 387 —
+eaux provenant de cette dérivation. Les serrements de la forêt
+ont donc rempli, d'une façon fort heureuse, le programme que
+le service s'était proposé en en conseillant l'établissement.
+Le blocage des anciennes galeries longeant la lisière E s t du
+Bois a été terminé le 13 août 1899 et a donné les résultats
+attendus : en effet, le tronçon de galerie resté sous les établissements de la Cambre ne donne plus à ce jour qu'un volume
+quotidien de 240 mètres cubes, qui représente, à très peu de
+chose près, le débit de l'ancienne source.
+Ces eaux servent à l'alimentation des étangs d'Ixelles.
+Réservoir
+
+d'Etterbeek.
+
+Les travaux d'amélioration du régime du Maelbeek ayant été
+complètement achevés entre la place Jourdan et l a place SainteCroix, i l a été possible de replacer et de remettre en charge les
+conduites d'eau qui alimentent le réservoir d'Etterbeek et qui
+avaient dû être enlevées provisoirement pendant l'exécution des
+travaux d'égout.
+Lors de la mise hors service du réservoir d'Etterbeek, la
+visite de cet ouvrage d'art montra l'existence de nombreuses
+fissures.
+On mit donc à profit la suspension du service pour procéder à
+une réfection complète de l'intérieur de cet ouvrage d'art,
+parois verticales et radier. Ces travaux de réfection ont consisté en un revêtement en ciment et en béton, avec âme en
+treillis métallique. Ils ont été effectués en deux reprises : les
+parois verticales d'abord, le radier ensuite.
+En ce qui concerne les parois verticales, l'opération a été
+conduite de la manière suivante : Après dégradage du cimentage sain existant et décapage à vif fond des parties crevassées
+et mise à nu des maçonneries sous-jacentes au droit des crevasses, le treillis métallique a été mis en place et fixé. Ce treillis
+métallique consiste en métal déployé n° 1 à mailles de 10 m i l l i mètres, attaché au moyen de crampons sur des barres de fer
+rond, solidement fixées contre les murs et formant des cadres
+carrés de 64 centimètres de côté.
+L'enduit, composé en volume d'une partie de sable lavé du
+Rhin pour deux de ciment de Beersse, a été vigoureusement
+fouetté contre les parois, crépi et lissé de manière à former u n
+enduit, bien uni d'une épaisseur totale uniforme de 3 centimètres dont le métal occupe l'axe.
+En ce qui concerne le radier, un travail identique a été
+effectué. A cause de l'existence de crevasses dans le fond de la
+galerie comprise entre les murs de pourtour et la première
+
+— :ws —
+rangée de p i l i e r s , l'enduit et le béton existants ont été enlevés
+sur une profondeur de 6 centimètres et remplacés par du béton
+armé de même épaisseur et lissé à l a partie supérieure.
+L ' a r m a t u r e du béton consiste en barres de fer rond de 7 millimètres de diamètre, de 3 5 0 de longueur m i n i m u m , espacées
+dans les deux directions de 0 2 5 et reliées entre elles, à chaque
+croisement, par du fil de fer d'une épaisseur de 2 millimètres
+contournant chaque barre trois fois. Cette armature a été fixée
+et placée de manière à être distante de l a surface décapée
+de 3 centimètres.
+m
+
+m
+
+V e r s les murs de pourtour, les barres ont été rattachées au
+t r e i l l i s métallique d u p r e m i e r t r a v a i l effectué. L e béton mis en
+œuvre est composé de 0 8 5 0 de gravier de Bierghes, 0 400
+de poussier de B i e r g h e s malaxés avec 300 kilogrammes de
+ciment de Beerse. L e mélange a été fait au malaxeur. Les parties crevassées à grande profondeur ont été décapées à vif fond
+sur une profondeur de 0 4 0 et sur une largeur de 25 centimètres. L a r i g o l e ainsi formée a été ensuitî remplie de béton.
+m 3
+
+m3
+
+m
+
+P o u r b i p a r t i e centrale d u radier, i l a été procédé comme pour
+les parois verticales. V u le bon état relatif de ce radier, l'épaisseur du nouvel enduit a été réduite à 2 1/2 centimètres et la
+composition de c e l u i - c i a été faite moins riche : une partie en
+volume de sable lavé du R h i n pour une de ciment de Beersse.
+L e treillis métallique mis en œuvre est composé de fil de fer
+de 3 millimètres d'épaisseur pesant 1 1 / 2 kilogramme au
+mètre carré de t r e i l l i s .
+L e coût de l ' e n s e m b l e d e ces travaux se monte àfr. 44,778-20.
+L a première partie, parois verticales, a été exécutée par
+M . B l a t o n , de la Société anonyme C i m e n t s et Bétons, pour le
+p r i x de f r . 21,672-21 et la deuxième par M . Vasanne, pour le
+prix de fr. 23,105-99.
+P a r suite de l a r e n o n c i a t i o n aux eaux de la V i l l e des communes de K o e k e l b e r g e t de J e t t e - S a i n t - P i e r r e , plusieurs points
+hauts du t e r r i t o i r e antérieurement desservis ne devant plus
+être alimentés, le t r o p - p l e i n du réservoir d'Etterbeek a été mis
+à 4 mètres a u l i e u de 5. L e s choses ont été disposées de façon
+que, en cas de nécessité, l a d i s t r i b u t i o n ancienne puisse être
+f a c i l e m e n t rétablie. L e réservoir d ' E t t e r b e e k a été remis en
+service le 21 j u i n de cette année.
+
+Ouvrages desservant la zone moyenne
+
+inférieure.
+
+L e réservoir d'Ixelle? a reçu les soins d'entretien habituels.
+L a construction d'une clôture grillée du t e r r a i n du réservoir,
+le l o n g des rues de l ' E r m i t a g e et du couvent, est à l'étude et
+sera mise en adjudication i n c e s s a m m e n t .
+
+Système
+
+du
+
+Hain.
+
+Travaux effectués à B r a i n e - l ' A l l e u d , Ophain, Lillois, aux
+sources, embranchements, pompes publiques et privées, aqueducs et galeries de drainage.
+a) Remaniement de Vembranchement
+Theys à Ophain.
+— Substitution de 91 métrés de conduite en fonte de 0 1 5 de
+diamètre à une conduite en grès ; placement d'une vanne
+d'arrêt et d'une vanne de décharge; construction de deux
+regards-puisards ; creusement d'un puits de 1 mètre de
+diamètre à 6 2 0 de profondeur.
+in
+
+m
+
+b) Source Capel à Mesnil. — Etablissement d'une clôture
+autour de l a propriété de la Ville formant zone de protection.
+c) Collecteur de Witterzée. — Substitution d'une conduite
+en fonte de 0 4 0 à une section de la galerie en maçonnerie
+sur 217 mètres de longueur et construction de 4 regardspuisards.
+Ce travail sera continué cette année sur une longueurapproximative de 250 mètres.
+m
+
+d) Détournement
+de l'aqueduc d'amenée. — Etablissement de clôtures autour des propriétés de la V i l l e situées aux
+pavillons amont et aval du syphon de la Planche au Pêcheur ;
+placement d'un garde-corps à la tête aval du syphon du Paradis.
+e) Embranchements du Bois-Planté,
+Robiano-Mignolei.
+— Pose de 323 mètres de tuyaux en grès de 0 1 0 de diamètre
+pour assurer l'écoulement à la rivière des eaux superficielles.
+Substitution de 87 mètres de conduite en fonte de 0 2 0 de
+diamètre, à la dernière section en maçonnerie du branchement
+Mignolet; pose d'une vanne de 0 2 0 et construction de trois
+regards-puisards.
+Remblai d'environ 350 mètres cubes aux abords de la source
+Mignolet pour former une zone de protection et la mettre
+absolument à l'abri des infiltrations d'eaux pluviales.
+L'établissement du drain superficiel susdit permet de remplacer sans inconvénient, par une conduite étanche en fonte,
+la partie aval du drain Bois-Planté.
+m
+
+m
+
+m
+
+f) Réfection de l'aqueduc d'amenée des eaux de Lillois sur
+le territoire de Ophain, Bois-Seigneur-Isaac
+et
+Brainel'Alleud.— Ces importants travaux viennent d'être entames
+et seront entièrement terminés vers novembre prochain.
+Pour assurer, pendant leur exécution, l'écoulement des
+eaux nécessaires à l'alimentation de la Ville, deux syphons en
+tuyaux de U'"40 et deO 35 de diamètre, chacun d'une longueur
+m
+
+— 390 —
+approximative de 650 mètres, sont mis par le service à la disposition de l'entrepreneur.
+Dès que les travaux seront terminés, ces tuyaux serviront à
+l'appropriation des branchements dont il vient d'être question
+(branchement du Bois-Planté, collecteur de Witterzée) ainsi
+que pour remplacer la partie aval en maçonnerie du drain
+I lelgoùtle et le branchement des Petites-Brunes.
+g) Usine hydraulique
+et travaux d'entretien. — L'usine
+hydraulique a reçu les soins d'entretien habituels; il en est de
+même des pompes publiques, puits, branchements, aqueducs et
+puisards tant de Braine-l'AUeud que d'Ophain et Lillois.
+E n vue de l'exécution des travaux d'amont mentionnés
+ci-dessus à l'aqueduc d'amenée des eaux de Lillois et afin d'assurer d'une manière régulière le relèvement des eaux d'aval,
+les machines de l'usine ont été minutieusement visitées et
+d'importantes réparations ont été effectuées par mesure de
+sécurité.
+Fontaines
+
+publiques.
+
+Les installations motrices des fontaines Anspach, de Brouckere et du Parc ont reçu les soins d'entretien habituels.
+Afin d'assurer d'une manière régulière le fonctionnement
+desdites fontaines, i l a été fait l'acquisition d'un induit de
+rechange pour chacune des dynamos-électriques.
+Les travaux relatifs à l'aménagement des bassins et cascades
+du quartier N o r d - E s t , ainsi que la pose des canalisations
+diverses ont été effectués de manière à pouvoir assurer le fonctionnement provisoire de ces fontaines pendant les fêtes
+nationales et de quartier au moyen de l'alimentation naturelle.
+L a construction au pied de l'étang du square Marie-Louise
+et de la grotte-abri destinée à recevoir l'installation motrice,
+a été entamée le lendemain des fêtes pour être terminée trois
+mois après ; de telle sorte que les fontaines seront en é.atde
+fonctionner par réutilisation continue de l'eau de l'étang, vers
+la fin de novembre prochain.
+L'installation motrice est prévue de manière qu'en cas d'entente avec l'Etat, la Ville soit à même d'assurer, dans les mêmes
+conditions, l'alimentation du bassin du P a r c du Cinquantenaire,
+sans qu'il soit nécessaire d'apporter aux installations prévues
+aucune espèce de modification.
+Ouvrages desservant la zone moyenne
+
+supérieure.
+
+Le réservoir de 8,000 mètres de capacité, ainsi que l'usine
+hydraulique de la Cambre, ont reçu les soins d'entretien
+habituels.
+
+— 391 —
+La colonne spéciale de refoulement qui doit permettre, après
+l'installation, dans la salle des moteurs, de pompes à niveau, le
+refoulement des eaux du H a i n , dans le réservoir de 8,000 mètres
+cubes, a été complétée jusque contre l'usine.
+Ouvrages desservant la zone
+
+supérieure.
+
+Les châteaux d'eau ont reçu les soins d'entretien habituels.
+La reconstruction et l'aménagement de l'usine de Vivierd'Oye est en voie d'achèvement.
+Deux colonnes de refoulement de 0 4 0 de diamètre ont été
+établies le long du chemin du Vivier-d'Oye et de l'avenue de la
+Clairière : l'une de ces colonnes est en communication directe
+avec le réservoir de 8,000 mètres cubes, l'autre avec les
+châteaux d'eau.
+Cette double colonne met hors de service l'ancienne colonne
+de refoulement de 0 3 0 de diamètre qui passait par le Bois, et
+permet aux ouvriers, grâce à l'établissement d'un jeu de quatre
+vannes, dans l'enclos de l'usine, d'opérer toutes les manœuvres
+de changement de machines et de réservoirs, sans quitter leur
+poste.
+m
+
+m
+
+CONSOMMATION D'EAU.
+
+La consommation moyenne journalière pour la période d'été
+1899 (juillet, août, septembre) a été de 22,817 mètres cubes.
+Pour la période d'hiver 1899-1900 (octobre à mars inclus)
+elle a été de 20,618 mètres cubes.
+Et pour le commencement de l a période d'été (avril, m a i ,
+juin) elle a été de 22,616 mètres cubes.
+Volumes d'eau entrés dans les réservoirs.
+TOTAUX
+
+M
+
+O
+«
+W
+
+1899
+
+pour
+
+par
+
+par
+
+l'année.
+
+semestre.
+
+trimestre.
+
+7,892,521
+
+3,889,802
+4,002,719
+
+1900
+
+—
+
+3,883,900
+
+1,865,745
+2,024,057
+2,077,481
+1,925,238
+
+1,825,860
+2,058,040
+
+Trimestrielles .
+
+O
+
+Semestrielles.
+
+Moyennes journalières
+Annuelles.
+
+DQ
+
+20,503
+22,242
+21,682
+22,829
+21,992
+21,150
+21,372
+
+—
+
+21,315
+
+20,014
+22,615
+
+392
+
+§ 4, —
+Travaux
+
+a)
+
+—
+
+EDIFICES COMMUNAUX.
+
+de restauration
+
+et
+
+d'appropriation.
+
+l l ô l c l de Wille.
+a) Façade g o t h i q u e vers l a r u e de l a Tête-d'Or.
+L e s levés de plans et les s u r m o u l a g e s ont été complétés ; les
+p l a n s pour les différentes c o m m a n d e s de pierre se poursuivent.
+L e s p i e r r e s de G o b e r t a n g e sont commandées jusqu'à la haut e u r des dais s u r m o n t a n t les n i c h e s d u p r e m i e r étage; celles
+pour la réfection d u p a r e m e n t a u rez-de-ebaussée sont sur place
+et le t r a v a i l est entamé. L e s seize statues en pierre d'Echaillon,
+destinées à décorer cette façade, sont commandées.
+b) Façades extérieures x v m
+
+e
+
+siècle.
+
+L'établissement de m e n e a u x aux fenêtres des façades vers les
+rues C h a r l e s - B u i s , de l ' A m i g o et de la Tête-d'Or, a été ajourné
+par décision d u Collège d u 1 3 décembre 1898.
+c) T o u r (intérieur).
+L e s t r a v a u x de r e s t a u r a t i o n d u l o c a l , a u 2 étage de la Tour
+et destiné a u c a b i n e t de l ' A r c h i v i s t e , se poursuivent.
+e
+
+L e t r u m e a u c e n t r a l d e l à façade vers la G r a n d ' P l a c e a été
+f o r t e m e n t endommagé lors d u b o m b a r d e m e n t en 1695 : des
+travaux de c o n s o l i d a t i o n ont été jugés nécessaires et sont en
+cours d'exécution. L a r e s t a u r a t i o n complète de ce local sera
+terminée vers l a fin de 1 9 0 0 .
+d) Salle d u collège.
+D e u x tapisseries a n c i e n n e s décorent cette salle ; des cartons
+pour le complètement de cette décoration ont été exécutés par
+M . Houfstont.
+e) S a l l e
+
+de réception.
+
+L e c a b i n e t de l'échevin des travaux publics a été installé
+dans cette salle ; u n nouveau m o b i l i e r est en voie d'exécution.
+f)
+
+S a l l e de m i l i c e .
+
+M . Léon Frédéric a été chargé de l'exécution d'un grand
+panneau (les M i l i c i e n s ) destiné à décorer le m u r derrière
+l'estrade. C e tableau a été terminé et placé à la mi-août.
+
+p
+
+— 3 J3 —
+(
+
+g) Dégagements.
+Le médaillon en bronze de feu l'archiviste Alphonse Wauters
+et dont l'exécution a été confiée au statuaire De Vreese. a été
+placé dans le grand vestibule du premier étage, au pied de
+l'escalier conduisant aux archives. Les deux tableaux de Emile
+Wauters, ornant l'escalier des Lions à l'entrée de la salle
+gothique, ont été restaurés.
+liaison du R o i .
+a) Carillon.
+Les nouvelles cloches pour le carillon, présentées par
+M. Causard. fondeur, ont été rebutées ensuite du rapport de l a
+commission de réception.
+Comme conséquence, les travaux complémentaires pour la
+réinstallation du carillon ont été suspendus.
+b) Façade principale.
+Afin d'empêcher la foule d'envahir, en cas de fête, la galerie
+du rez-de-chaussée, une barrière démontable en métal
+« déployé » a été construite pour être placée sur la bordure du
+trottoir; celui-ci pourra ainsi être réservé aux invités de l a
+Ville.
+Église des $S.-Michel-et-Griidule.
+a) Le nouveau groupe de saint Michel en pierre d'Euville,
+commandé au statuaire Nocquet, a été placé sur l a balustrade
+du transept Nord.
+6) Une nouvelle statue, représentant sainte Gudule, et exécutée en pierre d'Euville par M . Delporte, statuaire, a été placée
+sur le socle central de la balustrade surmontant le porche Sud.
+c) L'enlèvement des pierres effritées, les surmoulages de
+statues et de moulures, les levés de plans, etc., en vue d'une
+restauration générale, ont été effectués à la façade principale
+entre les deux tours. Le même travail est en voie d'exécution
+aux diverses faces desdites tours.
+d) Le grillage enfer forgé, contournant le porche N o r d , a été
+repeint.
+e) Les travaux d'entretien ordinaire aux toitures ont été
+effectués et les tuyaux de la descente des eaux, garnis de c r a paudines.
+Eglise de i l -D.-dc-la-Chapelle.
+On procède au renouvellement des lucarnes et d'une partie
+des toitures de la façade principale.
+"
+
+26
+
+— 394 —
+L a réfection des chéneaux du magasin attenant à l'église a
+été effectuée.
+Le renouvellement partiel des marches de l'escalier en pierre
+de la Tour sera entamé prochainement.
+Les travaux d'entretien ordinaire sont en cours et les
+tuyaux de la descente des eaux ont été garnis de crapaudines.
+Eglise des SS.-Jean-et-Etieaiie-aiix-Miiiimes.
+Le renouvellement des chéneaux de l'abside, en pierre de
+Gobertange avec garniture en plomb, ainsi que celui des têtes
+de fenêtres et des vitrages aux façades latérales vont être
+entamés.
+Le rejointoiement des parements en briques se continue à la
+façade latérale N o r d .
+L'entretien ordinaire des toitures s'effectue et les tuyaux
+de la descente des eaux pluviales ont été garnis de crapaudines.
+Eglise de Saintc-CatherÎHe
+Les chéneaux des toitures ont été mis en ordre et les tuyaux
+de descente pourvus de crapaudines par les soins de la Fabrique.
+Eglise de H.-D.-de-Boii-Seeours.
+Le devis et les plans pour les travaux de restauration à l'intérieur de l'église, à la façade principale et aux toitures, arêtiers,
+lucarnes, etc., seront soumis sous peu au Collège, en vue delà
+demande de subside à l'Etat et à la Province.
+Eglise de Saint-.ïaeq«es-SHr-Caudenberg.
+Il a été signalé à la Fabrique de l'église que des réparations
+sont nécessaires à Ja façade principale.
+Eglise de Finisterre.
+Le dérochage de l a façade principale et la restauration du
+parement en pierre ont été exécutés; les toitures mises en
+ordre et les tuyaux de descente pourvus de crapaudines, le tout
+par les soins de la Fabrique.
+Eglise de Saiiit-Jeapi-Baplisle-en-Béguinage
+Les toitures ont été remises en bon état par les soins de la
+Fabrique ; des solins en plomb ont été établis et les tuyaux de
+descente sont pourvus de crapaudines.
+
+Pour la restauration intérieure, divers échantillons pour la
+réfection des parements ont été exécutés.
+Tour de l'ancienne église de Sainte-Catherine.
+Des réparations importantes ont été effectuées aux parements
+intérieurs et deux poutres du gitage supportant le beffroi des
+cloches ont été remplacées pour cause de vétusté.
+Un devis sommaire, s'élevant à 130,000 francs, pour la restauration complète de la tour, a été établi. I l sera élevé u n
+échafaudage à l'extérieur de l a tour, afin d'exécuter les relevés
+et les sondages nécessaires, en vue de dresser le projet de restauration
+liaisons Grand'Place.
+
+Restauration.
+a) Maison « des Boulangers » — Grand'Place, n 1 et 2.
+Les travaux de reconstruction de tout l'immeuble ont été
+mis en adjudication publique le 20 juillet dernier.
+Les travaux de sculpture conliésàMM. Rousseau, DeRudder,
+De Haen et Lagaë, sont terminés ; i l en est de même du
+modèle du motif central dû à ce dernier statuaire et à exécuter
+en pierre sur place au 2 étage de l a façade.
+Le modèle de la « Renommée » par M . Dubois et devant
+couronner le dôme est également terminé.
+o s
+
+e
+
+b) Maison « Le Cvgne » , Grand'Place, n" 9.
+Les travaux de dérochage de la façade, de moulages et de
+levés de plans sont terminés. Le devis sera prochainement
+soumis au Collège. Les plans sont en voie d'achèvement et les
+lia vaux pourront être entamés au printemps prochain et t e r minés dans le courant de l'année.
+c) Maison « des Brasseurs » , Grand'Place, n° 10.
+Les travaux de restauration de la façade sont près d'être
+terminés.
+La statue équestre (en zinc coulé) représentant le duc Charles
+de Lorraine et couronnant la façade a été refaite en bronze et
+sera placée prochainement.
+d) Maison « du Roi de Bavière » , rue des Chapeliers, n
+
+0 9
+
+2 et 4.
+
+La partie supérieure du gable couronnant la façade sera
+démolie pour cause de vétusté.
+Le relevé de la façade sera commencé sous peu*
+
+Les cinq bustes, œuvre de M . Gilis, destinés à orner la façade
+au premier étage, sont terminés.
+c) Maison « des Bateliers » , Grand'Place, n 10.
+0
+
+Le devis a été soumis au Collège, qui a décidé de commencer
+les travaux au printemps prochain, afin de les terminer en une
+campagne.
+Les plans sont en voie d'achèvement.
+Les modèles des statues par M . Braecke ainsi que ceux des
+« Tritons » par M . De Vreese sont terminés.
+Maison « l'Etoile » , Grand'Place, n° 8.
+Plaque commémorative en l'honneur de M . le bourgmestre
+Charles Buis.
+Cette plaque en bronze, œuvre de M . Rousseau, placée sous
+le péristyle de la maison « l'Etoile » , a été inaugurée en
+décembre 1899.
+Nicole primaire rue de Ifiollchcck.
+
+Les plans, métré et cahier des charges pour la mise en
+adjudication publique des travaux seront terminés à lafinde
+l'année.
+Monument Frère-Orban, place «le la Société-Civile.
+
+Le monument, œuvre de M . Samuel, statuaire, a été
+inauguré le 21 juillet dernier.
+La Ville s'est chargée de l'exécution des travaux d'entourage
+avec grilles.
+B. TRAVAUX EXTRAORDINAIRES.
+Restauration «le l'église de M.-D-au-Sablon.
+
+Les travaux faisant l'objet de la seconde entreprise sont
+terminés.
+Ces travaux comprenaient la restauration de la partie
+centrale de la façade principale, rue des Sablons et de la travée
+de chœur à laquelle est adossée le sacrarium.
+La troisième entreprise comprendra : la restauration etleparachèvementdu Sacrarium, du chœur et de son abside, des travées
+Est du transept Sud, des deux travées terminant les bas-i ôtés
+vers la façade principale, la reconstruction des sacristies et
+l'installation d'un système de chauffage dans l'église et dans les
+sacristies.
+
+— 397 —
+Bassin de natation.
+Cet établissement a été livré à sa destination le 15 mai
+dernier.
+Construction d'un groupe d'écoles au quartier
+Mord-Est.
+Nous avons mis à l'étude un projet de construction, au
+quartier Nord-Est, d'un groupe de bâtiments, comprenant une
+école primaire de filles pour 360 élèves, une école primaire de
+garçons pour 360 élèves et un jardin d'enfants pour 120 élèves.
+Ces bâtiments seraient érigés sur le bloc de terrain compris
+entre les rues Franklin, Véronèse et Le Corrège, actuellement
+occupé par le « Cap Nord » .
+Ferme des boues.
+Les bâtiments actuels de la Ferme des boues au quai de la
+Voirie étant appelés à disparaître pour permettre à la Société
+des Installations maritimes d'exécuter ses travaux, le Collège
+avait décidé, vul'urgence, d'ériger des constructions provisoires,
+afin de ne pas interrompre le service très important de la Ferme
+des boues.
+L'adjudication dont i l s'agit a eu lieu le 28 novembre 1899.
+Les travaux avaient étéadjugés pourlasomme de fr. 114,962 38.
+Mais par suite du retard apporté par l'Etat à la remise des
+terrains, aucune suite n'a pu être donnée à cette adjudication
+et le contrat fut résilié.
+L'Etat ayant enfin rempli ses obligations, le Conseil a
+approuvé la construction, à front des quais de Willebroeck et
+de la Voirie, des bâtiments définitifs de la Ferme des boues et
+l'érection d'une usine d'incinération des immondices. Ces
+travaux seront mis prochainement en adjudication.
+Caserne des Pompiers.
+Travaux divers.
+Le Collège fait, en ce moment, étudier le moyen d'annexer à
+la caserne des pompiers une partie de l'école n° 7, place du
+Jeu-de-Balle, afin d'affecter, après appropriation, les nouveaux
+locaux au logement de la troupe.
+La reconstruction de l'écurie a été également reconnue nécessaire ainsi que l'installation d'une chambre de bains.
+Les travaux pourront être commencés prochainement.
+
+— 398 —
+E c o l e professionnelle, m e du Poinçon.
+L ' i n s t a l l a t i o n des w a t e r - c l o s e t s , égouts, etc.. de l'école pro
+f e s s i o n n e l l e , r u e d u P o i n ç o n , étant des plus défectueuses le
+C o l l è g e a décidé d'exécuter dans cet établissement des travaux importants d'assainissement.
+Ces travaux comprennent notamment :
+L a démolition des s i x w a t e r - c l o s e t s actuels et leur recons t r u c t i o n a u n o m b r e de h u i t dans l a cour ; une installation
+c o m p l è t e de l a v a t o r i e s e n grès a n g l a i s émaillé, dans l'ancien
+l o c a l des w a t e r - c l o s e t s ; l'établissement d'un réseau d'égouts
+e n grès a n g l a i s avec c h a m b r e s de v i s i t e .
+C e s t r a v a u x s e r o n t exécutés p e n d a n t les grandes vacances
+prochaines.
+Complément de l'école de menuiserie.
+U n e c o m m i s s i o n c o m p o s é e de spécialistes a été nommée afin
+d ' e x a m i n e r l ' a v a n t - p r o j e t dressé e n vue de compléter l'école de
+m e n u i s e r i e d o n t l a première p a r t i e a été m i s e en façade à front
+de l a r u e J o s e p h - S t e v e n s .
+C e t a v a n t p r o j e t a été approuvé, m o y e n n a n t quelques modifications.
+L e s études définitives se p o u r s u i v e n t .
+R e c o n s t r u c t i o n de l'école n o r m a l e r u e des 1 isitandines
+et construction d'une école p r i m a i r e même rue.
+L e Collège a décidé l a r e c o n s t r u c t i o n de l'école normale, rue
+des V i s i t a n d i n e s . et l'érection d'une école destinée à remplacer
+les écoles p r i m a i r e s 2 et 4 6 .
+L a réalisation de ce p r o j e t est liée a u p r o j e t d'élargissement
+de l a p a r t i e N o r d de l a r u e des V i s i t a n d i n e s , soumis au Conseil
+c o m m u n a l le 9 m a i 1 8 9 2 , et entraînera l ' e x p r o p r i a t i o n de cert a i n s i m m e u b l e s sis r u e s B l a e s , des V i s i t a n d i n e s et Notre-Seigneur.
+C e s e x p r o p r i a t i o n s sont en c o u r s et les études préliminaires
+sont c o m m e n c é e s .
+C o n s t r u c t i o n d'habitations pour les gardiens du Cimetière
+de l a V i l l e , à E v e r e
+L e Collège a y a n t r e c o n n u l a nécessité de renforcer la surveill a n c e n o c t u r n e d u Cimetière de l a V i l l e , à E v e r e . a décidé que
+t o u s l e s g a r d i e n s d e v a i e n t a v o i r l e u r s h a b i t a t i o n s dans le voisin a g e d u c h a m p de r e p o s .
+
+
